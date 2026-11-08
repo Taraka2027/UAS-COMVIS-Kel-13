@@ -1,0 +1,9 @@
+input,metode_uts,model,epoch,IoU_uji,Dice_uji,IoU>=0.5,n_uji,parameter
+Contrast Stretching,Canny,UNet,60,0.6995,0.8067,57,65,1945233
+Contrast Stretching,Canny,DeepLabV3,60,0.6634,0.7862,58,65,2259921
+Contrast Stretching,Laplacian,UNet,60,0.7181,0.829,59,65,1945233
+Contrast Stretching,Laplacian,DeepLabV3,60,0.6767,0.799,61,65,2259921
+Contrast Stretching + Median,Canny,UNet,60,0.7522,0.8484,61,65,1945233
+Contrast Stretching + Median,Canny,DeepLabV3,60,0.7361,0.8379,61,65,2259921
+Contrast Stretching + Median,Laplacian,UNet,60,0.7034,0.8156,59,65,1945233
+Contrast Stretching + Median,Laplacian,DeepLabV3,60,0.6721,0.7964,61,65,2259921

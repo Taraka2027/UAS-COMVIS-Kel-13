@@ -1,0 +1,5 @@
+input,model,epoch,IoU_uji,Dice_uji,IoU>=0.5,n_uji,parameter
+Contrast Stretching,UNet,30,0.2688,0.3654,18,65,1945233
+Contrast Stretching,DeepLabV3,30,0.5732,0.7032,47,65,2259921
+Contrast Stretching + Median,UNet,30,0.344,0.4705,17,65,1945233
+Contrast Stretching + Median,DeepLabV3,30,0.5638,0.6981,44,65,2259921

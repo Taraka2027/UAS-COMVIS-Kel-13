@@ -1,0 +1,1309 @@
+input,metode,citra,subset,IoU,Dice
+Contrast Stretching,Canny,horse001,latih,0.0806,0.1492
+Contrast Stretching,Laplacian,horse001,latih,0.1429,0.2501
+Contrast Stretching,Canny,horse002,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse002,latih,0.1373,0.2414
+Contrast Stretching,Canny,horse003,latih,0.2812,0.439
+Contrast Stretching,Laplacian,horse003,latih,0.3184,0.483
+Contrast Stretching,Canny,horse004,uji,0.4336,0.6049
+Contrast Stretching,Laplacian,horse004,uji,0.6007,0.7506
+Contrast Stretching,Canny,horse005,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse005,latih,0.1932,0.3238
+Contrast Stretching,Canny,horse006,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse006,uji,0.1891,0.318
+Contrast Stretching,Canny,horse007,latih,0.4656,0.6354
+Contrast Stretching,Laplacian,horse007,latih,0.0082,0.0162
+Contrast Stretching,Canny,horse008,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse008,uji,0.2763,0.4329
+Contrast Stretching,Canny,horse009,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse009,latih,0.2057,0.3412
+Contrast Stretching,Canny,horse010,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse010,uji,0.1759,0.2992
+Contrast Stretching,Canny,horse011,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse011,latih,0.086,0.1585
+Contrast Stretching,Canny,horse012,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse012,latih,0.2951,0.4558
+Contrast Stretching,Canny,horse013,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse013,latih,0.1899,0.3192
+Contrast Stretching,Canny,horse014,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse014,latih,0.2552,0.4066
+Contrast Stretching,Canny,horse015,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse015,latih,0.1228,0.2188
+Contrast Stretching,Canny,horse016,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse016,latih,0.5399,0.7012
+Contrast Stretching,Canny,horse017,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse017,uji,0.3842,0.5552
+Contrast Stretching,Canny,horse018,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse018,latih,0.1883,0.317
+Contrast Stretching,Canny,horse019,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse019,latih,0.2231,0.3648
+Contrast Stretching,Canny,horse020,latih,0.5076,0.6734
+Contrast Stretching,Laplacian,horse020,latih,0.158,0.273
+Contrast Stretching,Canny,horse021,latih,0.2245,0.3667
+Contrast Stretching,Laplacian,horse021,latih,0.6003,0.7503
+Contrast Stretching,Canny,horse022,latih,0.1573,0.2719
+Contrast Stretching,Laplacian,horse022,latih,0.0824,0.1523
+Contrast Stretching,Canny,horse023,latih,0.3995,0.5709
+Contrast Stretching,Laplacian,horse023,latih,0.6148,0.7614
+Contrast Stretching,Canny,horse024,latih,0.463,0.6329
+Contrast Stretching,Laplacian,horse024,latih,0.0559,0.1059
+Contrast Stretching,Canny,horse025,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse025,latih,0.1555,0.2692
+Contrast Stretching,Canny,horse026,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse026,uji,0.1306,0.231
+Contrast Stretching,Canny,horse027,latih,0.0356,0.0687
+Contrast Stretching,Laplacian,horse027,latih,0.1372,0.2413
+Contrast Stretching,Canny,horse028,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse028,latih,0.1932,0.3238
+Contrast Stretching,Canny,horse029,latih,0.1794,0.3042
+Contrast Stretching,Laplacian,horse029,latih,0.0,0.0
+Contrast Stretching,Canny,horse030,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse030,latih,0.0773,0.1435
+Contrast Stretching,Canny,horse031,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse031,latih,0.2336,0.3788
+Contrast Stretching,Canny,horse032,latih,0.4728,0.642
+Contrast Stretching,Laplacian,horse032,latih,0.6205,0.7658
+Contrast Stretching,Canny,horse033,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse033,latih,0.0397,0.0764
+Contrast Stretching,Canny,horse034,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse034,uji,0.5741,0.7295
+Contrast Stretching,Canny,horse035,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse035,latih,0.1681,0.2878
+Contrast Stretching,Canny,horse036,latih,0.2467,0.3957
+Contrast Stretching,Laplacian,horse036,latih,0.2886,0.4479
+Contrast Stretching,Canny,horse037,latih,0.6248,0.7691
+Contrast Stretching,Laplacian,horse037,latih,0.3112,0.4747
+Contrast Stretching,Canny,horse038,latih,0.2019,0.336
+Contrast Stretching,Laplacian,horse038,latih,0.1987,0.3315
+Contrast Stretching,Canny,horse039,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse039,latih,0.2727,0.4286
+Contrast Stretching,Canny,horse040,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse040,latih,0.1652,0.2836
+Contrast Stretching,Canny,horse041,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse041,latih,0.1407,0.2467
+Contrast Stretching,Canny,horse042,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse042,latih,0.0553,0.1049
+Contrast Stretching,Canny,horse043,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse043,uji,0.1426,0.2496
+Contrast Stretching,Canny,horse044,latih,0.1438,0.2515
+Contrast Stretching,Laplacian,horse044,latih,0.0,0.0
+Contrast Stretching,Canny,horse045,latih,0.2804,0.438
+Contrast Stretching,Laplacian,horse045,latih,0.1429,0.25
+Contrast Stretching,Canny,horse046,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse046,uji,0.1429,0.2501
+Contrast Stretching,Canny,horse047,uji,0.5641,0.7213
+Contrast Stretching,Laplacian,horse047,uji,0.1391,0.2442
+Contrast Stretching,Canny,horse048,latih,0.5312,0.6938
+Contrast Stretching,Laplacian,horse048,latih,0.0,0.0
+Contrast Stretching,Canny,horse049,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse049,latih,0.2627,0.416
+Contrast Stretching,Canny,horse050,latih,0.1078,0.1946
+Contrast Stretching,Laplacian,horse050,latih,0.128,0.227
+Contrast Stretching,Canny,horse051,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse051,latih,0.0253,0.0494
+Contrast Stretching,Canny,horse052,latih,0.375,0.5455
+Contrast Stretching,Laplacian,horse052,latih,0.2007,0.3342
+Contrast Stretching,Canny,horse053,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse053,latih,0.1415,0.248
+Contrast Stretching,Canny,horse054,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse054,latih,0.2371,0.3834
+Contrast Stretching,Canny,horse055,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse055,latih,0.1574,0.272
+Contrast Stretching,Canny,horse056,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse056,uji,0.0868,0.1597
+Contrast Stretching,Canny,horse057,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse057,latih,0.0706,0.1319
+Contrast Stretching,Canny,horse058,uji,0.4255,0.5969
+Contrast Stretching,Laplacian,horse058,uji,0.1995,0.3326
+Contrast Stretching,Canny,horse059,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse059,latih,0.1151,0.2064
+Contrast Stretching,Canny,horse060,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse060,latih,0.11,0.1981
+Contrast Stretching,Canny,horse061,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse061,uji,0.2094,0.3463
+Contrast Stretching,Canny,horse062,latih,0.3886,0.5597
+Contrast Stretching,Laplacian,horse062,latih,0.224,0.3661
+Contrast Stretching,Canny,horse063,latih,0.2811,0.4389
+Contrast Stretching,Laplacian,horse063,latih,0.104,0.1885
+Contrast Stretching,Canny,horse064,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse064,uji,0.1122,0.2017
+Contrast Stretching,Canny,horse065,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse065,latih,0.1386,0.2434
+Contrast Stretching,Canny,horse066,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse066,latih,0.1696,0.2901
+Contrast Stretching,Canny,horse067,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse067,latih,0.1132,0.2034
+Contrast Stretching,Canny,horse068,latih,0.2271,0.3702
+Contrast Stretching,Laplacian,horse068,latih,0.6459,0.7848
+Contrast Stretching,Canny,horse069,latih,0.4712,0.6406
+Contrast Stretching,Laplacian,horse069,latih,0.4943,0.6616
+Contrast Stretching,Canny,horse070,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse070,latih,0.1384,0.2431
+Contrast Stretching,Canny,horse071,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse071,latih,0.1034,0.1875
+Contrast Stretching,Canny,horse072,latih,0.0737,0.1373
+Contrast Stretching,Laplacian,horse072,latih,0.0106,0.021
+Contrast Stretching,Canny,horse073,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse073,latih,0.0,0.0
+Contrast Stretching,Canny,horse074,uji,0.0675,0.1264
+Contrast Stretching,Laplacian,horse074,uji,0.1196,0.2137
+Contrast Stretching,Canny,horse075,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse075,latih,0.0334,0.0647
+Contrast Stretching,Canny,horse076,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse076,latih,0.1122,0.2018
+Contrast Stretching,Canny,horse077,uji,0.3948,0.5661
+Contrast Stretching,Laplacian,horse077,uji,0.2004,0.3339
+Contrast Stretching,Canny,horse078,uji,0.5624,0.7199
+Contrast Stretching,Laplacian,horse078,uji,0.1675,0.287
+Contrast Stretching,Canny,horse079,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse079,uji,0.3333,0.4999
+Contrast Stretching,Canny,horse080,latih,0.2335,0.3786
+Contrast Stretching,Laplacian,horse080,latih,0.3827,0.5536
+Contrast Stretching,Canny,horse081,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse081,latih,0.4043,0.5758
+Contrast Stretching,Canny,horse082,latih,0.3362,0.5032
+Contrast Stretching,Laplacian,horse082,latih,0.3014,0.4632
+Contrast Stretching,Canny,horse083,uji,0.093,0.1702
+Contrast Stretching,Laplacian,horse083,uji,0.6795,0.8092
+Contrast Stretching,Canny,horse084,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse084,latih,0.483,0.6514
+Contrast Stretching,Canny,horse085,uji,0.2391,0.3859
+Contrast Stretching,Laplacian,horse085,uji,0.198,0.3305
+Contrast Stretching,Canny,horse086,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse086,latih,0.0489,0.0933
+Contrast Stretching,Canny,horse087,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse087,latih,0.1519,0.2638
+Contrast Stretching,Canny,horse088,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse088,latih,0.0259,0.0505
+Contrast Stretching,Canny,horse089,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse089,latih,0.2234,0.3653
+Contrast Stretching,Canny,horse090,latih,0.0593,0.1119
+Contrast Stretching,Laplacian,horse090,latih,0.1496,0.2603
+Contrast Stretching,Canny,horse091,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse091,uji,0.0,0.0
+Contrast Stretching,Canny,horse092,latih,0.1684,0.2882
+Contrast Stretching,Laplacian,horse092,latih,0.0652,0.1224
+Contrast Stretching,Canny,horse093,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse093,latih,0.1052,0.1904
+Contrast Stretching,Canny,horse094,uji,0.5117,0.677
+Contrast Stretching,Laplacian,horse094,uji,0.5244,0.688
+Contrast Stretching,Canny,horse095,uji,0.2741,0.4303
+Contrast Stretching,Laplacian,horse095,uji,0.1341,0.2365
+Contrast Stretching,Canny,horse096,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse096,latih,0.1758,0.299
+Contrast Stretching,Canny,horse097,latih,0.2907,0.4504
+Contrast Stretching,Laplacian,horse097,latih,0.0645,0.1213
+Contrast Stretching,Canny,horse098,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse098,latih,0.1837,0.3104
+Contrast Stretching,Canny,horse099,latih,0.5498,0.7095
+Contrast Stretching,Laplacian,horse099,latih,0.5303,0.6931
+Contrast Stretching,Canny,horse100,latih,0.4033,0.5748
+Contrast Stretching,Laplacian,horse100,latih,0.2044,0.3394
+Contrast Stretching,Canny,horse101,latih,0.4432,0.6142
+Contrast Stretching,Laplacian,horse101,latih,0.0661,0.124
+Contrast Stretching,Canny,horse102,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse102,uji,0.244,0.3922
+Contrast Stretching,Canny,horse103,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse103,latih,0.0,0.0
+Contrast Stretching,Canny,horse104,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse104,latih,0.081,0.1498
+Contrast Stretching,Canny,horse105,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse105,latih,0.2746,0.4309
+Contrast Stretching,Canny,horse106,latih,0.4464,0.6172
+Contrast Stretching,Laplacian,horse106,latih,0.2204,0.3612
+Contrast Stretching,Canny,horse107,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse107,latih,0.0528,0.1002
+Contrast Stretching,Canny,horse108,latih,0.2814,0.4392
+Contrast Stretching,Laplacian,horse108,latih,0.1077,0.1945
+Contrast Stretching,Canny,horse109,latih,0.9078,0.9517
+Contrast Stretching,Laplacian,horse109,latih,0.1832,0.3096
+Contrast Stretching,Canny,horse110,latih,0.0783,0.1451
+Contrast Stretching,Laplacian,horse110,latih,0.2558,0.4074
+Contrast Stretching,Canny,horse111,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse111,uji,0.0,0.0
+Contrast Stretching,Canny,horse112,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse112,latih,0.1022,0.1854
+Contrast Stretching,Canny,horse113,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse113,latih,0.1155,0.2071
+Contrast Stretching,Canny,horse114,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse114,latih,0.5071,0.6729
+Contrast Stretching,Canny,horse115,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse115,uji,0.6736,0.805
+Contrast Stretching,Canny,horse116,latih,0.2814,0.4392
+Contrast Stretching,Laplacian,horse116,latih,0.1538,0.2666
+Contrast Stretching,Canny,horse117,latih,0.2748,0.4311
+Contrast Stretching,Laplacian,horse117,latih,0.3689,0.539
+Contrast Stretching,Canny,horse118,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse118,latih,0.3747,0.5451
+Contrast Stretching,Canny,horse119,uji,0.1101,0.1983
+Contrast Stretching,Laplacian,horse119,uji,0.1932,0.3238
+Contrast Stretching,Canny,horse120,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse120,uji,0.0,0.0
+Contrast Stretching,Canny,horse121,latih,0.3908,0.562
+Contrast Stretching,Laplacian,horse121,latih,0.1591,0.2745
+Contrast Stretching,Canny,horse122,latih,0.0994,0.1808
+Contrast Stretching,Laplacian,horse122,latih,0.2345,0.3799
+Contrast Stretching,Canny,horse123,latih,0.3043,0.4666
+Contrast Stretching,Laplacian,horse123,latih,0.0633,0.119
+Contrast Stretching,Canny,horse124,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse124,latih,0.1233,0.2195
+Contrast Stretching,Canny,horse125,uji,0.0202,0.0396
+Contrast Stretching,Laplacian,horse125,uji,0.2047,0.3399
+Contrast Stretching,Canny,horse126,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse126,latih,0.0203,0.0398
+Contrast Stretching,Canny,horse127,latih,0.5363,0.6982
+Contrast Stretching,Laplacian,horse127,latih,0.3764,0.5469
+Contrast Stretching,Canny,horse128,latih,0.0384,0.074
+Contrast Stretching,Laplacian,horse128,latih,0.1799,0.305
+Contrast Stretching,Canny,horse129,latih,0.5386,0.7001
+Contrast Stretching,Laplacian,horse129,latih,0.1164,0.2086
+Contrast Stretching,Canny,horse130,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse130,latih,0.0695,0.1301
+Contrast Stretching,Canny,horse131,latih,0.0917,0.168
+Contrast Stretching,Laplacian,horse131,latih,0.0877,0.1613
+Contrast Stretching,Canny,horse132,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse132,latih,0.1026,0.1862
+Contrast Stretching,Canny,horse133,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse133,latih,0.3374,0.5046
+Contrast Stretching,Canny,horse134,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse134,latih,0.3678,0.5378
+Contrast Stretching,Canny,horse135,latih,0.3741,0.5445
+Contrast Stretching,Laplacian,horse135,latih,0.2031,0.3376
+Contrast Stretching,Canny,horse136,latih,0.2651,0.4191
+Contrast Stretching,Laplacian,horse136,latih,0.2442,0.3925
+Contrast Stretching,Canny,horse137,latih,0.6206,0.7659
+Contrast Stretching,Laplacian,horse137,latih,0.268,0.4227
+Contrast Stretching,Canny,horse138,latih,0.2951,0.4557
+Contrast Stretching,Laplacian,horse138,latih,0.2445,0.3929
+Contrast Stretching,Canny,horse139,latih,0.3142,0.4781
+Contrast Stretching,Laplacian,horse139,latih,0.1604,0.2765
+Contrast Stretching,Canny,horse140,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse140,uji,0.35,0.5185
+Contrast Stretching,Canny,horse141,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse141,latih,0.0934,0.1708
+Contrast Stretching,Canny,horse142,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse142,latih,0.0423,0.0811
+Contrast Stretching,Canny,horse143,latih,0.1765,0.3001
+Contrast Stretching,Laplacian,horse143,latih,0.0455,0.087
+Contrast Stretching,Canny,horse144,latih,0.4266,0.5981
+Contrast Stretching,Laplacian,horse144,latih,0.1267,0.2249
+Contrast Stretching,Canny,horse145,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse145,uji,0.0847,0.1562
+Contrast Stretching,Canny,horse146,latih,0.4333,0.6046
+Contrast Stretching,Laplacian,horse146,latih,0.5934,0.7448
+Contrast Stretching,Canny,horse147,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse147,uji,0.0565,0.1069
+Contrast Stretching,Canny,horse148,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse148,latih,0.1473,0.2567
+Contrast Stretching,Canny,horse149,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse149,latih,0.4151,0.5867
+Contrast Stretching,Canny,horse150,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse150,latih,0.2206,0.3614
+Contrast Stretching,Canny,horse151,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse151,latih,0.3501,0.5186
+Contrast Stretching,Canny,horse152,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse152,latih,0.3244,0.4899
+Contrast Stretching,Canny,horse153,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse153,latih,0.0475,0.0908
+Contrast Stretching,Canny,horse154,uji,0.3033,0.4655
+Contrast Stretching,Laplacian,horse154,uji,0.4284,0.5999
+Contrast Stretching,Canny,horse155,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse155,latih,0.0449,0.0859
+Contrast Stretching,Canny,horse156,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse156,latih,0.2807,0.4384
+Contrast Stretching,Canny,horse157,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse157,latih,0.1036,0.1877
+Contrast Stretching,Canny,horse158,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse158,latih,0.2066,0.3424
+Contrast Stretching,Canny,horse159,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse159,latih,0.1757,0.2989
+Contrast Stretching,Canny,horse160,latih,0.2023,0.3365
+Contrast Stretching,Laplacian,horse160,latih,0.6396,0.7802
+Contrast Stretching,Canny,horse161,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse161,latih,0.1234,0.2197
+Contrast Stretching,Canny,horse162,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse162,latih,0.4919,0.6594
+Contrast Stretching,Canny,horse163,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse163,latih,0.1691,0.2893
+Contrast Stretching,Canny,horse164,uji,0.3442,0.5121
+Contrast Stretching,Laplacian,horse164,uji,0.1469,0.2561
+Contrast Stretching,Canny,horse165,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse165,latih,0.1554,0.269
+Contrast Stretching,Canny,horse166,latih,0.3912,0.5624
+Contrast Stretching,Laplacian,horse166,latih,0.3447,0.5127
+Contrast Stretching,Canny,horse167,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse167,latih,0.1397,0.2451
+Contrast Stretching,Canny,horse168,uji,0.5113,0.6767
+Contrast Stretching,Laplacian,horse168,uji,0.1805,0.3058
+Contrast Stretching,Canny,horse169,latih,0.1118,0.2011
+Contrast Stretching,Laplacian,horse169,latih,0.5063,0.6722
+Contrast Stretching,Canny,horse170,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse170,latih,0.4802,0.6488
+Contrast Stretching,Canny,horse171,latih,0.2224,0.3639
+Contrast Stretching,Laplacian,horse171,latih,0.3751,0.5455
+Contrast Stretching,Canny,horse172,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse172,latih,0.3005,0.4621
+Contrast Stretching,Canny,horse173,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse173,latih,0.0968,0.1764
+Contrast Stretching,Canny,horse174,uji,0.5952,0.7462
+Contrast Stretching,Laplacian,horse174,uji,0.1742,0.2966
+Contrast Stretching,Canny,horse175,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse175,latih,0.227,0.37
+Contrast Stretching,Canny,horse176,uji,0.0913,0.1674
+Contrast Stretching,Laplacian,horse176,uji,0.2235,0.3653
+Contrast Stretching,Canny,horse177,uji,0.13,0.23
+Contrast Stretching,Laplacian,horse177,uji,0.0858,0.1581
+Contrast Stretching,Canny,horse178,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse178,uji,0.1717,0.2931
+Contrast Stretching,Canny,horse179,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse179,latih,0.1042,0.1887
+Contrast Stretching,Canny,horse180,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse180,uji,0.7607,0.8641
+Contrast Stretching,Canny,horse181,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse181,latih,0.2665,0.4209
+Contrast Stretching,Canny,horse182,uji,0.7938,0.885
+Contrast Stretching,Laplacian,horse182,uji,0.562,0.7196
+Contrast Stretching,Canny,horse183,latih,0.3032,0.4653
+Contrast Stretching,Laplacian,horse183,latih,0.2783,0.4354
+Contrast Stretching,Canny,horse184,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse184,latih,0.0882,0.1621
+Contrast Stretching,Canny,horse185,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse185,latih,0.0,0.0
+Contrast Stretching,Canny,horse186,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse186,latih,0.238,0.3845
+Contrast Stretching,Canny,horse187,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse187,latih,0.0,0.0
+Contrast Stretching,Canny,horse188,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse188,latih,0.3549,0.5239
+Contrast Stretching,Canny,horse189,latih,0.5203,0.6844
+Contrast Stretching,Laplacian,horse189,latih,0.1653,0.2837
+Contrast Stretching,Canny,horse190,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse190,latih,0.4679,0.6375
+Contrast Stretching,Canny,horse191,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse191,latih,0.393,0.5643
+Contrast Stretching,Canny,horse192,latih,0.3091,0.4722
+Contrast Stretching,Laplacian,horse192,latih,0.1238,0.2203
+Contrast Stretching,Canny,horse193,latih,0.7034,0.8258
+Contrast Stretching,Laplacian,horse193,latih,0.1462,0.255
+Contrast Stretching,Canny,horse194,latih,0.478,0.6469
+Contrast Stretching,Laplacian,horse194,latih,0.0802,0.1485
+Contrast Stretching,Canny,horse195,latih,0.274,0.4302
+Contrast Stretching,Laplacian,horse195,latih,0.2584,0.4107
+Contrast Stretching,Canny,horse196,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse196,latih,0.0097,0.0192
+Contrast Stretching,Canny,horse197,latih,0.4676,0.6373
+Contrast Stretching,Laplacian,horse197,latih,0.2278,0.371
+Contrast Stretching,Canny,horse198,latih,0.1082,0.1953
+Contrast Stretching,Laplacian,horse198,latih,0.1909,0.3206
+Contrast Stretching,Canny,horse199,latih,0.5903,0.7424
+Contrast Stretching,Laplacian,horse199,latih,0.5613,0.719
+Contrast Stretching,Canny,horse200,uji,0.0642,0.1207
+Contrast Stretching,Laplacian,horse200,uji,0.2079,0.3442
+Contrast Stretching,Canny,horse201,latih,0.3138,0.4777
+Contrast Stretching,Laplacian,horse201,latih,0.192,0.3221
+Contrast Stretching,Canny,horse202,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse202,latih,0.0711,0.1328
+Contrast Stretching,Canny,horse203,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse203,latih,0.7852,0.8797
+Contrast Stretching,Canny,horse204,latih,0.7219,0.8385
+Contrast Stretching,Laplacian,horse204,latih,0.305,0.4674
+Contrast Stretching,Canny,horse205,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse205,uji,0.2296,0.3734
+Contrast Stretching,Canny,horse206,latih,0.0824,0.1523
+Contrast Stretching,Laplacian,horse206,latih,0.5236,0.6873
+Contrast Stretching,Canny,horse207,latih,0.1909,0.3205
+Contrast Stretching,Laplacian,horse207,latih,0.1074,0.1939
+Contrast Stretching,Canny,horse208,latih,0.0831,0.1535
+Contrast Stretching,Laplacian,horse208,latih,0.48,0.6486
+Contrast Stretching,Canny,horse209,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse209,latih,0.1094,0.1973
+Contrast Stretching,Canny,horse210,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse210,uji,0.3975,0.5688
+Contrast Stretching,Canny,horse211,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse211,latih,0.0932,0.1705
+Contrast Stretching,Canny,horse212,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse212,latih,0.0221,0.0433
+Contrast Stretching,Canny,horse213,latih,0.3737,0.544
+Contrast Stretching,Laplacian,horse213,latih,0.4756,0.6447
+Contrast Stretching,Canny,horse214,latih,0.1246,0.2216
+Contrast Stretching,Laplacian,horse214,latih,0.1267,0.225
+Contrast Stretching,Canny,horse215,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse215,latih,0.0291,0.0566
+Contrast Stretching,Canny,horse216,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse216,latih,0.2305,0.3747
+Contrast Stretching,Canny,horse217,latih,0.4009,0.5723
+Contrast Stretching,Laplacian,horse217,latih,0.5535,0.7126
+Contrast Stretching,Canny,horse218,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse218,latih,0.0,0.0
+Contrast Stretching,Canny,horse219,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse219,latih,0.3544,0.5233
+Contrast Stretching,Canny,horse220,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse220,latih,0.1391,0.2442
+Contrast Stretching,Canny,horse221,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse221,uji,0.2583,0.4106
+Contrast Stretching,Canny,horse222,latih,0.3868,0.5578
+Contrast Stretching,Laplacian,horse222,latih,0.206,0.3416
+Contrast Stretching,Canny,horse223,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse223,latih,0.5721,0.7278
+Contrast Stretching,Canny,horse224,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse224,latih,0.1187,0.2122
+Contrast Stretching,Canny,horse225,latih,0.1849,0.3121
+Contrast Stretching,Laplacian,horse225,latih,0.5529,0.7121
+Contrast Stretching,Canny,horse226,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse226,latih,0.3504,0.5189
+Contrast Stretching,Canny,horse227,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse227,latih,0.1664,0.2853
+Contrast Stretching,Canny,horse228,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse228,latih,0.356,0.5251
+Contrast Stretching,Canny,horse229,latih,0.0983,0.179
+Contrast Stretching,Laplacian,horse229,latih,0.0,0.0
+Contrast Stretching,Canny,horse230,latih,0.316,0.4803
+Contrast Stretching,Laplacian,horse230,latih,0.3406,0.5081
+Contrast Stretching,Canny,horse231,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse231,latih,0.3084,0.4714
+Contrast Stretching,Canny,horse232,uji,0.0855,0.1575
+Contrast Stretching,Laplacian,horse232,uji,0.1285,0.2277
+Contrast Stretching,Canny,horse233,latih,0.2222,0.3637
+Contrast Stretching,Laplacian,horse233,latih,0.0148,0.0291
+Contrast Stretching,Canny,horse234,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse234,latih,0.1308,0.2313
+Contrast Stretching,Canny,horse235,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse235,latih,0.1485,0.2587
+Contrast Stretching,Canny,horse236,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse236,latih,0.1252,0.2225
+Contrast Stretching,Canny,horse237,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse237,latih,0.0823,0.152
+Contrast Stretching,Canny,horse238,latih,0.0483,0.0922
+Contrast Stretching,Laplacian,horse238,latih,0.5117,0.677
+Contrast Stretching,Canny,horse239,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse239,latih,0.0014,0.0029
+Contrast Stretching,Canny,horse240,latih,0.3785,0.5492
+Contrast Stretching,Laplacian,horse240,latih,0.2927,0.4528
+Contrast Stretching,Canny,horse241,latih,0.2895,0.449
+Contrast Stretching,Laplacian,horse241,latih,0.0,0.0
+Contrast Stretching,Canny,horse242,latih,0.6473,0.7859
+Contrast Stretching,Laplacian,horse242,latih,0.3791,0.5497
+Contrast Stretching,Canny,horse243,latih,0.5448,0.7053
+Contrast Stretching,Laplacian,horse243,latih,0.1717,0.2931
+Contrast Stretching,Canny,horse244,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse244,latih,0.2596,0.4122
+Contrast Stretching,Canny,horse245,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse245,uji,0.2469,0.396
+Contrast Stretching,Canny,horse246,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse246,latih,0.0786,0.1457
+Contrast Stretching,Canny,horse247,latih,0.503,0.6693
+Contrast Stretching,Laplacian,horse247,latih,0.1688,0.2889
+Contrast Stretching,Canny,horse248,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse248,latih,0.2338,0.379
+Contrast Stretching,Canny,horse249,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse249,uji,0.1155,0.2071
+Contrast Stretching,Canny,horse250,latih,0.4334,0.6047
+Contrast Stretching,Laplacian,horse250,latih,0.04,0.077
+Contrast Stretching,Canny,horse251,uji,0.5345,0.6966
+Contrast Stretching,Laplacian,horse251,uji,0.0939,0.1717
+Contrast Stretching,Canny,horse252,latih,0.4227,0.5942
+Contrast Stretching,Laplacian,horse252,latih,0.8059,0.8925
+Contrast Stretching,Canny,horse253,latih,0.34,0.5074
+Contrast Stretching,Laplacian,horse253,latih,0.0205,0.0401
+Contrast Stretching,Canny,horse254,latih,0.3785,0.5491
+Contrast Stretching,Laplacian,horse254,latih,0.5687,0.7251
+Contrast Stretching,Canny,horse255,uji,0.3662,0.5361
+Contrast Stretching,Laplacian,horse255,uji,0.3244,0.4899
+Contrast Stretching,Canny,horse256,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse256,latih,0.1626,0.2797
+Contrast Stretching,Canny,horse257,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse257,latih,0.0338,0.0654
+Contrast Stretching,Canny,horse258,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse258,latih,0.0992,0.1805
+Contrast Stretching,Canny,horse259,latih,0.4823,0.6508
+Contrast Stretching,Laplacian,horse259,latih,0.3315,0.4979
+Contrast Stretching,Canny,horse260,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse260,latih,0.2105,0.3478
+Contrast Stretching,Canny,horse261,latih,0.1601,0.2761
+Contrast Stretching,Laplacian,horse261,latih,0.1189,0.2125
+Contrast Stretching,Canny,horse262,uji,0.2612,0.4142
+Contrast Stretching,Laplacian,horse262,uji,0.6394,0.78
+Contrast Stretching,Canny,horse263,latih,0.4534,0.6239
+Contrast Stretching,Laplacian,horse263,latih,0.1681,0.2879
+Contrast Stretching,Canny,horse264,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse264,latih,0.6958,0.8206
+Contrast Stretching,Canny,horse265,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse265,latih,0.1894,0.3185
+Contrast Stretching,Canny,horse266,latih,0.3902,0.5614
+Contrast Stretching,Laplacian,horse266,latih,0.4367,0.6079
+Contrast Stretching,Canny,horse267,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse267,uji,0.2584,0.4107
+Contrast Stretching,Canny,horse268,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse268,latih,0.1315,0.2324
+Contrast Stretching,Canny,horse269,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse269,latih,0.0203,0.0398
+Contrast Stretching,Canny,horse270,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse270,latih,0.2223,0.3638
+Contrast Stretching,Canny,horse271,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse271,latih,0.0117,0.0232
+Contrast Stretching,Canny,horse272,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse272,latih,0.056,0.1061
+Contrast Stretching,Canny,horse273,uji,0.2423,0.3901
+Contrast Stretching,Laplacian,horse273,uji,0.0486,0.0927
+Contrast Stretching,Canny,horse274,latih,0.3684,0.5384
+Contrast Stretching,Laplacian,horse274,latih,0.2875,0.4466
+Contrast Stretching,Canny,horse275,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse275,latih,0.1033,0.1872
+Contrast Stretching,Canny,horse276,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse276,uji,0.0567,0.1074
+Contrast Stretching,Canny,horse277,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse277,latih,0.2009,0.3345
+Contrast Stretching,Canny,horse278,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse278,latih,0.0529,0.1004
+Contrast Stretching,Canny,horse279,latih,0.6058,0.7545
+Contrast Stretching,Laplacian,horse279,latih,0.585,0.7382
+Contrast Stretching,Canny,horse280,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse280,latih,0.0519,0.0986
+Contrast Stretching,Canny,horse281,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse281,latih,0.2249,0.3672
+Contrast Stretching,Canny,horse282,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse282,latih,0.1918,0.3219
+Contrast Stretching,Canny,horse283,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse283,latih,0.3746,0.545
+Contrast Stretching,Canny,horse284,latih,0.4743,0.6434
+Contrast Stretching,Laplacian,horse284,latih,0.0722,0.1347
+Contrast Stretching,Canny,horse285,latih,0.4593,0.6295
+Contrast Stretching,Laplacian,horse285,latih,0.1291,0.2287
+Contrast Stretching,Canny,horse286,latih,0.5097,0.6752
+Contrast Stretching,Laplacian,horse286,latih,0.4127,0.5843
+Contrast Stretching,Canny,horse287,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse287,uji,0.2024,0.3367
+Contrast Stretching,Canny,horse288,uji,0.9559,0.9775
+Contrast Stretching,Laplacian,horse288,uji,0.8184,0.9002
+Contrast Stretching,Canny,horse289,latih,0.3879,0.559
+Contrast Stretching,Laplacian,horse289,latih,0.1266,0.2248
+Contrast Stretching,Canny,horse290,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse290,latih,0.4139,0.5855
+Contrast Stretching,Canny,horse291,latih,0.5261,0.6895
+Contrast Stretching,Laplacian,horse291,latih,0.265,0.419
+Contrast Stretching,Canny,horse292,uji,0.2434,0.3915
+Contrast Stretching,Laplacian,horse292,uji,0.3918,0.563
+Contrast Stretching,Canny,horse293,latih,0.3966,0.568
+Contrast Stretching,Laplacian,horse293,latih,0.5962,0.747
+Contrast Stretching,Canny,horse294,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse294,latih,0.0494,0.0942
+Contrast Stretching,Canny,horse295,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse295,latih,0.4375,0.6087
+Contrast Stretching,Canny,horse296,uji,0.897,0.9457
+Contrast Stretching,Laplacian,horse296,uji,0.6773,0.8076
+Contrast Stretching,Canny,horse297,latih,0.0599,0.113
+Contrast Stretching,Laplacian,horse297,latih,0.1532,0.2657
+Contrast Stretching,Canny,horse298,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse298,latih,0.0914,0.1675
+Contrast Stretching,Canny,horse299,latih,0.5829,0.7365
+Contrast Stretching,Laplacian,horse299,latih,0.6796,0.8092
+Contrast Stretching,Canny,horse300,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse300,latih,0.4031,0.5746
+Contrast Stretching,Canny,horse301,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse301,latih,0.1811,0.3067
+Contrast Stretching,Canny,horse302,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse302,latih,0.0733,0.1366
+Contrast Stretching,Canny,horse303,latih,0.6587,0.7942
+Contrast Stretching,Laplacian,horse303,latih,0.3569,0.5261
+Contrast Stretching,Canny,horse304,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse304,uji,0.1596,0.2753
+Contrast Stretching,Canny,horse305,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse305,latih,0.1065,0.1925
+Contrast Stretching,Canny,horse306,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse306,latih,0.1002,0.1822
+Contrast Stretching,Canny,horse307,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse307,uji,0.1498,0.2606
+Contrast Stretching,Canny,horse308,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse308,latih,0.0808,0.1495
+Contrast Stretching,Canny,horse309,latih,0.1505,0.2616
+Contrast Stretching,Laplacian,horse309,latih,0.0,0.0
+Contrast Stretching,Canny,horse310,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse310,uji,0.1264,0.2244
+Contrast Stretching,Canny,horse311,latih,0.2727,0.4285
+Contrast Stretching,Laplacian,horse311,latih,0.3062,0.4689
+Contrast Stretching,Canny,horse312,uji,0.0129,0.0255
+Contrast Stretching,Laplacian,horse312,uji,0.2225,0.3641
+Contrast Stretching,Canny,horse313,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse313,latih,0.1588,0.274
+Contrast Stretching,Canny,horse314,latih,0.4939,0.6612
+Contrast Stretching,Laplacian,horse314,latih,0.136,0.2394
+Contrast Stretching,Canny,horse315,latih,0.3268,0.4926
+Contrast Stretching,Laplacian,horse315,latih,0.5286,0.6916
+Contrast Stretching,Canny,horse316,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse316,latih,0.0951,0.1737
+Contrast Stretching,Canny,horse317,latih,0.0418,0.0803
+Contrast Stretching,Laplacian,horse317,latih,0.072,0.1343
+Contrast Stretching,Canny,horse318,latih,0.4802,0.6488
+Contrast Stretching,Laplacian,horse318,latih,0.0,0.0
+Contrast Stretching,Canny,horse319,latih,0.473,0.6422
+Contrast Stretching,Laplacian,horse319,latih,0.2004,0.3338
+Contrast Stretching,Canny,horse320,uji,0.0525,0.0998
+Contrast Stretching,Laplacian,horse320,uji,0.156,0.2699
+Contrast Stretching,Canny,horse321,latih,0.6455,0.7846
+Contrast Stretching,Laplacian,horse321,latih,0.1899,0.3192
+Contrast Stretching,Canny,horse322,latih,0.5004,0.6671
+Contrast Stretching,Laplacian,horse322,latih,0.1655,0.284
+Contrast Stretching,Canny,horse323,uji,0.9045,0.9499
+Contrast Stretching,Laplacian,horse323,uji,0.0607,0.1144
+Contrast Stretching,Canny,horse324,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse324,latih,0.0229,0.0447
+Contrast Stretching,Canny,horse325,uji,0.0,0.0
+Contrast Stretching,Laplacian,horse325,uji,0.4568,0.6271
+Contrast Stretching,Canny,horse326,latih,0.0282,0.0549
+Contrast Stretching,Laplacian,horse326,latih,0.0453,0.0867
+Contrast Stretching,Canny,horse327,latih,0.0,0.0
+Contrast Stretching,Laplacian,horse327,latih,0.0456,0.0873
+Contrast Stretching + Median,Canny,horse001,latih,0.1058,0.1914
+Contrast Stretching + Median,Laplacian,horse001,latih,0.1554,0.269
+Contrast Stretching + Median,Canny,horse002,latih,0.4893,0.6571
+Contrast Stretching + Median,Laplacian,horse002,latih,0.2385,0.3851
+Contrast Stretching + Median,Canny,horse003,latih,0.3596,0.529
+Contrast Stretching + Median,Laplacian,horse003,latih,0.3412,0.5088
+Contrast Stretching + Median,Canny,horse004,uji,0.752,0.8585
+Contrast Stretching + Median,Laplacian,horse004,uji,0.2074,0.3435
+Contrast Stretching + Median,Canny,horse005,latih,0.2454,0.3941
+Contrast Stretching + Median,Laplacian,horse005,latih,0.1944,0.3255
+Contrast Stretching + Median,Canny,horse006,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse006,uji,0.1779,0.302
+Contrast Stretching + Median,Canny,horse007,latih,0.2,0.3334
+Contrast Stretching + Median,Laplacian,horse007,latih,0.0362,0.0698
+Contrast Stretching + Median,Canny,horse008,uji,0.839,0.9125
+Contrast Stretching + Median,Laplacian,horse008,uji,0.2671,0.4216
+Contrast Stretching + Median,Canny,horse009,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse009,latih,0.3004,0.462
+Contrast Stretching + Median,Canny,horse010,uji,0.1953,0.3268
+Contrast Stretching + Median,Laplacian,horse010,uji,0.1773,0.3012
+Contrast Stretching + Median,Canny,horse011,latih,0.1601,0.276
+Contrast Stretching + Median,Laplacian,horse011,latih,0.1781,0.3023
+Contrast Stretching + Median,Canny,horse012,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse012,latih,0.389,0.5602
+Contrast Stretching + Median,Canny,horse013,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse013,latih,0.1852,0.3125
+Contrast Stretching + Median,Canny,horse014,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse014,latih,0.1927,0.3231
+Contrast Stretching + Median,Canny,horse015,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse015,latih,0.1333,0.2352
+Contrast Stretching + Median,Canny,horse016,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse016,latih,0.4735,0.6427
+Contrast Stretching + Median,Canny,horse017,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse017,uji,0.5048,0.6709
+Contrast Stretching + Median,Canny,horse018,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse018,latih,0.1078,0.1946
+Contrast Stretching + Median,Canny,horse019,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse019,latih,0.2841,0.4425
+Contrast Stretching + Median,Canny,horse020,latih,0.0618,0.1164
+Contrast Stretching + Median,Laplacian,horse020,latih,0.2965,0.4573
+Contrast Stretching + Median,Canny,horse021,latih,0.1738,0.2962
+Contrast Stretching + Median,Laplacian,horse021,latih,0.5782,0.7327
+Contrast Stretching + Median,Canny,horse022,latih,0.198,0.3306
+Contrast Stretching + Median,Laplacian,horse022,latih,0.0973,0.1774
+Contrast Stretching + Median,Canny,horse023,latih,0.7285,0.8429
+Contrast Stretching + Median,Laplacian,horse023,latih,0.2173,0.3571
+Contrast Stretching + Median,Canny,horse024,latih,0.5258,0.6893
+Contrast Stretching + Median,Laplacian,horse024,latih,0.052,0.0989
+Contrast Stretching + Median,Canny,horse025,latih,0.2668,0.4212
+Contrast Stretching + Median,Laplacian,horse025,latih,0.1006,0.1829
+Contrast Stretching + Median,Canny,horse026,uji,0.2262,0.3689
+Contrast Stretching + Median,Laplacian,horse026,uji,0.065,0.122
+Contrast Stretching + Median,Canny,horse027,latih,0.0305,0.0592
+Contrast Stretching + Median,Laplacian,horse027,latih,0.1672,0.2864
+Contrast Stretching + Median,Canny,horse028,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse028,latih,0.192,0.3221
+Contrast Stretching + Median,Canny,horse029,latih,0.11,0.1982
+Contrast Stretching + Median,Laplacian,horse029,latih,0.0404,0.0776
+Contrast Stretching + Median,Canny,horse030,latih,0.2174,0.3572
+Contrast Stretching + Median,Laplacian,horse030,latih,0.0727,0.1356
+Contrast Stretching + Median,Canny,horse031,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse031,latih,0.2622,0.4155
+Contrast Stretching + Median,Canny,horse032,latih,0.091,0.1668
+Contrast Stretching + Median,Laplacian,horse032,latih,0.2554,0.4069
+Contrast Stretching + Median,Canny,horse033,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse033,latih,0.152,0.2639
+Contrast Stretching + Median,Canny,horse034,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse034,uji,0.1666,0.2856
+Contrast Stretching + Median,Canny,horse035,latih,0.0818,0.1512
+Contrast Stretching + Median,Laplacian,horse035,latih,0.1707,0.2916
+Contrast Stretching + Median,Canny,horse036,latih,0.3084,0.4715
+Contrast Stretching + Median,Laplacian,horse036,latih,0.1088,0.1962
+Contrast Stretching + Median,Canny,horse037,latih,0.1287,0.2281
+Contrast Stretching + Median,Laplacian,horse037,latih,0.3661,0.536
+Contrast Stretching + Median,Canny,horse038,latih,0.0802,0.1484
+Contrast Stretching + Median,Laplacian,horse038,latih,0.1943,0.3254
+Contrast Stretching + Median,Canny,horse039,latih,0.6843,0.8126
+Contrast Stretching + Median,Laplacian,horse039,latih,0.2421,0.3898
+Contrast Stretching + Median,Canny,horse040,latih,0.504,0.6702
+Contrast Stretching + Median,Laplacian,horse040,latih,0.1853,0.3127
+Contrast Stretching + Median,Canny,horse041,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse041,latih,0.1572,0.2717
+Contrast Stretching + Median,Canny,horse042,latih,0.1874,0.3156
+Contrast Stretching + Median,Laplacian,horse042,latih,0.1083,0.1955
+Contrast Stretching + Median,Canny,horse043,uji,0.0905,0.1659
+Contrast Stretching + Median,Laplacian,horse043,uji,0.1312,0.232
+Contrast Stretching + Median,Canny,horse044,latih,0.2334,0.3785
+Contrast Stretching + Median,Laplacian,horse044,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse045,latih,0.3227,0.4879
+Contrast Stretching + Median,Laplacian,horse045,latih,0.1016,0.1845
+Contrast Stretching + Median,Canny,horse046,uji,0.0444,0.0851
+Contrast Stretching + Median,Laplacian,horse046,uji,0.1739,0.2963
+Contrast Stretching + Median,Canny,horse047,uji,0.148,0.2579
+Contrast Stretching + Median,Laplacian,horse047,uji,0.1112,0.2002
+Contrast Stretching + Median,Canny,horse048,latih,0.0632,0.1189
+Contrast Stretching + Median,Laplacian,horse048,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse049,latih,0.4524,0.623
+Contrast Stretching + Median,Laplacian,horse049,latih,0.2495,0.3994
+Contrast Stretching + Median,Canny,horse050,latih,0.0255,0.0497
+Contrast Stretching + Median,Laplacian,horse050,latih,0.0887,0.163
+Contrast Stretching + Median,Canny,horse051,latih,0.3092,0.4724
+Contrast Stretching + Median,Laplacian,horse051,latih,0.0084,0.0167
+Contrast Stretching + Median,Canny,horse052,latih,0.2411,0.3886
+Contrast Stretching + Median,Laplacian,horse052,latih,0.1488,0.2591
+Contrast Stretching + Median,Canny,horse053,latih,0.0729,0.1359
+Contrast Stretching + Median,Laplacian,horse053,latih,0.1284,0.2276
+Contrast Stretching + Median,Canny,horse054,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse054,latih,0.223,0.3647
+Contrast Stretching + Median,Canny,horse055,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse055,latih,0.038,0.0732
+Contrast Stretching + Median,Canny,horse056,uji,0.0594,0.1122
+Contrast Stretching + Median,Laplacian,horse056,uji,0.0997,0.1813
+Contrast Stretching + Median,Canny,horse057,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse057,latih,0.0692,0.1295
+Contrast Stretching + Median,Canny,horse058,uji,0.0852,0.1571
+Contrast Stretching + Median,Laplacian,horse058,uji,0.1651,0.2834
+Contrast Stretching + Median,Canny,horse059,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse059,latih,0.1029,0.1866
+Contrast Stretching + Median,Canny,horse060,latih,0.1017,0.1846
+Contrast Stretching + Median,Laplacian,horse060,latih,0.0959,0.1749
+Contrast Stretching + Median,Canny,horse061,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse061,uji,0.075,0.1395
+Contrast Stretching + Median,Canny,horse062,latih,0.079,0.1464
+Contrast Stretching + Median,Laplacian,horse062,latih,0.248,0.3974
+Contrast Stretching + Median,Canny,horse063,latih,0.3218,0.487
+Contrast Stretching + Median,Laplacian,horse063,latih,0.1055,0.1909
+Contrast Stretching + Median,Canny,horse064,uji,0.1128,0.2027
+Contrast Stretching + Median,Laplacian,horse064,uji,0.1217,0.217
+Contrast Stretching + Median,Canny,horse065,latih,0.0606,0.1144
+Contrast Stretching + Median,Laplacian,horse065,latih,0.1394,0.2447
+Contrast Stretching + Median,Canny,horse066,latih,0.3299,0.4961
+Contrast Stretching + Median,Laplacian,horse066,latih,0.086,0.1583
+Contrast Stretching + Median,Canny,horse067,latih,0.1231,0.2193
+Contrast Stretching + Median,Laplacian,horse067,latih,0.0909,0.1667
+Contrast Stretching + Median,Canny,horse068,latih,0.0848,0.1564
+Contrast Stretching + Median,Laplacian,horse068,latih,0.1974,0.3297
+Contrast Stretching + Median,Canny,horse069,latih,0.6416,0.7817
+Contrast Stretching + Median,Laplacian,horse069,latih,0.4832,0.6515
+Contrast Stretching + Median,Canny,horse070,latih,0.4679,0.6375
+Contrast Stretching + Median,Laplacian,horse070,latih,0.1051,0.1902
+Contrast Stretching + Median,Canny,horse071,latih,0.3186,0.4833
+Contrast Stretching + Median,Laplacian,horse071,latih,0.046,0.0879
+Contrast Stretching + Median,Canny,horse072,latih,0.0645,0.1212
+Contrast Stretching + Median,Laplacian,horse072,latih,0.0094,0.0186
+Contrast Stretching + Median,Canny,horse073,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse073,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse074,uji,0.0474,0.0906
+Contrast Stretching + Median,Laplacian,horse074,uji,0.1184,0.2117
+Contrast Stretching + Median,Canny,horse075,latih,0.0229,0.0448
+Contrast Stretching + Median,Laplacian,horse075,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse076,latih,0.0183,0.0359
+Contrast Stretching + Median,Laplacian,horse076,latih,0.0829,0.153
+Contrast Stretching + Median,Canny,horse077,uji,0.2362,0.3822
+Contrast Stretching + Median,Laplacian,horse077,uji,0.1268,0.2251
+Contrast Stretching + Median,Canny,horse078,uji,0.0522,0.0993
+Contrast Stretching + Median,Laplacian,horse078,uji,0.1545,0.2676
+Contrast Stretching + Median,Canny,horse079,uji,0.1086,0.196
+Contrast Stretching + Median,Laplacian,horse079,uji,0.397,0.5683
+Contrast Stretching + Median,Canny,horse080,latih,0.0468,0.0894
+Contrast Stretching + Median,Laplacian,horse080,latih,0.1656,0.2841
+Contrast Stretching + Median,Canny,horse081,latih,0.7156,0.8342
+Contrast Stretching + Median,Laplacian,horse081,latih,0.168,0.2877
+Contrast Stretching + Median,Canny,horse082,latih,0.24,0.3871
+Contrast Stretching + Median,Laplacian,horse082,latih,0.3326,0.4992
+Contrast Stretching + Median,Canny,horse083,uji,0.0774,0.1437
+Contrast Stretching + Median,Laplacian,horse083,uji,0.2522,0.4028
+Contrast Stretching + Median,Canny,horse084,latih,0.6429,0.7826
+Contrast Stretching + Median,Laplacian,horse084,latih,0.534,0.6962
+Contrast Stretching + Median,Canny,horse085,uji,0.3539,0.5228
+Contrast Stretching + Median,Laplacian,horse085,uji,0.1636,0.2812
+Contrast Stretching + Median,Canny,horse086,latih,0.1301,0.2302
+Contrast Stretching + Median,Laplacian,horse086,latih,0.0706,0.1319
+Contrast Stretching + Median,Canny,horse087,latih,0.2694,0.4244
+Contrast Stretching + Median,Laplacian,horse087,latih,0.2036,0.3383
+Contrast Stretching + Median,Canny,horse088,latih,0.4321,0.6034
+Contrast Stretching + Median,Laplacian,horse088,latih,0.205,0.3402
+Contrast Stretching + Median,Canny,horse089,latih,0.0489,0.0933
+Contrast Stretching + Median,Laplacian,horse089,latih,0.0991,0.1803
+Contrast Stretching + Median,Canny,horse090,latih,0.0764,0.1419
+Contrast Stretching + Median,Laplacian,horse090,latih,0.1117,0.201
+Contrast Stretching + Median,Canny,horse091,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse091,uji,0.018,0.0353
+Contrast Stretching + Median,Canny,horse092,latih,0.0417,0.0801
+Contrast Stretching + Median,Laplacian,horse092,latih,0.1197,0.2138
+Contrast Stretching + Median,Canny,horse093,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse093,latih,0.0984,0.1792
+Contrast Stretching + Median,Canny,horse094,uji,0.7379,0.8492
+Contrast Stretching + Median,Laplacian,horse094,uji,0.5086,0.6743
+Contrast Stretching + Median,Canny,horse095,uji,0.5973,0.7479
+Contrast Stretching + Median,Laplacian,horse095,uji,0.2299,0.3739
+Contrast Stretching + Median,Canny,horse096,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse096,latih,0.1573,0.2719
+Contrast Stretching + Median,Canny,horse097,latih,0.3865,0.5575
+Contrast Stretching + Median,Laplacian,horse097,latih,0.1515,0.2632
+Contrast Stretching + Median,Canny,horse098,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse098,latih,0.1833,0.3099
+Contrast Stretching + Median,Canny,horse099,latih,0.0813,0.1504
+Contrast Stretching + Median,Laplacian,horse099,latih,0.552,0.7114
+Contrast Stretching + Median,Canny,horse100,latih,0.3607,0.5302
+Contrast Stretching + Median,Laplacian,horse100,latih,0.1288,0.2282
+Contrast Stretching + Median,Canny,horse101,latih,0.5465,0.7067
+Contrast Stretching + Median,Laplacian,horse101,latih,0.4696,0.639
+Contrast Stretching + Median,Canny,horse102,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse102,uji,0.2393,0.3862
+Contrast Stretching + Median,Canny,horse103,latih,0.1082,0.1952
+Contrast Stretching + Median,Laplacian,horse103,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse104,latih,0.044,0.0842
+Contrast Stretching + Median,Laplacian,horse104,latih,0.0649,0.1218
+Contrast Stretching + Median,Canny,horse105,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse105,latih,0.0797,0.1477
+Contrast Stretching + Median,Canny,horse106,latih,0.5278,0.691
+Contrast Stretching + Median,Laplacian,horse106,latih,0.4683,0.6379
+Contrast Stretching + Median,Canny,horse107,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse107,latih,0.0346,0.0669
+Contrast Stretching + Median,Canny,horse108,latih,0.3581,0.5273
+Contrast Stretching + Median,Laplacian,horse108,latih,0.0963,0.1756
+Contrast Stretching + Median,Canny,horse109,latih,0.9298,0.9636
+Contrast Stretching + Median,Laplacian,horse109,latih,0.2814,0.4392
+Contrast Stretching + Median,Canny,horse110,latih,0.1177,0.2107
+Contrast Stretching + Median,Laplacian,horse110,latih,0.2521,0.4027
+Contrast Stretching + Median,Canny,horse111,uji,0.3847,0.5557
+Contrast Stretching + Median,Laplacian,horse111,uji,0.1679,0.2875
+Contrast Stretching + Median,Canny,horse112,latih,0.4608,0.6309
+Contrast Stretching + Median,Laplacian,horse112,latih,0.0989,0.1801
+Contrast Stretching + Median,Canny,horse113,latih,0.1176,0.2105
+Contrast Stretching + Median,Laplacian,horse113,latih,0.135,0.2378
+Contrast Stretching + Median,Canny,horse114,latih,0.425,0.5965
+Contrast Stretching + Median,Laplacian,horse114,latih,0.3977,0.5691
+Contrast Stretching + Median,Canny,horse115,uji,0.618,0.7639
+Contrast Stretching + Median,Laplacian,horse115,uji,0.6993,0.8231
+Contrast Stretching + Median,Canny,horse116,latih,0.4366,0.6079
+Contrast Stretching + Median,Laplacian,horse116,latih,0.4149,0.5865
+Contrast Stretching + Median,Canny,horse117,latih,0.0615,0.1159
+Contrast Stretching + Median,Laplacian,horse117,latih,0.1366,0.2403
+Contrast Stretching + Median,Canny,horse118,latih,0.3416,0.5092
+Contrast Stretching + Median,Laplacian,horse118,latih,0.3977,0.5691
+Contrast Stretching + Median,Canny,horse119,uji,0.0501,0.0955
+Contrast Stretching + Median,Laplacian,horse119,uji,0.1872,0.3154
+Contrast Stretching + Median,Canny,horse120,uji,0.5098,0.6753
+Contrast Stretching + Median,Laplacian,horse120,uji,0.0,0.0
+Contrast Stretching + Median,Canny,horse121,latih,0.4582,0.6284
+Contrast Stretching + Median,Laplacian,horse121,latih,0.1358,0.2391
+Contrast Stretching + Median,Canny,horse122,latih,0.1302,0.2304
+Contrast Stretching + Median,Laplacian,horse122,latih,0.1769,0.3006
+Contrast Stretching + Median,Canny,horse123,latih,0.5744,0.7296
+Contrast Stretching + Median,Laplacian,horse123,latih,0.0572,0.1082
+Contrast Stretching + Median,Canny,horse124,latih,0.3998,0.5712
+Contrast Stretching + Median,Laplacian,horse124,latih,0.0681,0.1275
+Contrast Stretching + Median,Canny,horse125,uji,0.024,0.047
+Contrast Stretching + Median,Laplacian,horse125,uji,0.2253,0.3678
+Contrast Stretching + Median,Canny,horse126,latih,0.3451,0.5131
+Contrast Stretching + Median,Laplacian,horse126,latih,0.0279,0.0544
+Contrast Stretching + Median,Canny,horse127,latih,0.0577,0.109
+Contrast Stretching + Median,Laplacian,horse127,latih,0.1603,0.2764
+Contrast Stretching + Median,Canny,horse128,latih,0.0347,0.067
+Contrast Stretching + Median,Laplacian,horse128,latih,0.6259,0.7699
+Contrast Stretching + Median,Canny,horse129,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse129,latih,0.1234,0.2196
+Contrast Stretching + Median,Canny,horse130,latih,0.1512,0.2627
+Contrast Stretching + Median,Laplacian,horse130,latih,0.4055,0.577
+Contrast Stretching + Median,Canny,horse131,latih,0.0278,0.0541
+Contrast Stretching + Median,Laplacian,horse131,latih,0.067,0.1256
+Contrast Stretching + Median,Canny,horse132,latih,0.4347,0.606
+Contrast Stretching + Median,Laplacian,horse132,latih,0.2672,0.4218
+Contrast Stretching + Median,Canny,horse133,latih,0.5992,0.7494
+Contrast Stretching + Median,Laplacian,horse133,latih,0.4862,0.6543
+Contrast Stretching + Median,Canny,horse134,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse134,latih,0.2019,0.3359
+Contrast Stretching + Median,Canny,horse135,latih,0.2422,0.39
+Contrast Stretching + Median,Laplacian,horse135,latih,0.1973,0.3295
+Contrast Stretching + Median,Canny,horse136,latih,0.2686,0.4235
+Contrast Stretching + Median,Laplacian,horse136,latih,0.2619,0.4151
+Contrast Stretching + Median,Canny,horse137,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse137,latih,0.3461,0.5142
+Contrast Stretching + Median,Canny,horse138,latih,0.3565,0.5256
+Contrast Stretching + Median,Laplacian,horse138,latih,0.2463,0.3952
+Contrast Stretching + Median,Canny,horse139,latih,0.4053,0.5769
+Contrast Stretching + Median,Laplacian,horse139,latih,0.1549,0.2682
+Contrast Stretching + Median,Canny,horse140,uji,0.5124,0.6776
+Contrast Stretching + Median,Laplacian,horse140,uji,0.4137,0.5852
+Contrast Stretching + Median,Canny,horse141,latih,0.6028,0.7521
+Contrast Stretching + Median,Laplacian,horse141,latih,0.0449,0.086
+Contrast Stretching + Median,Canny,horse142,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse142,latih,0.0544,0.1031
+Contrast Stretching + Median,Canny,horse143,latih,0.062,0.1167
+Contrast Stretching + Median,Laplacian,horse143,latih,0.1501,0.261
+Contrast Stretching + Median,Canny,horse144,latih,0.0571,0.108
+Contrast Stretching + Median,Laplacian,horse144,latih,0.1102,0.1986
+Contrast Stretching + Median,Canny,horse145,uji,0.0426,0.0818
+Contrast Stretching + Median,Laplacian,horse145,uji,0.0853,0.1572
+Contrast Stretching + Median,Canny,horse146,latih,0.7446,0.8536
+Contrast Stretching + Median,Laplacian,horse146,latih,0.2084,0.345
+Contrast Stretching + Median,Canny,horse147,uji,0.1298,0.2297
+Contrast Stretching + Median,Laplacian,horse147,uji,0.0,0.0
+Contrast Stretching + Median,Canny,horse148,latih,0.4605,0.6306
+Contrast Stretching + Median,Laplacian,horse148,latih,0.1358,0.2391
+Contrast Stretching + Median,Canny,horse149,latih,0.3647,0.5344
+Contrast Stretching + Median,Laplacian,horse149,latih,0.4821,0.6506
+Contrast Stretching + Median,Canny,horse150,latih,0.2502,0.4003
+Contrast Stretching + Median,Laplacian,horse150,latih,0.3275,0.4934
+Contrast Stretching + Median,Canny,horse151,latih,0.2465,0.3956
+Contrast Stretching + Median,Laplacian,horse151,latih,0.3379,0.5051
+Contrast Stretching + Median,Canny,horse152,latih,0.2459,0.3947
+Contrast Stretching + Median,Laplacian,horse152,latih,0.4002,0.5716
+Contrast Stretching + Median,Canny,horse153,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse153,latih,0.0517,0.0983
+Contrast Stretching + Median,Canny,horse154,uji,0.0709,0.1325
+Contrast Stretching + Median,Laplacian,horse154,uji,0.4409,0.6119
+Contrast Stretching + Median,Canny,horse155,latih,0.2398,0.3868
+Contrast Stretching + Median,Laplacian,horse155,latih,0.0611,0.1151
+Contrast Stretching + Median,Canny,horse156,latih,0.3495,0.518
+Contrast Stretching + Median,Laplacian,horse156,latih,0.2514,0.4017
+Contrast Stretching + Median,Canny,horse157,latih,0.2967,0.4576
+Contrast Stretching + Median,Laplacian,horse157,latih,0.0761,0.1414
+Contrast Stretching + Median,Canny,horse158,latih,0.2396,0.3866
+Contrast Stretching + Median,Laplacian,horse158,latih,0.2303,0.3743
+Contrast Stretching + Median,Canny,horse159,latih,0.0561,0.1062
+Contrast Stretching + Median,Laplacian,horse159,latih,0.5459,0.7062
+Contrast Stretching + Median,Canny,horse160,latih,0.562,0.7196
+Contrast Stretching + Median,Laplacian,horse160,latih,0.5321,0.6946
+Contrast Stretching + Median,Canny,horse161,latih,0.3632,0.5329
+Contrast Stretching + Median,Laplacian,horse161,latih,0.0046,0.0091
+Contrast Stretching + Median,Canny,horse162,latih,0.5859,0.7389
+Contrast Stretching + Median,Laplacian,horse162,latih,0.5366,0.6984
+Contrast Stretching + Median,Canny,horse163,latih,0.2384,0.385
+Contrast Stretching + Median,Laplacian,horse163,latih,0.2746,0.4309
+Contrast Stretching + Median,Canny,horse164,uji,0.4352,0.6065
+Contrast Stretching + Median,Laplacian,horse164,uji,0.1054,0.1907
+Contrast Stretching + Median,Canny,horse165,latih,0.0511,0.0972
+Contrast Stretching + Median,Laplacian,horse165,latih,0.0615,0.1159
+Contrast Stretching + Median,Canny,horse166,latih,0.4513,0.6219
+Contrast Stretching + Median,Laplacian,horse166,latih,0.2015,0.3355
+Contrast Stretching + Median,Canny,horse167,latih,0.4946,0.6618
+Contrast Stretching + Median,Laplacian,horse167,latih,0.4901,0.6578
+Contrast Stretching + Median,Canny,horse168,uji,0.6908,0.8172
+Contrast Stretching + Median,Laplacian,horse168,uji,0.1418,0.2484
+Contrast Stretching + Median,Canny,horse169,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse169,latih,0.5143,0.6792
+Contrast Stretching + Median,Canny,horse170,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse170,latih,0.1831,0.3096
+Contrast Stretching + Median,Canny,horse171,latih,0.3422,0.5099
+Contrast Stretching + Median,Laplacian,horse171,latih,0.4009,0.5724
+Contrast Stretching + Median,Canny,horse172,latih,0.4014,0.5728
+Contrast Stretching + Median,Laplacian,horse172,latih,0.3318,0.4983
+Contrast Stretching + Median,Canny,horse173,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse173,latih,0.1037,0.1879
+Contrast Stretching + Median,Canny,horse174,uji,0.626,0.77
+Contrast Stretching + Median,Laplacian,horse174,uji,0.0606,0.1143
+Contrast Stretching + Median,Canny,horse175,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse175,latih,0.2159,0.3552
+Contrast Stretching + Median,Canny,horse176,uji,0.0984,0.1791
+Contrast Stretching + Median,Laplacian,horse176,uji,0.2165,0.3559
+Contrast Stretching + Median,Canny,horse177,uji,0.0547,0.1038
+Contrast Stretching + Median,Laplacian,horse177,uji,0.0838,0.1547
+Contrast Stretching + Median,Canny,horse178,uji,0.4211,0.5927
+Contrast Stretching + Median,Laplacian,horse178,uji,0.1199,0.2141
+Contrast Stretching + Median,Canny,horse179,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse179,latih,0.2458,0.3946
+Contrast Stretching + Median,Canny,horse180,uji,0.1896,0.3187
+Contrast Stretching + Median,Laplacian,horse180,uji,0.1359,0.2393
+Contrast Stretching + Median,Canny,horse181,latih,0.5285,0.6915
+Contrast Stretching + Median,Laplacian,horse181,latih,0.2235,0.3654
+Contrast Stretching + Median,Canny,horse182,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse182,uji,0.787,0.8808
+Contrast Stretching + Median,Canny,horse183,latih,0.202,0.3362
+Contrast Stretching + Median,Laplacian,horse183,latih,0.3491,0.5175
+Contrast Stretching + Median,Canny,horse184,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse184,latih,0.0796,0.1475
+Contrast Stretching + Median,Canny,horse185,latih,0.0444,0.0851
+Contrast Stretching + Median,Laplacian,horse185,latih,0.4015,0.5729
+Contrast Stretching + Median,Canny,horse186,latih,0.1709,0.2919
+Contrast Stretching + Median,Laplacian,horse186,latih,0.2313,0.3756
+Contrast Stretching + Median,Canny,horse187,latih,0.16,0.2758
+Contrast Stretching + Median,Laplacian,horse187,latih,0.4568,0.6271
+Contrast Stretching + Median,Canny,horse188,latih,0.2099,0.347
+Contrast Stretching + Median,Laplacian,horse188,latih,0.2593,0.4119
+Contrast Stretching + Median,Canny,horse189,latih,0.1417,0.2483
+Contrast Stretching + Median,Laplacian,horse189,latih,0.1532,0.2656
+Contrast Stretching + Median,Canny,horse190,latih,0.1119,0.2012
+Contrast Stretching + Median,Laplacian,horse190,latih,0.2601,0.4128
+Contrast Stretching + Median,Canny,horse191,latih,0.5388,0.7003
+Contrast Stretching + Median,Laplacian,horse191,latih,0.4531,0.6236
+Contrast Stretching + Median,Canny,horse192,latih,0.069,0.129
+Contrast Stretching + Median,Laplacian,horse192,latih,0.0682,0.1278
+Contrast Stretching + Median,Canny,horse193,latih,0.7541,0.8598
+Contrast Stretching + Median,Laplacian,horse193,latih,0.1028,0.1865
+Contrast Stretching + Median,Canny,horse194,latih,0.107,0.1934
+Contrast Stretching + Median,Laplacian,horse194,latih,0.08,0.1481
+Contrast Stretching + Median,Canny,horse195,latih,0.297,0.458
+Contrast Stretching + Median,Laplacian,horse195,latih,0.2444,0.3927
+Contrast Stretching + Median,Canny,horse196,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse196,latih,0.0054,0.0107
+Contrast Stretching + Median,Canny,horse197,latih,0.5619,0.7195
+Contrast Stretching + Median,Laplacian,horse197,latih,0.183,0.3094
+Contrast Stretching + Median,Canny,horse198,latih,0.1592,0.2747
+Contrast Stretching + Median,Laplacian,horse198,latih,0.2141,0.3526
+Contrast Stretching + Median,Canny,horse199,latih,0.0582,0.11
+Contrast Stretching + Median,Laplacian,horse199,latih,0.6172,0.7633
+Contrast Stretching + Median,Canny,horse200,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse200,uji,0.2115,0.3492
+Contrast Stretching + Median,Canny,horse201,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse201,latih,0.5294,0.6923
+Contrast Stretching + Median,Canny,horse202,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse202,latih,0.0616,0.1161
+Contrast Stretching + Median,Canny,horse203,latih,0.2214,0.3625
+Contrast Stretching + Median,Laplacian,horse203,latih,0.1574,0.2719
+Contrast Stretching + Median,Canny,horse204,latih,0.238,0.3845
+Contrast Stretching + Median,Laplacian,horse204,latih,0.3127,0.4765
+Contrast Stretching + Median,Canny,horse205,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse205,uji,0.2202,0.3609
+Contrast Stretching + Median,Canny,horse206,latih,0.0347,0.0671
+Contrast Stretching + Median,Laplacian,horse206,latih,0.2066,0.3424
+Contrast Stretching + Median,Canny,horse207,latih,0.2348,0.3803
+Contrast Stretching + Median,Laplacian,horse207,latih,0.0321,0.0621
+Contrast Stretching + Median,Canny,horse208,latih,0.0866,0.1594
+Contrast Stretching + Median,Laplacian,horse208,latih,0.3014,0.4632
+Contrast Stretching + Median,Canny,horse209,latih,0.2081,0.3446
+Contrast Stretching + Median,Laplacian,horse209,latih,0.1775,0.3015
+Contrast Stretching + Median,Canny,horse210,uji,0.0129,0.0254
+Contrast Stretching + Median,Laplacian,horse210,uji,0.4628,0.6327
+Contrast Stretching + Median,Canny,horse211,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse211,latih,0.1018,0.1848
+Contrast Stretching + Median,Canny,horse212,latih,0.0705,0.1317
+Contrast Stretching + Median,Laplacian,horse212,latih,0.0907,0.1664
+Contrast Stretching + Median,Canny,horse213,latih,0.5611,0.7189
+Contrast Stretching + Median,Laplacian,horse213,latih,0.419,0.5905
+Contrast Stretching + Median,Canny,horse214,latih,0.1031,0.187
+Contrast Stretching + Median,Laplacian,horse214,latih,0.0816,0.1509
+Contrast Stretching + Median,Canny,horse215,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse215,latih,0.0965,0.176
+Contrast Stretching + Median,Canny,horse216,latih,0.4098,0.5814
+Contrast Stretching + Median,Laplacian,horse216,latih,0.1851,0.3124
+Contrast Stretching + Median,Canny,horse217,latih,0.6168,0.763
+Contrast Stretching + Median,Laplacian,horse217,latih,0.5805,0.7346
+Contrast Stretching + Median,Canny,horse218,latih,0.1911,0.3209
+Contrast Stretching + Median,Laplacian,horse218,latih,0.2636,0.4172
+Contrast Stretching + Median,Canny,horse219,latih,0.3251,0.4907
+Contrast Stretching + Median,Laplacian,horse219,latih,0.1654,0.2838
+Contrast Stretching + Median,Canny,horse220,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse220,latih,0.1582,0.2733
+Contrast Stretching + Median,Canny,horse221,uji,0.1868,0.3148
+Contrast Stretching + Median,Laplacian,horse221,uji,0.1634,0.2809
+Contrast Stretching + Median,Canny,horse222,latih,0.5494,0.7092
+Contrast Stretching + Median,Laplacian,horse222,latih,0.143,0.2502
+Contrast Stretching + Median,Canny,horse223,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse223,latih,0.4076,0.5791
+Contrast Stretching + Median,Canny,horse224,latih,0.3969,0.5682
+Contrast Stretching + Median,Laplacian,horse224,latih,0.1071,0.1934
+Contrast Stretching + Median,Canny,horse225,latih,0.1794,0.3042
+Contrast Stretching + Median,Laplacian,horse225,latih,0.6301,0.7731
+Contrast Stretching + Median,Canny,horse226,latih,0.5644,0.7216
+Contrast Stretching + Median,Laplacian,horse226,latih,0.1654,0.2839
+Contrast Stretching + Median,Canny,horse227,latih,0.1267,0.2249
+Contrast Stretching + Median,Laplacian,horse227,latih,0.1249,0.2221
+Contrast Stretching + Median,Canny,horse228,latih,0.4754,0.6444
+Contrast Stretching + Median,Laplacian,horse228,latih,0.2065,0.3422
+Contrast Stretching + Median,Canny,horse229,latih,0.0685,0.1282
+Contrast Stretching + Median,Laplacian,horse229,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse230,latih,0.3025,0.4645
+Contrast Stretching + Median,Laplacian,horse230,latih,0.4165,0.5881
+Contrast Stretching + Median,Canny,horse231,latih,0.4225,0.5941
+Contrast Stretching + Median,Laplacian,horse231,latih,0.4294,0.6008
+Contrast Stretching + Median,Canny,horse232,uji,0.0621,0.117
+Contrast Stretching + Median,Laplacian,horse232,uji,0.1229,0.2188
+Contrast Stretching + Median,Canny,horse233,latih,0.1515,0.2631
+Contrast Stretching + Median,Laplacian,horse233,latih,0.0187,0.0366
+Contrast Stretching + Median,Canny,horse234,latih,0.4642,0.6341
+Contrast Stretching + Median,Laplacian,horse234,latih,0.4466,0.6175
+Contrast Stretching + Median,Canny,horse235,latih,0.4039,0.5754
+Contrast Stretching + Median,Laplacian,horse235,latih,0.222,0.3633
+Contrast Stretching + Median,Canny,horse236,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse236,latih,0.1275,0.2262
+Contrast Stretching + Median,Canny,horse237,latih,0.1781,0.3024
+Contrast Stretching + Median,Laplacian,horse237,latih,0.0792,0.1467
+Contrast Stretching + Median,Canny,horse238,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse238,latih,0.5894,0.7417
+Contrast Stretching + Median,Canny,horse239,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse239,latih,0.0012,0.0025
+Contrast Stretching + Median,Canny,horse240,latih,0.2862,0.445
+Contrast Stretching + Median,Laplacian,horse240,latih,0.2288,0.3724
+Contrast Stretching + Median,Canny,horse241,latih,0.2894,0.4489
+Contrast Stretching + Median,Laplacian,horse241,latih,0.0901,0.1652
+Contrast Stretching + Median,Canny,horse242,latih,0.3203,0.4852
+Contrast Stretching + Median,Laplacian,horse242,latih,0.3853,0.5563
+Contrast Stretching + Median,Canny,horse243,latih,0.1425,0.2495
+Contrast Stretching + Median,Laplacian,horse243,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse244,latih,0.3595,0.5288
+Contrast Stretching + Median,Laplacian,horse244,latih,0.0751,0.1397
+Contrast Stretching + Median,Canny,horse245,uji,0.1334,0.2354
+Contrast Stretching + Median,Laplacian,horse245,uji,0.2534,0.4044
+Contrast Stretching + Median,Canny,horse246,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse246,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse247,latih,0.189,0.3179
+Contrast Stretching + Median,Laplacian,horse247,latih,0.168,0.2877
+Contrast Stretching + Median,Canny,horse248,latih,0.0798,0.1478
+Contrast Stretching + Median,Laplacian,horse248,latih,0.1243,0.2211
+Contrast Stretching + Median,Canny,horse249,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse249,uji,0.0754,0.1402
+Contrast Stretching + Median,Canny,horse250,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse250,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse251,uji,0.6166,0.7628
+Contrast Stretching + Median,Laplacian,horse251,uji,0.2472,0.3963
+Contrast Stretching + Median,Canny,horse252,latih,0.6484,0.7867
+Contrast Stretching + Median,Laplacian,horse252,latih,0.8086,0.8942
+Contrast Stretching + Median,Canny,horse253,latih,0.4108,0.5824
+Contrast Stretching + Median,Laplacian,horse253,latih,0.1116,0.2008
+Contrast Stretching + Median,Canny,horse254,latih,0.4718,0.6412
+Contrast Stretching + Median,Laplacian,horse254,latih,0.2959,0.4567
+Contrast Stretching + Median,Canny,horse255,uji,0.3384,0.5057
+Contrast Stretching + Median,Laplacian,horse255,uji,0.3277,0.4936
+Contrast Stretching + Median,Canny,horse256,latih,0.1118,0.2011
+Contrast Stretching + Median,Laplacian,horse256,latih,0.1805,0.3057
+Contrast Stretching + Median,Canny,horse257,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse257,latih,0.0373,0.0719
+Contrast Stretching + Median,Canny,horse258,latih,0.3323,0.4988
+Contrast Stretching + Median,Laplacian,horse258,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse259,latih,0.9416,0.9699
+Contrast Stretching + Median,Laplacian,horse259,latih,0.2821,0.4401
+Contrast Stretching + Median,Canny,horse260,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse260,latih,0.1544,0.2675
+Contrast Stretching + Median,Canny,horse261,latih,0.0922,0.1688
+Contrast Stretching + Median,Laplacian,horse261,latih,0.1372,0.2413
+Contrast Stretching + Median,Canny,horse262,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse262,uji,0.6874,0.8148
+Contrast Stretching + Median,Canny,horse263,latih,0.0258,0.0502
+Contrast Stretching + Median,Laplacian,horse263,latih,0.5164,0.6811
+Contrast Stretching + Median,Canny,horse264,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse264,latih,0.7169,0.8351
+Contrast Stretching + Median,Canny,horse265,latih,0.3894,0.5605
+Contrast Stretching + Median,Laplacian,horse265,latih,0.1981,0.3307
+Contrast Stretching + Median,Canny,horse266,latih,0.3171,0.4815
+Contrast Stretching + Median,Laplacian,horse266,latih,0.4256,0.5971
+Contrast Stretching + Median,Canny,horse267,uji,0.3965,0.5679
+Contrast Stretching + Median,Laplacian,horse267,uji,0.2458,0.3946
+Contrast Stretching + Median,Canny,horse268,latih,0.1609,0.2773
+Contrast Stretching + Median,Laplacian,horse268,latih,0.1294,0.2292
+Contrast Stretching + Median,Canny,horse269,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse269,latih,0.0108,0.0213
+Contrast Stretching + Median,Canny,horse270,latih,0.2231,0.3649
+Contrast Stretching + Median,Laplacian,horse270,latih,0.1848,0.3119
+Contrast Stretching + Median,Canny,horse271,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse271,latih,0.0087,0.0173
+Contrast Stretching + Median,Canny,horse272,latih,0.3137,0.4776
+Contrast Stretching + Median,Laplacian,horse272,latih,0.0334,0.0645
+Contrast Stretching + Median,Canny,horse273,uji,0.1668,0.2859
+Contrast Stretching + Median,Laplacian,horse273,uji,0.0263,0.0513
+Contrast Stretching + Median,Canny,horse274,latih,0.3726,0.5429
+Contrast Stretching + Median,Laplacian,horse274,latih,0.2371,0.3834
+Contrast Stretching + Median,Canny,horse275,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse275,latih,0.0976,0.1778
+Contrast Stretching + Median,Canny,horse276,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse276,uji,0.0532,0.101
+Contrast Stretching + Median,Canny,horse277,latih,0.2105,0.3478
+Contrast Stretching + Median,Laplacian,horse277,latih,0.1328,0.2345
+Contrast Stretching + Median,Canny,horse278,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse278,latih,0.1172,0.2098
+Contrast Stretching + Median,Canny,horse279,latih,0.57,0.7261
+Contrast Stretching + Median,Laplacian,horse279,latih,0.4702,0.6396
+Contrast Stretching + Median,Canny,horse280,latih,0.3622,0.5318
+Contrast Stretching + Median,Laplacian,horse280,latih,0.0062,0.0124
+Contrast Stretching + Median,Canny,horse281,latih,0.2026,0.3369
+Contrast Stretching + Median,Laplacian,horse281,latih,0.1849,0.3121
+Contrast Stretching + Median,Canny,horse282,latih,0.5039,0.6701
+Contrast Stretching + Median,Laplacian,horse282,latih,0.1072,0.1936
+Contrast Stretching + Median,Canny,horse283,latih,0.7388,0.8498
+Contrast Stretching + Median,Laplacian,horse283,latih,0.3496,0.5181
+Contrast Stretching + Median,Canny,horse284,latih,0.1405,0.2464
+Contrast Stretching + Median,Laplacian,horse284,latih,0.0776,0.1441
+Contrast Stretching + Median,Canny,horse285,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse285,latih,0.1276,0.2263
+Contrast Stretching + Median,Canny,horse286,latih,0.3944,0.5657
+Contrast Stretching + Median,Laplacian,horse286,latih,0.5104,0.6758
+Contrast Stretching + Median,Canny,horse287,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse287,uji,0.2982,0.4594
+Contrast Stretching + Median,Canny,horse288,uji,0.8953,0.9447
+Contrast Stretching + Median,Laplacian,horse288,uji,0.4396,0.6108
+Contrast Stretching + Median,Canny,horse289,latih,0.4288,0.6002
+Contrast Stretching + Median,Laplacian,horse289,latih,0.1465,0.2556
+Contrast Stretching + Median,Canny,horse290,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse290,latih,0.1229,0.219
+Contrast Stretching + Median,Canny,horse291,latih,0.4504,0.621
+Contrast Stretching + Median,Laplacian,horse291,latih,0.1704,0.2911
+Contrast Stretching + Median,Canny,horse292,uji,0.3157,0.4799
+Contrast Stretching + Median,Laplacian,horse292,uji,0.2375,0.3839
+Contrast Stretching + Median,Canny,horse293,latih,0.1466,0.2557
+Contrast Stretching + Median,Laplacian,horse293,latih,0.3002,0.4618
+Contrast Stretching + Median,Canny,horse294,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse294,latih,0.002,0.004
+Contrast Stretching + Median,Canny,horse295,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse295,latih,0.5555,0.7142
+Contrast Stretching + Median,Canny,horse296,uji,0.9114,0.9536
+Contrast Stretching + Median,Laplacian,horse296,uji,0.6814,0.8105
+Contrast Stretching + Median,Canny,horse297,latih,0.0264,0.0515
+Contrast Stretching + Median,Laplacian,horse297,latih,0.1531,0.2655
+Contrast Stretching + Median,Canny,horse298,latih,0.1026,0.1861
+Contrast Stretching + Median,Laplacian,horse298,latih,0.0042,0.0084
+Contrast Stretching + Median,Canny,horse299,latih,0.2481,0.3976
+Contrast Stretching + Median,Laplacian,horse299,latih,0.5691,0.7253
+Contrast Stretching + Median,Canny,horse300,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse300,latih,0.4106,0.5822
+Contrast Stretching + Median,Canny,horse301,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse301,latih,0.1796,0.3045
+Contrast Stretching + Median,Canny,horse302,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse302,latih,0.0986,0.1795
+Contrast Stretching + Median,Canny,horse303,latih,0.7093,0.8299
+Contrast Stretching + Median,Laplacian,horse303,latih,0.4737,0.6429
+Contrast Stretching + Median,Canny,horse304,uji,0.5515,0.7109
+Contrast Stretching + Median,Laplacian,horse304,uji,0.1919,0.322
+Contrast Stretching + Median,Canny,horse305,latih,0.1345,0.2371
+Contrast Stretching + Median,Laplacian,horse305,latih,0.4844,0.6527
+Contrast Stretching + Median,Canny,horse306,latih,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse306,latih,0.062,0.1168
+Contrast Stretching + Median,Canny,horse307,uji,0.0939,0.1716
+Contrast Stretching + Median,Laplacian,horse307,uji,0.1081,0.1951
+Contrast Stretching + Median,Canny,horse308,latih,0.2507,0.4009
+Contrast Stretching + Median,Laplacian,horse308,latih,0.0817,0.1511
+Contrast Stretching + Median,Canny,horse309,latih,0.1226,0.2184
+Contrast Stretching + Median,Laplacian,horse309,latih,0.1671,0.2863
+Contrast Stretching + Median,Canny,horse310,uji,0.4249,0.5964
+Contrast Stretching + Median,Laplacian,horse310,uji,0.0913,0.1673
+Contrast Stretching + Median,Canny,horse311,latih,0.29,0.4496
+Contrast Stretching + Median,Laplacian,horse311,latih,0.2378,0.3842
+Contrast Stretching + Median,Canny,horse312,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse312,uji,0.2484,0.3979
+Contrast Stretching + Median,Canny,horse313,latih,0.0464,0.0886
+Contrast Stretching + Median,Laplacian,horse313,latih,0.1534,0.266
+Contrast Stretching + Median,Canny,horse314,latih,0.2774,0.4343
+Contrast Stretching + Median,Laplacian,horse314,latih,0.6005,0.7504
+Contrast Stretching + Median,Canny,horse315,latih,0.6942,0.8195
+Contrast Stretching + Median,Laplacian,horse315,latih,0.6145,0.7613
+Contrast Stretching + Median,Canny,horse316,latih,0.0522,0.0993
+Contrast Stretching + Median,Laplacian,horse316,latih,0.0663,0.1244
+Contrast Stretching + Median,Canny,horse317,latih,0.0372,0.0717
+Contrast Stretching + Median,Laplacian,horse317,latih,0.1713,0.2925
+Contrast Stretching + Median,Canny,horse318,latih,0.1393,0.2445
+Contrast Stretching + Median,Laplacian,horse318,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse319,latih,0.1233,0.2195
+Contrast Stretching + Median,Laplacian,horse319,latih,0.2157,0.3548
+Contrast Stretching + Median,Canny,horse320,uji,0.0314,0.0608
+Contrast Stretching + Median,Laplacian,horse320,uji,0.1627,0.2799
+Contrast Stretching + Median,Canny,horse321,latih,0.037,0.0713
+Contrast Stretching + Median,Laplacian,horse321,latih,0.1733,0.2954
+Contrast Stretching + Median,Canny,horse322,latih,0.0283,0.055
+Contrast Stretching + Median,Laplacian,horse322,latih,0.1596,0.2753
+Contrast Stretching + Median,Canny,horse323,uji,0.076,0.1412
+Contrast Stretching + Median,Laplacian,horse323,uji,0.0559,0.1059
+Contrast Stretching + Median,Canny,horse324,latih,0.1017,0.1846
+Contrast Stretching + Median,Laplacian,horse324,latih,0.0,0.0
+Contrast Stretching + Median,Canny,horse325,uji,0.0,0.0
+Contrast Stretching + Median,Laplacian,horse325,uji,0.4468,0.6176
+Contrast Stretching + Median,Canny,horse326,latih,0.0168,0.0331
+Contrast Stretching + Median,Laplacian,horse326,latih,0.0458,0.0877
+Contrast Stretching + Median,Canny,horse327,latih,0.0779,0.1445
+Contrast Stretching + Median,Laplacian,horse327,latih,0.0213,0.0417

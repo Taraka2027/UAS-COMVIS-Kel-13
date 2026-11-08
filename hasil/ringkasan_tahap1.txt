@@ -1,0 +1,23 @@
+Filter: median (kernel 5) | jumlah citra: 327
+
+Kandidat                              Rata2 MSE   Rata2 PSNR
+Histogram Equalization                  1310.75     18.46 dB
+Histogram Equalization + Median         1415.37     17.76 dB
+Contrast Stretching                      455.56     25.77 dB
+Contrast Stretching + Median             583.68     22.39 dB
+CLAHE                                    726.92     19.84 dB
+CLAHE + Median                           748.59     19.74 dB
+
+Terbaik dari 6 (PSNR tertinggi): Contrast Stretching
+Berasal dari kelompok filter: TIDAK -> 2 input (Contrast Stretching dan Contrast Stretching + Median), 8 output
+Input yang dipakai: Contrast Stretching; Contrast Stretching + Median
+
+Input                              Metode     Subset    Rata2 IoU Rata2 Dice
+Contrast Stretching                Canny      semua        0.1531     0.2128
+Contrast Stretching                Canny      uji          0.1705     0.2250
+Contrast Stretching                Laplacian  semua        0.2209     0.3314
+Contrast Stretching                Laplacian  uji          0.2567     0.3742
+Contrast Stretching + Median       Canny      semua        0.2175     0.3078
+Contrast Stretching + Median       Canny      uji          0.2282     0.3077
+Contrast Stretching + Median       Laplacian  semua        0.2123     0.3218
+Contrast Stretching + Median       Laplacian  uji          0.2243     0.3378

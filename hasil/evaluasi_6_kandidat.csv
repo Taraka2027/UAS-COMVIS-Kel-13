@@ -1,0 +1,1963 @@
+citra,metode,MSE,PSNR_dB
+horse001,Histogram Equalization,1589.4837,16.1182
+horse001,Histogram Equalization + Median,1560.3245,16.1987
+horse001,Contrast Stretching,633.6397,20.1124
+horse001,Contrast Stretching + Median,641.566,20.0584
+horse001,CLAHE,879.4985,18.6885
+horse001,CLAHE + Median,838.315,18.8967
+horse002,Histogram Equalization,3442.9089,12.7615
+horse002,Histogram Equalization + Median,3619.4457,12.5444
+horse002,Contrast Stretching,25.7641,34.0206
+horse002,Contrast Stretching + Median,199.1958,25.138
+horse002,CLAHE,757.6655,19.336
+horse002,CLAHE + Median,764.8436,19.2951
+horse003,Histogram Equalization,335.2156,22.8776
+horse003,Histogram Equalization + Median,654.0462,19.9747
+horse003,Contrast Stretching,62.9706,30.1394
+horse003,Contrast Stretching + Median,356.3554,22.612
+horse003,CLAHE,357.9066,22.5931
+horse003,CLAHE + Median,533.748,20.8574
+horse004,Histogram Equalization,1065.3898,17.8557
+horse004,Histogram Equalization + Median,1287.6406,17.0329
+horse004,Contrast Stretching,84.2962,28.8727
+horse004,Contrast Stretching + Median,364.6426,22.5121
+horse004,CLAHE,799.0003,19.1053
+horse004,CLAHE + Median,890.9599,18.6322
+horse005,Histogram Equalization,704.398,19.6526
+horse005,Histogram Equalization + Median,930.6333,18.443
+horse005,Contrast Stretching,126.6074,27.1062
+horse005,Contrast Stretching + Median,400.0767,22.1094
+horse005,CLAHE,699.2675,19.6844
+horse005,CLAHE + Median,775.5403,19.2348
+horse006,Histogram Equalization,101.987,28.0454
+horse006,Histogram Equalization + Median,178.681,25.61
+horse006,Contrast Stretching,48.2836,31.2928
+horse006,Contrast Stretching + Median,139.3288,26.6904
+horse006,CLAHE,644.5276,20.0384
+horse006,CLAHE + Median,641.4156,20.0594
+horse007,Histogram Equalization,448.2784,21.6153
+horse007,Histogram Equalization + Median,534.415,20.852
+horse007,Contrast Stretching,271.8782,23.7871
+horse007,Contrast Stretching + Median,356.9546,22.6047
+horse007,CLAHE,549.7551,20.7291
+horse007,CLAHE + Median,568.2323,20.5855
+horse008,Histogram Equalization,642.8511,20.0497
+horse008,Histogram Equalization + Median,857.3641,18.7992
+horse008,Contrast Stretching,560.4294,20.6456
+horse008,Contrast Stretching + Median,826.5693,18.958
+horse008,CLAHE,581.6782,20.484
+horse008,CLAHE + Median,666.776,19.891
+horse009,Histogram Equalization,2863.9777,13.5611
+horse009,Histogram Equalization + Median,2883.6216,13.5314
+horse009,Contrast Stretching,2512.7914,14.1292
+horse009,Contrast Stretching + Median,2553.233,14.0599
+horse009,CLAHE,1448.3467,16.5221
+horse009,CLAHE + Median,1346.403,16.8391
+horse010,Histogram Equalization,269.4216,23.8265
+horse010,Histogram Equalization + Median,371.2797,22.4338
+horse010,Contrast Stretching,123.6902,27.2075
+horse010,Contrast Stretching + Median,244.6944,24.2446
+horse010,CLAHE,792.7875,19.1392
+horse010,CLAHE + Median,786.5085,19.1738
+horse011,Histogram Equalization,3726.5931,12.4177
+horse011,Histogram Equalization + Median,3660.8327,12.495
+horse011,Contrast Stretching,214.066,24.8253
+horse011,Contrast Stretching + Median,217.2446,24.7613
+horse011,CLAHE,876.3908,18.7038
+horse011,CLAHE + Median,794.3954,19.1304
+horse012,Histogram Equalization,489.3447,21.2347
+horse012,Histogram Equalization + Median,528.4866,20.9005
+horse012,Contrast Stretching,64.1099,30.0616
+horse012,Contrast Stretching + Median,131.6654,26.9361
+horse012,CLAHE,288.8141,23.5246
+horse012,CLAHE + Median,277.612,23.6964
+horse013,Histogram Equalization,4780.8132,11.3358
+horse013,Histogram Equalization + Median,4946.1793,11.1881
+horse013,Contrast Stretching,23.9231,34.3426
+horse013,Contrast Stretching + Median,106.155,27.8714
+horse013,CLAHE,431.1159,21.7849
+horse013,CLAHE + Median,452.8397,21.5714
+horse014,Histogram Equalization,928.1243,18.4547
+horse014,Histogram Equalization + Median,1221.3638,17.2624
+horse014,Contrast Stretching,165.5543,25.9414
+horse014,Contrast Stretching + Median,458.2401,21.5199
+horse014,CLAHE,427.6711,21.8197
+horse014,CLAHE + Median,602.0168,20.3347
+horse015,Histogram Equalization,786.7236,19.1726
+horse015,Histogram Equalization + Median,938.51,18.4064
+horse015,Contrast Stretching,22.8632,34.5394
+horse015,Contrast Stretching + Median,151.6547,26.3222
+horse015,CLAHE,472.7559,21.3844
+horse015,CLAHE + Median,510.5224,21.0507
+horse016,Histogram Equalization,356.8674,22.6057
+horse016,Histogram Equalization + Median,445.4238,21.6431
+horse016,Contrast Stretching,14.9691,36.3789
+horse016,Contrast Stretching + Median,123.1553,27.2263
+horse016,CLAHE,609.5614,20.2806
+horse016,CLAHE + Median,613.0997,20.2555
+horse017,Histogram Equalization,827.49,18.9532
+horse017,Histogram Equalization + Median,917.9313,18.5027
+horse017,Contrast Stretching,85.4689,28.8127
+horse017,Contrast Stretching + Median,218.4108,24.7381
+horse017,CLAHE,830.5213,18.9373
+horse017,CLAHE + Median,763.4866,19.3028
+horse018,Histogram Equalization,101.7811,28.0541
+horse018,Histogram Equalization + Median,179.1876,25.5977
+horse018,Contrast Stretching,48.3581,31.2861
+horse018,Contrast Stretching + Median,141.258,26.6307
+horse018,CLAHE,651.484,19.9918
+horse018,CLAHE + Median,656.3715,19.9593
+horse019,Histogram Equalization,624.5156,20.1754
+horse019,Histogram Equalization + Median,662.0484,19.9219
+horse019,Contrast Stretching,11.6554,37.4655
+horse019,Contrast Stretching + Median,65.3386,29.9791
+horse019,CLAHE,488.7809,21.2397
+horse019,CLAHE + Median,478.1981,21.3347
+horse020,Histogram Equalization,1123.2259,17.6261
+horse020,Histogram Equalization + Median,1143.0293,17.5502
+horse020,Contrast Stretching,2637.1266,13.9195
+horse020,Contrast Stretching + Median,2654.93,13.8903
+horse020,CLAHE,716.7739,19.577
+horse020,CLAHE + Median,666.8611,19.8904
+horse021,Histogram Equalization,693.7511,19.7188
+horse021,Histogram Equalization + Median,770.226,19.2646
+horse021,Contrast Stretching,1962.4663,15.2028
+horse021,Contrast Stretching + Median,2055.4842,15.0017
+horse021,CLAHE,693.0267,19.7233
+horse021,CLAHE + Median,659.7202,19.9372
+horse022,Histogram Equalization,278.939,23.6757
+horse022,Histogram Equalization + Median,335.7643,22.8705
+horse022,Contrast Stretching,57.1827,30.5582
+horse022,Contrast Stretching + Median,144.9096,26.5198
+horse022,CLAHE,401.7106,22.0917
+horse022,CLAHE + Median,369.5516,22.4541
+horse023,Histogram Equalization,293.0569,23.4613
+horse023,Histogram Equalization + Median,423.8382,21.8588
+horse023,Contrast Stretching,126.2835,27.1173
+horse023,Contrast Stretching + Median,250.5994,24.141
+horse023,CLAHE,473.4743,21.3778
+horse023,CLAHE + Median,509.6059,21.0585
+horse024,Histogram Equalization,4409.3333,11.6871
+horse024,Histogram Equalization + Median,4760.5919,11.3542
+horse024,Contrast Stretching,2.6156,43.9551
+horse024,Contrast Stretching + Median,198.6255,25.1505
+horse024,CLAHE,405.2099,22.054
+horse024,CLAHE + Median,525.6163,20.9241
+horse025,Histogram Equalization,1890.0172,15.3661
+horse025,Histogram Equalization + Median,1916.703,15.3053
+horse025,Contrast Stretching,2551.2027,14.0634
+horse025,Contrast Stretching + Median,2569.323,14.0326
+horse025,CLAHE,1653.2037,15.9475
+horse025,CLAHE + Median,1542.0418,16.2498
+horse026,Histogram Equalization,878.0194,18.6958
+horse026,Histogram Equalization + Median,1022.5774,18.0338
+horse026,Contrast Stretching,874.6081,18.7127
+horse026,Contrast Stretching + Median,1029.6995,18.0037
+horse026,CLAHE,439.0987,21.7052
+horse026,CLAHE + Median,464.7892,21.4582
+horse027,Histogram Equalization,1650.9586,15.9534
+horse027,Histogram Equalization + Median,1683.2963,15.8692
+horse027,Contrast Stretching,1475.7782,16.4406
+horse027,Contrast Stretching + Median,1504.0707,16.3581
+horse027,CLAHE,412.491,21.9767
+horse027,CLAHE + Median,390.4154,22.2155
+horse028,Histogram Equalization,459.3895,21.509
+horse028,Histogram Equalization + Median,592.1865,20.4062
+horse028,Contrast Stretching,166.5761,25.9147
+horse028,Contrast Stretching + Median,316.5147,23.1269
+horse028,CLAHE,1177.4682,17.4213
+horse028,CLAHE + Median,1175.564,17.4283
+horse029,Histogram Equalization,842.0735,18.8773
+horse029,Histogram Equalization + Median,941.5613,18.3923
+horse029,Contrast Stretching,366.2488,22.493
+horse029,Contrast Stretching + Median,487.996,21.2466
+horse029,CLAHE,538.4292,20.8195
+horse029,CLAHE + Median,536.8278,20.8325
+horse030,Histogram Equalization,360.2549,22.5647
+horse030,Histogram Equalization + Median,659.3063,19.9399
+horse030,Contrast Stretching,305.9448,23.2744
+horse030,Contrast Stretching + Median,611.9117,20.2639
+horse030,CLAHE,848.5325,18.8441
+horse030,CLAHE + Median,1012.5721,18.0765
+horse031,Histogram Equalization,431.9034,21.7769
+horse031,Histogram Equalization + Median,470.5551,21.4047
+horse031,Contrast Stretching,904.3051,18.5677
+horse031,Contrast Stretching + Median,944.1837,18.3802
+horse031,CLAHE,407.3596,22.031
+horse031,CLAHE + Median,359.2033,22.5774
+horse032,Histogram Equalization,804.01,19.0782
+horse032,Histogram Equalization + Median,909.4928,18.5428
+horse032,Contrast Stretching,259.2179,23.9942
+horse032,Contrast Stretching + Median,345.9081,22.7412
+horse032,CLAHE,464.7161,21.4589
+horse032,CLAHE + Median,455.476,21.5461
+horse033,Histogram Equalization,2398.8583,14.3308
+horse033,Histogram Equalization + Median,2431.0637,14.2728
+horse033,Contrast Stretching,243.7974,24.2605
+horse033,Contrast Stretching + Median,289.8587,23.5089
+horse033,CLAHE,622.8622,20.1869
+horse033,CLAHE + Median,587.9019,20.4378
+horse034,Histogram Equalization,379.6842,22.3366
+horse034,Histogram Equalization + Median,386.443,22.2599
+horse034,Contrast Stretching,117.8069,27.4191
+horse034,Contrast Stretching + Median,175.075,25.6986
+horse034,CLAHE,308.8657,23.2331
+horse034,CLAHE + Median,302.2096,23.3277
+horse035,Histogram Equalization,3940.3012,12.1755
+horse035,Histogram Equalization + Median,4015.0969,12.0938
+horse035,Contrast Stretching,1772.2267,15.6456
+horse035,Contrast Stretching + Median,1805.6337,15.5645
+horse035,CLAHE,840.5105,18.8854
+horse035,CLAHE + Median,783.8323,19.1886
+horse036,Histogram Equalization,67.6159,29.8303
+horse036,Histogram Equalization + Median,575.0499,20.5337
+horse036,Contrast Stretching,35.059,32.6828
+horse036,Contrast Stretching + Median,571.6949,20.5592
+horse036,CLAHE,642.2183,20.054
+horse036,CLAHE + Median,1055.7361,17.8952
+horse037,Histogram Equalization,1832.4095,15.5006
+horse037,Histogram Equalization + Median,1864.4805,15.4252
+horse037,Contrast Stretching,88.4536,28.6636
+horse037,Contrast Stretching + Median,131.5622,26.9395
+horse037,CLAHE,471.1107,21.3996
+horse037,CLAHE + Median,476.8793,21.3467
+horse038,Histogram Equalization,446.5777,21.6318
+horse038,Histogram Equalization + Median,433.5508,21.7604
+horse038,Contrast Stretching,228.5893,24.5402
+horse038,Contrast Stretching + Median,272.2055,23.7818
+horse038,CLAHE,658.7225,19.9438
+horse038,CLAHE + Median,620.393,20.2041
+horse039,Histogram Equalization,667.4582,19.8866
+horse039,Histogram Equalization + Median,699.5034,19.6829
+horse039,Contrast Stretching,713.3249,19.5979
+horse039,Contrast Stretching + Median,836.8235,18.9045
+horse039,CLAHE,535.0433,20.8469
+horse039,CLAHE + Median,523.9888,20.9376
+horse040,Histogram Equalization,2237.2758,14.6336
+horse040,Histogram Equalization + Median,2270.782,14.569
+horse040,Contrast Stretching,2556.7469,14.0539
+horse040,Contrast Stretching + Median,2647.1644,13.903
+horse040,CLAHE,1442.1837,16.5406
+horse040,CLAHE + Median,1382.8412,16.7231
+horse041,Histogram Equalization,1261.1452,17.1232
+horse041,Histogram Equalization + Median,1201.5524,17.3334
+horse041,Contrast Stretching,607.3131,20.2967
+horse041,Contrast Stretching + Median,738.3102,19.4484
+horse041,CLAHE,854.9327,18.8115
+horse041,CLAHE + Median,779.4502,19.2129
+horse042,Histogram Equalization,211.0154,24.8877
+horse042,Histogram Equalization + Median,502.7149,21.1176
+horse042,Contrast Stretching,34.232,32.7865
+horse042,Contrast Stretching + Median,329.5075,22.9522
+horse042,CLAHE,909.1962,18.5442
+horse042,CLAHE + Median,1060.8925,17.8741
+horse043,Histogram Equalization,361.9644,22.5441
+horse043,Histogram Equalization + Median,661.8306,19.9233
+horse043,Contrast Stretching,84.0521,28.8853
+horse043,Contrast Stretching + Median,415.5691,21.9444
+horse043,CLAHE,810.8467,19.0414
+horse043,CLAHE + Median,964.4654,18.2879
+horse044,Histogram Equalization,1033.3821,17.9882
+horse044,Histogram Equalization + Median,1079.3333,17.7992
+horse044,Contrast Stretching,21.4981,34.8068
+horse044,Contrast Stretching + Median,91.3142,28.5254
+horse044,CLAHE,454.9815,21.5509
+horse044,CLAHE + Median,440.3272,21.693
+horse045,Histogram Equalization,1037.9339,17.9691
+horse045,Histogram Equalization + Median,1095.9474,17.7329
+horse045,Contrast Stretching,7.5319,39.3617
+horse045,Contrast Stretching + Median,107.2835,27.8255
+horse045,CLAHE,827.688,18.9521
+horse045,CLAHE + Median,804.1078,19.0777
+horse046,Histogram Equalization,398.0572,22.1313
+horse046,Histogram Equalization + Median,574.4916,20.538
+horse046,Contrast Stretching,57.6318,30.5242
+horse046,Contrast Stretching + Median,293.1819,23.4594
+horse046,CLAHE,781.3061,19.2026
+horse046,CLAHE + Median,832.6386,18.9262
+horse047,Histogram Equalization,187.7519,25.395
+horse047,Histogram Equalization + Median,254.0909,24.0809
+horse047,Contrast Stretching,494.7402,21.187
+horse047,Contrast Stretching + Median,567.3653,20.5922
+horse047,CLAHE,609.2836,20.2826
+horse047,CLAHE + Median,613.3882,20.2534
+horse048,Histogram Equalization,1322.2506,16.9177
+horse048,Histogram Equalization + Median,1327.4004,16.9008
+horse048,Contrast Stretching,1252.5052,17.153
+horse048,Contrast Stretching + Median,1253.9245,17.1481
+horse048,CLAHE,609.2621,20.2828
+horse048,CLAHE + Median,574.3034,20.5394
+horse049,Histogram Equalization,943.8081,18.382
+horse049,Histogram Equalization + Median,1162.4656,17.477
+horse049,Contrast Stretching,120.1431,27.3338
+horse049,Contrast Stretching + Median,367.4825,22.4784
+horse049,CLAHE,692.3297,19.7277
+horse049,CLAHE + Median,799.5586,19.1023
+horse050,Histogram Equalization,1072.1146,17.8284
+horse050,Histogram Equalization + Median,1098.3374,17.7234
+horse050,Contrast Stretching,871.6679,18.7273
+horse050,Contrast Stretching + Median,912.0353,18.5307
+horse050,CLAHE,275.3382,23.7321
+horse050,CLAHE + Median,273.236,23.7654
+horse051,Histogram Equalization,1318.3983,16.9303
+horse051,Histogram Equalization + Median,1574.2752,16.16
+horse051,Contrast Stretching,190.1662,25.3395
+horse051,Contrast Stretching + Median,434.0787,21.7551
+horse051,CLAHE,587.9522,20.4374
+horse051,CLAHE + Median,765.7419,19.29
+horse052,Histogram Equalization,546.3517,20.7561
+horse052,Histogram Equalization + Median,590.8311,20.4162
+horse052,Contrast Stretching,33.7605,32.8467
+horse052,Contrast Stretching + Median,93.4196,28.4264
+horse052,CLAHE,511.8786,21.0391
+horse052,CLAHE + Median,504.6816,21.1006
+horse053,Histogram Equalization,411.7593,21.9844
+horse053,Histogram Equalization + Median,672.1126,19.8564
+horse053,Contrast Stretching,271.6741,23.7903
+horse053,Contrast Stretching + Median,536.5489,20.8347
+horse053,CLAHE,810.0577,19.0456
+horse053,CLAHE + Median,879.6421,18.6877
+horse054,Histogram Equalization,1244.3224,17.1815
+horse054,Histogram Equalization + Median,1345.8748,16.8408
+horse054,Contrast Stretching,1122.2541,17.6299
+horse054,Contrast Stretching + Median,1324.6672,16.9097
+horse054,CLAHE,538.2595,20.8209
+horse054,CLAHE + Median,553.7575,20.6976
+horse055,Histogram Equalization,1292.511,17.0165
+horse055,Histogram Equalization + Median,1592.2323,16.1107
+horse055,Contrast Stretching,491.4408,21.2161
+horse055,Contrast Stretching + Median,818.1289,19.0026
+horse055,CLAHE,516.0159,21.0042
+horse055,CLAHE + Median,681.5691,19.7957
+horse056,Histogram Equalization,2197.3473,14.7118
+horse056,Histogram Equalization + Median,2647.8168,13.9019
+horse056,Contrast Stretching,546.2999,20.7565
+horse056,Contrast Stretching + Median,944.4232,18.3791
+horse056,CLAHE,1630.7747,16.0069
+horse056,CLAHE + Median,1844.8882,15.4711
+horse057,Histogram Equalization,1113.2657,17.6648
+horse057,Histogram Equalization + Median,1268.5759,17.0976
+horse057,Contrast Stretching,231.339,24.4883
+horse057,Contrast Stretching + Median,410.4724,21.998
+horse057,CLAHE,741.5411,19.4295
+horse057,CLAHE + Median,775.7569,19.2335
+horse058,Histogram Equalization,5657.0959,10.6049
+horse058,Histogram Equalization + Median,5780.6349,10.511
+horse058,Contrast Stretching,648.0895,20.0145
+horse058,Contrast Stretching + Median,746.8885,19.3982
+horse058,CLAHE,1017.0652,18.0573
+horse058,CLAHE + Median,1069.7449,17.838
+horse059,Histogram Equalization,1007.5214,18.0983
+horse059,Histogram Equalization + Median,1244.154,17.1821
+horse059,Contrast Stretching,55.1459,30.7157
+horse059,Contrast Stretching + Median,378.5323,22.3498
+horse059,CLAHE,901.3545,18.5818
+horse059,CLAHE + Median,965.8121,18.2819
+horse060,Histogram Equalization,256.1869,24.0452
+horse060,Histogram Equalization + Median,411.5048,21.9871
+horse060,Contrast Stretching,15.4219,36.2494
+horse060,Contrast Stretching + Median,178.3255,25.6187
+horse060,CLAHE,874.9937,18.7108
+horse060,CLAHE + Median,900.1103,18.5878
+horse061,Histogram Equalization,524.5779,20.9327
+horse061,Histogram Equalization + Median,623.7879,20.1804
+horse061,Contrast Stretching,46.7888,31.4294
+horse061,Contrast Stretching + Median,150.0605,26.3681
+horse061,CLAHE,633.6683,20.1122
+horse061,CLAHE + Median,606.9739,20.2991
+horse062,Histogram Equalization,944.4993,18.3788
+horse062,Histogram Equalization + Median,941.979,18.3904
+horse062,Contrast Stretching,129.4538,27.0097
+horse062,Contrast Stretching + Median,170.4499,25.8148
+horse062,CLAHE,465.4043,21.4525
+horse062,CLAHE + Median,436.8759,21.7272
+horse063,Histogram Equalization,907.9601,18.5501
+horse063,Histogram Equalization + Median,1118.1113,17.646
+horse063,Contrast Stretching,4.2706,41.8259
+horse063,Contrast Stretching + Median,171.2213,25.7952
+horse063,CLAHE,1004.2224,18.1125
+horse063,CLAHE + Median,1078.4382,17.8029
+horse064,Histogram Equalization,84.6739,28.8533
+horse064,Histogram Equalization + Median,455.0508,21.5502
+horse064,Contrast Stretching,54.2478,30.787
+horse064,Contrast Stretching + Median,421.8035,21.8797
+horse064,CLAHE,1132.2161,17.5915
+horse064,CLAHE + Median,1232.8135,17.2218
+horse065,Histogram Equalization,564.3181,20.6156
+horse065,Histogram Equalization + Median,682.4937,19.7898
+horse065,Contrast Stretching,23.4322,34.4327
+horse065,Contrast Stretching + Median,176.2186,25.6703
+horse065,CLAHE,903.6967,18.5706
+horse065,CLAHE + Median,937.8294,18.4096
+horse066,Histogram Equalization,125.6505,27.1392
+horse066,Histogram Equalization + Median,329.6542,22.9502
+horse066,Contrast Stretching,90.8749,28.5464
+horse066,Contrast Stretching + Median,297.934,23.3896
+horse066,CLAHE,485.1167,21.2723
+horse066,CLAHE + Median,571.0087,20.5644
+horse067,Histogram Equalization,373.0708,22.4129
+horse067,Histogram Equalization + Median,533.6429,20.8583
+horse067,Contrast Stretching,426.095,21.8357
+horse067,Contrast Stretching + Median,578.5132,20.5077
+horse067,CLAHE,704.014,19.655
+horse067,CLAHE + Median,718.8544,19.5644
+horse068,Histogram Equalization,1042.8217,17.9487
+horse068,Histogram Equalization + Median,989.9007,18.1749
+horse068,Contrast Stretching,2028.6422,15.0587
+horse068,Contrast Stretching + Median,2085.2591,14.9392
+horse068,CLAHE,875.8317,18.7066
+horse068,CLAHE + Median,807.3514,19.0602
+horse069,Histogram Equalization,469.9577,21.4102
+horse069,Histogram Equalization + Median,607.3743,20.2962
+horse069,Contrast Stretching,344.4835,22.7591
+horse069,Contrast Stretching + Median,475.8605,21.356
+horse069,CLAHE,352.0266,22.665
+horse069,CLAHE + Median,402.4016,22.0842
+horse070,Histogram Equalization,704.1696,19.654
+horse070,Histogram Equalization + Median,749.8967,19.3808
+horse070,Contrast Stretching,308.5555,23.2375
+horse070,Contrast Stretching + Median,413.938,21.9615
+horse070,CLAHE,561.6078,20.6365
+horse070,CLAHE + Median,544.0681,20.7743
+horse071,Histogram Equalization,824.834,18.9671
+horse071,Histogram Equalization + Median,917.5592,18.5045
+horse071,Contrast Stretching,330.8962,22.9339
+horse071,Contrast Stretching + Median,422.7203,21.8703
+horse071,CLAHE,1969.405,15.1875
+horse071,CLAHE + Median,1894.495,15.3559
+horse072,Histogram Equalization,1476.7318,16.4378
+horse072,Histogram Equalization + Median,1407.8707,16.6452
+horse072,Contrast Stretching,217.4215,24.7578
+horse072,Contrast Stretching + Median,219.9944,24.7067
+horse072,CLAHE,569.3032,20.5774
+horse072,CLAHE + Median,532.6146,20.8667
+horse073,Histogram Equalization,2399.2478,14.3301
+horse073,Histogram Equalization + Median,2499.4252,14.1524
+horse073,Contrast Stretching,5.5882,40.6581
+horse073,Contrast Stretching + Median,149.247,26.3917
+horse073,CLAHE,1143.88,17.547
+horse073,CLAHE + Median,1140.8614,17.5585
+horse074,Histogram Equalization,1873.6608,15.4039
+horse074,Histogram Equalization + Median,1912.272,15.3153
+horse074,Contrast Stretching,247.2939,24.1987
+horse074,Contrast Stretching + Median,285.6108,23.5731
+horse074,CLAHE,351.0311,22.6773
+horse074,CLAHE + Median,346.6928,22.7314
+horse075,Histogram Equalization,821.7984,18.9832
+horse075,Histogram Equalization + Median,944.4342,18.3791
+horse075,Contrast Stretching,38.0165,32.3311
+horse075,Contrast Stretching + Median,159.6374,26.0995
+horse075,CLAHE,1180.5292,17.41
+horse075,CLAHE + Median,1164.0918,17.4709
+horse076,Histogram Equalization,1191.9142,17.3684
+horse076,Histogram Equalization + Median,1180.0775,17.4117
+horse076,Contrast Stretching,213.7547,24.8316
+horse076,Contrast Stretching + Median,292.5952,23.4681
+horse076,CLAHE,707.1074,19.6359
+horse076,CLAHE + Median,673.1887,19.8494
+horse077,Histogram Equalization,1485.6198,16.4117
+horse077,Histogram Equalization + Median,1473.1683,16.4483
+horse077,Contrast Stretching,431.9332,21.7766
+horse077,Contrast Stretching + Median,435.7288,21.7386
+horse077,CLAHE,406.8559,22.0364
+horse077,CLAHE + Median,375.945,22.3796
+horse078,Histogram Equalization,613.285,20.2542
+horse078,Histogram Equalization + Median,631.3767,20.1279
+horse078,Contrast Stretching,880.2128,18.6849
+horse078,Contrast Stretching + Median,929.1377,18.45
+horse078,CLAHE,327.7617,22.9752
+horse078,CLAHE + Median,305.5868,23.2795
+horse079,Histogram Equalization,713.0929,19.5993
+horse079,Histogram Equalization + Median,791.1521,19.1482
+horse079,Contrast Stretching,196.0161,25.2079
+horse079,Contrast Stretching + Median,340.7557,22.8064
+horse079,CLAHE,641.1508,20.0612
+horse079,CLAHE + Median,625.7906,20.1665
+horse080,Histogram Equalization,819.0679,18.9976
+horse080,Histogram Equalization + Median,934.5353,18.4248
+horse080,Contrast Stretching,334.2441,22.8902
+horse080,Contrast Stretching + Median,506.3844,21.086
+horse080,CLAHE,498.2891,21.156
+horse080,CLAHE + Median,532.3439,20.8689
+horse081,Histogram Equalization,1534.0566,16.2724
+horse081,Histogram Equalization + Median,1651.784,15.9513
+horse081,Contrast Stretching,2361.358,14.3992
+horse081,Contrast Stretching + Median,2521.453,14.1143
+horse081,CLAHE,401.0077,22.0993
+horse081,CLAHE + Median,445.2358,21.6449
+horse082,Histogram Equalization,1346.1055,16.84
+horse082,Histogram Equalization + Median,1359.1406,16.7982
+horse082,Contrast Stretching,98.4865,28.197
+horse082,Contrast Stretching + Median,146.0117,26.4869
+horse082,CLAHE,449.7895,21.6007
+horse082,CLAHE + Median,411.1763,21.9905
+horse083,Histogram Equalization,1387.7563,16.7077
+horse083,Histogram Equalization + Median,1447.4651,16.5247
+horse083,Contrast Stretching,557.3088,20.6698
+horse083,Contrast Stretching + Median,616.1672,20.2338
+horse083,CLAHE,187.7939,25.394
+horse083,CLAHE + Median,181.094,25.5518
+horse084,Histogram Equalization,995.5537,18.1502
+horse084,Histogram Equalization + Median,1154.1847,17.5081
+horse084,Contrast Stretching,597.7868,20.3653
+horse084,Contrast Stretching + Median,770.0631,19.2655
+horse084,CLAHE,491.8374,21.2126
+horse084,CLAHE + Median,511.919,21.0388
+horse085,Histogram Equalization,1413.3936,16.6282
+horse085,Histogram Equalization + Median,1481.0285,16.4252
+horse085,Contrast Stretching,425.2611,21.8442
+horse085,Contrast Stretching + Median,518.677,20.9818
+horse085,CLAHE,789.319,19.1583
+horse085,CLAHE + Median,776.7242,19.2281
+horse086,Histogram Equalization,504.6069,21.1013
+horse086,Histogram Equalization + Median,510.0752,21.0545
+horse086,Contrast Stretching,301.607,23.3364
+horse086,Contrast Stretching + Median,324.7849,23.0148
+horse086,CLAHE,842.9391,18.8728
+horse086,CLAHE + Median,787.5618,19.168
+horse087,Histogram Equalization,1017.8286,18.0541
+horse087,Histogram Equalization + Median,1069.9809,17.837
+horse087,Contrast Stretching,518.7677,20.9811
+horse087,Contrast Stretching + Median,628.1954,20.1499
+horse087,CLAHE,510.0523,21.0547
+horse087,CLAHE + Median,485.2289,21.2713
+horse088,Histogram Equalization,708.2688,19.6288
+horse088,Histogram Equalization + Median,829.3269,18.9435
+horse088,Contrast Stretching,560.4556,20.6454
+horse088,Contrast Stretching + Median,727.1464,19.5146
+horse088,CLAHE,675.3324,19.8356
+horse088,CLAHE + Median,659.1927,19.9407
+horse089,Histogram Equalization,825.783,18.9621
+horse089,Histogram Equalization + Median,854.1801,18.8153
+horse089,Contrast Stretching,1264.6089,17.1112
+horse089,Contrast Stretching + Median,1347.727,16.8348
+horse089,CLAHE,557.322,20.6697
+horse089,CLAHE + Median,495.7901,21.1778
+horse090,Histogram Equalization,920.7242,18.4895
+horse090,Histogram Equalization + Median,855.2144,18.8101
+horse090,Contrast Stretching,976.3001,18.235
+horse090,Contrast Stretching + Median,975.8257,18.2371
+horse090,CLAHE,609.9629,20.2778
+horse090,CLAHE + Median,508.4648,21.0682
+horse091,Histogram Equalization,949.2799,18.3569
+horse091,Histogram Equalization + Median,1052.7309,17.9076
+horse091,Contrast Stretching,375.5884,22.3837
+horse091,Contrast Stretching + Median,493.5638,21.1974
+horse091,CLAHE,1176.18,17.4261
+horse091,CLAHE + Median,1127.3763,17.6101
+horse092,Histogram Equalization,1716.2029,15.7851
+horse092,Histogram Equalization + Median,1793.1101,15.5947
+horse092,Contrast Stretching,24.7215,34.2001
+horse092,Contrast Stretching + Median,119.7114,27.3494
+horse092,CLAHE,739.0153,19.4443
+horse092,CLAHE + Median,708.8205,19.6254
+horse093,Histogram Equalization,753.7123,19.3587
+horse093,Histogram Equalization + Median,791.349,19.1471
+horse093,Contrast Stretching,1029.4792,18.0046
+horse093,Contrast Stretching + Median,1123.8395,17.6238
+horse093,CLAHE,620.1762,20.2057
+horse093,CLAHE + Median,537.1574,20.8298
+horse094,Histogram Equalization,4697.0648,11.4125
+horse094,Histogram Equalization + Median,4667.9545,11.4395
+horse094,Contrast Stretching,258.0986,24.0129
+horse094,Contrast Stretching + Median,266.2951,23.8772
+horse094,CLAHE,858.2409,18.7947
+horse094,CLAHE + Median,840.0898,18.8875
+horse095,Histogram Equalization,1183.0165,17.4009
+horse095,Histogram Equalization + Median,1146.7838,17.536
+horse095,Contrast Stretching,792.3398,19.1417
+horse095,Contrast Stretching + Median,784.0986,19.1871
+horse095,CLAHE,412.1217,21.9805
+horse095,CLAHE + Median,358.4404,22.5866
+horse096,Histogram Equalization,446.0481,21.637
+horse096,Histogram Equalization + Median,871.9929,18.7257
+horse096,Contrast Stretching,259.9097,23.9826
+horse096,Contrast Stretching + Median,743.6595,19.4171
+horse096,CLAHE,757.7101,19.3358
+horse096,CLAHE + Median,1034.6372,17.9829
+horse097,Histogram Equalization,1309.178,16.9608
+horse097,Histogram Equalization + Median,1110.2404,17.6766
+horse097,Contrast Stretching,300.8003,23.348
+horse097,Contrast Stretching + Median,310.298,23.213
+horse097,CLAHE,461.608,21.4881
+horse097,CLAHE + Median,404.6976,22.0595
+horse098,Histogram Equalization,755.8257,19.3466
+horse098,Histogram Equalization + Median,861.2776,18.7794
+horse098,Contrast Stretching,73.8115,29.4496
+horse098,Contrast Stretching + Median,248.3723,24.1798
+horse098,CLAHE,857.4532,18.7987
+horse098,CLAHE + Median,884.0001,18.6663
+horse099,Histogram Equalization,1474.6197,16.444
+horse099,Histogram Equalization + Median,1551.7247,16.2227
+horse099,Contrast Stretching,52.4203,30.9358
+horse099,Contrast Stretching + Median,106.7796,27.8459
+horse099,CLAHE,609.295,20.2825
+horse099,CLAHE + Median,624.1278,20.1781
+horse100,Histogram Equalization,2463.5973,14.2151
+horse100,Histogram Equalization + Median,2496.4323,14.1576
+horse100,Contrast Stretching,2235.4919,14.6371
+horse100,Contrast Stretching + Median,2284.3976,14.5431
+horse100,CLAHE,527.8839,20.9054
+horse100,CLAHE + Median,532.6609,20.8663
+horse101,Histogram Equalization,2397.3984,14.3334
+horse101,Histogram Equalization + Median,2575.5948,14.022
+horse101,Contrast Stretching,588.1867,20.4357
+horse101,Contrast Stretching + Median,661.5528,19.9252
+horse101,CLAHE,379.3589,22.3403
+horse101,CLAHE + Median,393.5736,22.1805
+horse102,Histogram Equalization,2148.4552,14.8095
+horse102,Histogram Equalization + Median,2265.3447,14.5795
+horse102,Contrast Stretching,909.7448,18.5416
+horse102,Contrast Stretching + Median,992.3424,18.1642
+horse102,CLAHE,1386.0068,16.7131
+horse102,CLAHE + Median,1323.8653,16.9124
+horse103,Histogram Equalization,278.9168,23.6761
+horse103,Histogram Equalization + Median,977.8726,18.228
+horse103,Contrast Stretching,88.3256,28.6699
+horse103,Contrast Stretching + Median,703.1764,19.6602
+horse103,CLAHE,1063.9237,17.8617
+horse103,CLAHE + Median,1520.6207,16.3106
+horse104,Histogram Equalization,740.611,19.4349
+horse104,Histogram Equalization + Median,1228.291,17.2378
+horse104,Contrast Stretching,8.5806,38.7956
+horse104,Contrast Stretching + Median,419.5083,21.9034
+horse104,CLAHE,815.3838,19.0172
+horse104,CLAHE + Median,1049.3686,17.9215
+horse105,Histogram Equalization,892.5761,18.6244
+horse105,Histogram Equalization + Median,1469.7254,16.4584
+horse105,Contrast Stretching,19.4696,35.2372
+horse105,Contrast Stretching + Median,590.0531,20.4219
+horse105,CLAHE,795.0816,19.1267
+horse105,CLAHE + Median,1165.8517,17.4644
+horse106,Histogram Equalization,496.3878,21.1726
+horse106,Histogram Equalization + Median,550.8198,20.7207
+horse106,Contrast Stretching,227.4098,24.5627
+horse106,Contrast Stretching + Median,296.6533,23.4083
+horse106,CLAHE,1013.5186,18.0725
+horse106,CLAHE + Median,959.2729,18.3114
+horse107,Histogram Equalization,1000.9183,18.1268
+horse107,Histogram Equalization + Median,1061.7619,17.8705
+horse107,Contrast Stretching,566.6301,20.5978
+horse107,Contrast Stretching + Median,630.6109,20.1332
+horse107,CLAHE,1180.8295,17.4089
+horse107,CLAHE + Median,1098.8896,17.7213
+horse108,Histogram Equalization,1386.6577,16.7111
+horse108,Histogram Equalization + Median,1309.0397,16.9613
+horse108,Contrast Stretching,125.0145,27.1612
+horse108,Contrast Stretching + Median,200.6091,25.1073
+horse108,CLAHE,564.7303,20.6124
+horse108,CLAHE + Median,500.5681,21.1362
+horse109,Histogram Equalization,2653.1621,13.8932
+horse109,Histogram Equalization + Median,2614.6016,13.9567
+horse109,Contrast Stretching,177.9713,25.6273
+horse109,Contrast Stretching + Median,232.1377,24.4733
+horse109,CLAHE,678.8615,19.813
+horse109,CLAHE + Median,676.0523,19.831
+horse110,Histogram Equalization,925.7484,18.4659
+horse110,Histogram Equalization + Median,1044.3746,17.9422
+horse110,Contrast Stretching,25.4916,34.0668
+horse110,Contrast Stretching + Median,201.1497,25.0956
+horse110,CLAHE,719.0058,19.5635
+horse110,CLAHE + Median,740.8075,19.4338
+horse111,Histogram Equalization,167.2144,25.8981
+horse111,Histogram Equalization + Median,400.1417,22.1087
+horse111,Contrast Stretching,80.8168,29.0558
+horse111,Contrast Stretching + Median,322.8594,23.0407
+horse111,CLAHE,448.5902,21.6123
+horse111,CLAHE + Median,586.6261,20.4472
+horse112,Histogram Equalization,302.7984,23.3193
+horse112,Histogram Equalization + Median,594.3621,20.3903
+horse112,Contrast Stretching,6.5511,39.9677
+horse112,Contrast Stretching + Median,301.5504,23.3372
+horse112,CLAHE,1013.6954,18.0717
+horse112,CLAHE + Median,1123.0445,17.6268
+horse113,Histogram Equalization,941.01,18.3949
+horse113,Histogram Equalization + Median,1155.2115,17.5042
+horse113,Contrast Stretching,424.3644,21.8534
+horse113,Contrast Stretching + Median,625.2778,20.1701
+horse113,CLAHE,722.8253,19.5405
+horse113,CLAHE + Median,725.9085,19.522
+horse114,Histogram Equalization,920.5366,18.4904
+horse114,Histogram Equalization + Median,955.6965,18.3276
+horse114,Contrast Stretching,601.9665,20.3351
+horse114,Contrast Stretching + Median,712.9893,19.6
+horse114,CLAHE,785.5177,19.1792
+horse114,CLAHE + Median,728.6041,19.5059
+horse115,Histogram Equalization,1693.7175,15.8424
+horse115,Histogram Equalization + Median,1727.0877,15.7577
+horse115,Contrast Stretching,293.166,23.4597
+horse115,Contrast Stretching + Median,583.2491,20.4723
+horse115,CLAHE,861.6293,18.7776
+horse115,CLAHE + Median,903.7857,18.5701
+horse116,Histogram Equalization,515.0874,21.012
+horse116,Histogram Equalization + Median,550.0692,20.7266
+horse116,Contrast Stretching,68.0188,29.8045
+horse116,Contrast Stretching + Median,164.475,25.9698
+horse116,CLAHE,676.3072,19.8294
+horse116,CLAHE + Median,651.9487,19.9887
+horse117,Histogram Equalization,547.2762,20.7487
+horse117,Histogram Equalization + Median,612.7683,20.2578
+horse117,Contrast Stretching,62.8896,30.145
+horse117,Contrast Stretching + Median,143.9491,26.5487
+horse117,CLAHE,946.5842,18.3692
+horse117,CLAHE + Median,926.4338,18.4627
+horse118,Histogram Equalization,2921.0779,13.4754
+horse118,Histogram Equalization + Median,3030.7461,13.3153
+horse118,Contrast Stretching,93.3489,28.4297
+horse118,Contrast Stretching + Median,168.443,25.8663
+horse118,CLAHE,553.1806,20.7021
+horse118,CLAHE + Median,557.7202,20.6666
+horse119,Histogram Equalization,544.4069,20.7716
+horse119,Histogram Equalization + Median,538.8334,20.8163
+horse119,Contrast Stretching,43.531,31.7428
+horse119,Contrast Stretching + Median,59.7683,30.3661
+horse119,CLAHE,610.6072,20.2732
+horse119,CLAHE + Median,575.4214,20.5309
+horse120,Histogram Equalization,294.1714,23.4448
+horse120,Histogram Equalization + Median,348.1395,22.7133
+horse120,Contrast Stretching,121.5602,27.2829
+horse120,Contrast Stretching + Median,197.0242,25.1856
+horse120,CLAHE,573.5001,20.5455
+horse120,CLAHE + Median,545.7228,20.7611
+horse121,Histogram Equalization,1648.2883,15.9605
+horse121,Histogram Equalization + Median,1712.0954,15.7955
+horse121,Contrast Stretching,191.9326,25.2993
+horse121,Contrast Stretching + Median,294.8347,23.435
+horse121,CLAHE,439.5764,21.7005
+horse121,CLAHE + Median,409.4626,22.0087
+horse122,Histogram Equalization,435.5336,21.7406
+horse122,Histogram Equalization + Median,441.9157,21.6774
+horse122,Contrast Stretching,32.4928,33.0129
+horse122,Contrast Stretching + Median,67.3194,29.8494
+horse122,CLAHE,691.8467,19.7307
+horse122,CLAHE + Median,652.631,19.9841
+horse123,Histogram Equalization,3004.1237,13.3536
+horse123,Histogram Equalization + Median,3095.005,13.2242
+horse123,Contrast Stretching,137.7253,26.7407
+horse123,Contrast Stretching + Median,194.4607,25.2425
+horse123,CLAHE,385.3312,22.2725
+horse123,CLAHE + Median,375.084,22.3895
+horse124,Histogram Equalization,3094.7788,13.2245
+horse124,Histogram Equalization + Median,3218.65,13.0541
+horse124,Contrast Stretching,1406.6284,16.649
+horse124,Contrast Stretching + Median,1513.3521,16.3314
+horse124,CLAHE,972.4651,18.2521
+horse124,CLAHE + Median,1041.6333,17.9537
+horse125,Histogram Equalization,1070.4525,17.8351
+horse125,Histogram Equalization + Median,1083.7303,17.7816
+horse125,Contrast Stretching,651.4032,19.9923
+horse125,Contrast Stretching + Median,694.7245,19.7127
+horse125,CLAHE,616.1243,20.2341
+horse125,CLAHE + Median,569.4285,20.5764
+horse126,Histogram Equalization,2009.9195,15.099
+horse126,Histogram Equalization + Median,1956.7658,15.2154
+horse126,Contrast Stretching,480.7078,21.312
+horse126,Contrast Stretching + Median,536.3239,20.8365
+horse126,CLAHE,722.1875,19.5443
+horse126,CLAHE + Median,616.7672,20.2296
+horse127,Histogram Equalization,361.9557,22.5442
+horse127,Histogram Equalization + Median,365.504,22.5019
+horse127,Contrast Stretching,490.138,21.2276
+horse127,Contrast Stretching + Median,501.1719,21.1309
+horse127,CLAHE,843.0589,18.8722
+horse127,CLAHE + Median,790.6177,19.1511
+horse128,Histogram Equalization,910.6804,18.5371
+horse128,Histogram Equalization + Median,914.3657,18.5196
+horse128,Contrast Stretching,8.3459,38.9161
+horse128,Contrast Stretching + Median,31.6096,33.1326
+horse128,CLAHE,541.2615,20.7967
+horse128,CLAHE + Median,505.8226,21.0908
+horse129,Histogram Equalization,314.4226,23.1557
+horse129,Histogram Equalization + Median,335.4724,22.8742
+horse129,Contrast Stretching,115.4645,27.5063
+horse129,Contrast Stretching + Median,154.0601,26.2539
+horse129,CLAHE,434.7718,21.7482
+horse129,CLAHE + Median,420.3425,21.8948
+horse130,Histogram Equalization,1141.4443,17.5563
+horse130,Histogram Equalization + Median,1130.0242,17.5999
+horse130,Contrast Stretching,801.1237,19.0938
+horse130,Contrast Stretching + Median,807.1791,19.0611
+horse130,CLAHE,900.8602,18.5842
+horse130,CLAHE + Median,814.932,19.0196
+horse131,Histogram Equalization,1246.2712,17.1747
+horse131,Histogram Equalization + Median,1293.6898,17.0125
+horse131,Contrast Stretching,26.6285,33.8773
+horse131,Contrast Stretching + Median,63.3652,30.1123
+horse131,CLAHE,427.618,21.8202
+horse131,CLAHE + Median,413.5012,21.966
+horse132,Histogram Equalization,220.0649,24.7053
+horse132,Histogram Equalization + Median,256.1813,24.0453
+horse132,Contrast Stretching,25.1656,34.1227
+horse132,Contrast Stretching + Median,74.8453,29.3892
+horse132,CLAHE,826.1211,18.9604
+horse132,CLAHE + Median,765.6169,19.2907
+horse133,Histogram Equalization,1352.7192,16.8187
+horse133,Histogram Equalization + Median,1433.6382,16.5664
+horse133,Contrast Stretching,33.3364,32.9016
+horse133,Contrast Stretching + Median,180.8527,25.5576
+horse133,CLAHE,666.8608,19.8905
+horse133,CLAHE + Median,641.6578,20.0578
+horse134,Histogram Equalization,3457.8856,12.7427
+horse134,Histogram Equalization + Median,3457.2816,12.7435
+horse134,Contrast Stretching,191.4022,25.3113
+horse134,Contrast Stretching + Median,264.8151,23.9014
+horse134,CLAHE,1067.904,17.8455
+horse134,CLAHE + Median,989.9862,18.1745
+horse135,Histogram Equalization,1991.1585,15.1397
+horse135,Histogram Equalization + Median,1963.0425,15.2015
+horse135,Contrast Stretching,84.2909,28.873
+horse135,Contrast Stretching + Median,129.4784,27.0088
+horse135,CLAHE,622.7607,20.1876
+horse135,CLAHE + Median,614.4616,20.2459
+horse136,Histogram Equalization,2240.2429,14.6279
+horse136,Histogram Equalization + Median,2254.8842,14.5996
+horse136,Contrast Stretching,18.1395,35.5446
+horse136,Contrast Stretching + Median,38.2501,32.3045
+horse136,CLAHE,1237.4068,17.2057
+horse136,CLAHE + Median,1200.7149,17.3364
+horse137,Histogram Equalization,843.1737,18.8716
+horse137,Histogram Equalization + Median,830.1075,18.9395
+horse137,Contrast Stretching,8.4514,38.8615
+horse137,Contrast Stretching + Median,26.9731,33.8215
+horse137,CLAHE,643.9421,20.0423
+horse137,CLAHE + Median,599.1048,20.3558
+horse138,Histogram Equalization,2818.1269,13.6312
+horse138,Histogram Equalization + Median,3135.3235,13.168
+horse138,Contrast Stretching,90.4167,28.5683
+horse138,Contrast Stretching + Median,403.2042,22.0756
+horse138,CLAHE,548.5409,20.7387
+horse138,CLAHE + Median,726.5953,19.5179
+horse139,Histogram Equalization,1125.3674,17.6179
+horse139,Histogram Equalization + Median,1432.5839,16.5696
+horse139,Contrast Stretching,30.7066,33.2585
+horse139,Contrast Stretching + Median,335.3037,22.8764
+horse139,CLAHE,535.8655,20.8402
+horse139,CLAHE + Median,714.6108,19.5901
+horse140,Histogram Equalization,1652.1656,15.9503
+horse140,Histogram Equalization + Median,1660.6848,15.9279
+horse140,Contrast Stretching,91.9732,28.4942
+horse140,Contrast Stretching + Median,124.652,27.1738
+horse140,CLAHE,1285.4984,17.0401
+horse140,CLAHE + Median,1224.4369,17.2514
+horse141,Histogram Equalization,118.0253,27.4111
+horse141,Histogram Equalization + Median,218.0408,24.7454
+horse141,Contrast Stretching,58.3535,30.4701
+horse141,Contrast Stretching + Median,155.8232,26.2045
+horse141,CLAHE,1039.3662,17.9631
+horse141,CLAHE + Median,1018.3997,18.0516
+horse142,Histogram Equalization,170.8527,25.8046
+horse142,Histogram Equalization + Median,307.4419,23.2532
+horse142,Contrast Stretching,147.9315,26.4302
+horse142,Contrast Stretching + Median,285.041,23.5817
+horse142,CLAHE,730.3495,19.4955
+horse142,CLAHE + Median,770.7286,19.2618
+horse143,Histogram Equalization,281.5368,23.6355
+horse143,Histogram Equalization + Median,388.5748,22.2361
+horse143,Contrast Stretching,2.2047,44.6974
+horse143,Contrast Stretching + Median,107.3043,27.8246
+horse143,CLAHE,1141.5862,17.5557
+horse143,CLAHE + Median,1127.3681,17.6101
+horse144,Histogram Equalization,1924.1233,15.2885
+horse144,Histogram Equalization + Median,1933.9195,15.2664
+horse144,Contrast Stretching,2662.0194,13.8787
+horse144,Contrast Stretching + Median,2698.7,13.8193
+horse144,CLAHE,623.7562,20.1807
+horse144,CLAHE + Median,591.6557,20.4101
+horse145,Histogram Equalization,923.1287,18.4782
+horse145,Histogram Equalization + Median,1168.0134,17.4563
+horse145,Contrast Stretching,413.627,21.9647
+horse145,Contrast Stretching + Median,628.708,20.1463
+horse145,CLAHE,1078.6213,17.8021
+horse145,CLAHE + Median,1108.2412,17.6845
+horse146,Histogram Equalization,1066.4313,17.8515
+horse146,Histogram Equalization + Median,1289.0051,17.0283
+horse146,Contrast Stretching,84.3902,28.8679
+horse146,Contrast Stretching + Median,365.776,22.4987
+horse146,CLAHE,799.4517,19.1029
+horse146,CLAHE + Median,892.7548,18.6235
+horse147,Histogram Equalization,1014.2477,18.0694
+horse147,Histogram Equalization + Median,1095.447,17.7349
+horse147,Contrast Stretching,623.9772,20.1791
+horse147,Contrast Stretching + Median,703.9128,19.6556
+horse147,CLAHE,662.661,19.9179
+horse147,CLAHE + Median,677.6873,19.8205
+horse148,Histogram Equalization,862.9439,18.771
+horse148,Histogram Equalization + Median,1020.6804,18.0419
+horse148,Contrast Stretching,0.0424,61.8543
+horse148,Contrast Stretching + Median,162.2531,26.0289
+horse148,CLAHE,323.3405,23.0342
+horse148,CLAHE + Median,413.3658,21.9675
+horse149,Histogram Equalization,2104.3226,14.8997
+horse149,Histogram Equalization + Median,2169.7031,14.7668
+horse149,Contrast Stretching,471.5929,21.3951
+horse149,Contrast Stretching + Median,556.4208,20.6768
+horse149,CLAHE,429.1929,21.8043
+horse149,CLAHE + Median,406.5129,22.0401
+horse150,Histogram Equalization,1432.3263,16.5704
+horse150,Histogram Equalization + Median,1723.1649,15.7675
+horse150,Contrast Stretching,147.669,26.4379
+horse150,Contrast Stretching + Median,675.4434,19.8349
+horse150,CLAHE,1117.1784,17.6496
+horse150,CLAHE + Median,1404.2749,16.6563
+horse151,Histogram Equalization,578.2414,20.5097
+horse151,Histogram Equalization + Median,1122.8085,17.6277
+horse151,Contrast Stretching,158.0388,26.1432
+horse151,Contrast Stretching + Median,710.865,19.6129
+horse151,CLAHE,849.0927,18.8413
+horse151,CLAHE + Median,1125.0325,17.6192
+horse152,Histogram Equalization,633.5727,20.1128
+horse152,Histogram Equalization + Median,691.1779,19.7349
+horse152,Contrast Stretching,579.4426,20.5007
+horse152,Contrast Stretching + Median,694.508,19.714
+horse152,CLAHE,642.5185,20.0519
+horse152,CLAHE + Median,608.294,20.2897
+horse153,Histogram Equalization,765.61,19.2907
+horse153,Histogram Equalization + Median,1439.6192,16.5483
+horse153,Contrast Stretching,67.7377,29.8225
+horse153,Contrast Stretching + Median,804.0955,19.0777
+horse153,CLAHE,756.746,19.3413
+horse153,CLAHE + Median,1307.589,16.9661
+horse154,Histogram Equalization,452.3922,21.5757
+horse154,Histogram Equalization + Median,634.9303,20.1035
+horse154,Contrast Stretching,70.8894,29.625
+horse154,Contrast Stretching + Median,274.6045,23.7437
+horse154,CLAHE,606.5804,20.3019
+horse154,CLAHE + Median,676.7129,19.8268
+horse155,Histogram Equalization,620.8254,20.2011
+horse155,Histogram Equalization + Median,675.2679,19.836
+horse155,Contrast Stretching,961.5612,18.301
+horse155,Contrast Stretching + Median,1087.6605,17.7659
+horse155,CLAHE,503.1197,21.1141
+horse155,CLAHE + Median,464.6974,21.4591
+horse156,Histogram Equalization,341.3914,22.7983
+horse156,Histogram Equalization + Median,492.534,21.2064
+horse156,Contrast Stretching,316.6566,23.1249
+horse156,Contrast Stretching + Median,464.6937,21.4591
+horse156,CLAHE,1247.4879,17.1704
+horse156,CLAHE + Median,1248.8111,17.1658
+horse157,Histogram Equalization,763.9157,19.3003
+horse157,Histogram Equalization + Median,1031.8907,17.9945
+horse157,Contrast Stretching,19.0376,35.3347
+horse157,Contrast Stretching + Median,335.7428,22.8707
+horse157,CLAHE,926.0144,18.4646
+horse157,CLAHE + Median,1059.7612,17.8787
+horse158,Histogram Equalization,352.0448,22.6648
+horse158,Histogram Equalization + Median,773.6076,19.2456
+horse158,Contrast Stretching,427.5788,21.8206
+horse158,Contrast Stretching + Median,829.9005,18.9405
+horse158,CLAHE,1228.3849,17.2375
+horse158,CLAHE + Median,1423.8268,16.5962
+horse159,Histogram Equalization,320.8085,23.0683
+horse159,Histogram Equalization + Median,428.8128,21.8081
+horse159,Contrast Stretching,30.6317,33.2691
+horse159,Contrast Stretching + Median,166.9163,25.9058
+horse159,CLAHE,522.751,20.9479
+horse159,CLAHE + Median,530.2605,20.8859
+horse160,Histogram Equalization,561.7563,20.6353
+horse160,Histogram Equalization + Median,625.5461,20.1682
+horse160,Contrast Stretching,521.3017,20.9599
+horse160,Contrast Stretching + Median,632.7717,20.1183
+horse160,CLAHE,488.8546,21.239
+horse160,CLAHE + Median,472.3028,21.3886
+horse161,Histogram Equalization,538.8464,20.8162
+horse161,Histogram Equalization + Median,648.0871,20.0145
+horse161,Contrast Stretching,65.9365,29.9395
+horse161,Contrast Stretching + Median,243.3767,24.268
+horse161,CLAHE,842.0259,18.8775
+horse161,CLAHE + Median,847.5634,18.8491
+horse162,Histogram Equalization,1363.8229,16.7832
+horse162,Histogram Equalization + Median,1449.4102,16.5189
+horse162,Contrast Stretching,303.0968,23.315
+horse162,Contrast Stretching + Median,441.2821,21.6836
+horse162,CLAHE,433.9182,21.7567
+horse162,CLAHE + Median,424.9,21.8479
+horse163,Histogram Equalization,2315.5345,14.4843
+horse163,Histogram Equalization + Median,2417.8408,14.2965
+horse163,Contrast Stretching,1090.6738,17.7539
+horse163,Contrast Stretching + Median,1172.9789,17.4379
+horse163,CLAHE,723.6852,19.5353
+horse163,CLAHE + Median,687.8699,19.7557
+horse164,Histogram Equalization,475.5141,21.3592
+horse164,Histogram Equalization + Median,602.9358,20.3281
+horse164,Contrast Stretching,175.6093,25.6853
+horse164,Contrast Stretching + Median,308.4518,23.2389
+horse164,CLAHE,495.637,21.1792
+horse164,CLAHE + Median,555.3421,20.6852
+horse165,Histogram Equalization,502.3854,21.1204
+horse165,Histogram Equalization + Median,655.6721,19.9639
+horse165,Contrast Stretching,353.1792,22.6509
+horse165,Contrast Stretching + Median,554.0719,20.6951
+horse165,CLAHE,712.2217,19.6047
+horse165,CLAHE + Median,731.7954,19.4869
+horse166,Histogram Equalization,924.9783,18.4695
+horse166,Histogram Equalization + Median,1067.0491,17.849
+horse166,Contrast Stretching,36.9773,32.4515
+horse166,Contrast Stretching + Median,158.5976,26.1278
+horse166,CLAHE,793.6722,19.1344
+horse166,CLAHE + Median,817.8476,19.0041
+horse167,Histogram Equalization,486.2499,21.2622
+horse167,Histogram Equalization + Median,567.1226,20.594
+horse167,Contrast Stretching,49.8592,31.1533
+horse167,Contrast Stretching + Median,170.8333,25.8051
+horse167,CLAHE,1074.8764,17.8172
+horse167,CLAHE + Median,1032.7654,17.9908
+horse168,Histogram Equalization,712.8157,19.601
+horse168,Histogram Equalization + Median,725.1288,19.5267
+horse168,Contrast Stretching,21.4897,34.8085
+horse168,Contrast Stretching + Median,45.443,31.5561
+horse168,CLAHE,654.4173,19.9723
+horse168,CLAHE + Median,626.4795,20.1617
+horse169,Histogram Equalization,2276.9497,14.5573
+horse169,Histogram Equalization + Median,2257.3872,14.5947
+horse169,Contrast Stretching,747.4191,19.3952
+horse169,Contrast Stretching + Median,746.2907,19.4017
+horse169,CLAHE,370.1949,22.4465
+horse169,CLAHE + Median,356.0897,22.6152
+horse170,Histogram Equalization,5311.2385,10.8788
+horse170,Histogram Equalization + Median,5443.6031,10.7719
+horse170,Contrast Stretching,61.4507,30.2455
+horse170,Contrast Stretching + Median,264.4871,23.9068
+horse170,CLAHE,762.2164,19.31
+horse170,CLAHE + Median,807.7197,19.0582
+horse171,Histogram Equalization,2972.1193,13.4001
+horse171,Histogram Equalization + Median,3096.6038,13.2219
+horse171,Contrast Stretching,122.6753,27.2432
+horse171,Contrast Stretching + Median,200.3964,25.1119
+horse171,CLAHE,489.9444,21.2293
+horse171,CLAHE + Median,493.115,21.2013
+horse172,Histogram Equalization,1125.9564,17.6156
+horse172,Histogram Equalization + Median,1042.1963,17.9513
+horse172,Contrast Stretching,29.7967,33.3891
+horse172,Contrast Stretching + Median,94.9263,28.3569
+horse172,CLAHE,753.4395,19.3603
+horse172,CLAHE + Median,671.1083,19.8629
+horse173,Histogram Equalization,1626.9963,16.0169
+horse173,Histogram Equalization + Median,1714.9618,15.7883
+horse173,Contrast Stretching,87.294,28.721
+horse173,Contrast Stretching + Median,191.7279,25.304
+horse173,CLAHE,1039.1087,17.9642
+horse173,CLAHE + Median,1008.3343,18.0948
+horse174,Histogram Equalization,919.0363,18.4975
+horse174,Histogram Equalization + Median,992.3568,18.1641
+horse174,Contrast Stretching,37.9112,32.3431
+horse174,Contrast Stretching + Median,111.8329,27.6451
+horse174,CLAHE,302.4368,23.3245
+horse174,CLAHE + Median,324.4044,23.0199
+horse175,Histogram Equalization,4544.3255,11.5561
+horse175,Histogram Equalization + Median,4577.3582,11.5247
+horse175,Contrast Stretching,376.4976,22.3732
+horse175,Contrast Stretching + Median,394.9037,22.1659
+horse175,CLAHE,1330.1177,16.8919
+horse175,CLAHE + Median,1277.4236,17.0675
+horse176,Histogram Equalization,981.2608,18.213
+horse176,Histogram Equalization + Median,966.1001,18.2806
+horse176,Contrast Stretching,1872.7756,15.4059
+horse176,Contrast Stretching + Median,1872.8409,15.4058
+horse176,CLAHE,887.6129,18.6486
+horse176,CLAHE + Median,845.3725,18.8603
+horse177,Histogram Equalization,860.8479,18.7815
+horse177,Histogram Equalization + Median,1213.2763,17.2912
+horse177,Contrast Stretching,382.2363,22.3075
+horse177,Contrast Stretching + Median,733.9785,19.474
+horse177,CLAHE,683.7458,19.7819
+horse177,CLAHE + Median,791.2921,19.1474
+horse178,Histogram Equalization,727.9502,19.5098
+horse178,Histogram Equalization + Median,853.9706,18.8164
+horse178,Contrast Stretching,301.506,23.3378
+horse178,Contrast Stretching + Median,522.0954,20.9533
+horse178,CLAHE,537.049,20.8307
+horse178,CLAHE + Median,627.5063,20.1546
+horse179,Histogram Equalization,2469.1188,14.2054
+horse179,Histogram Equalization + Median,2468.7944,14.206
+horse179,Contrast Stretching,619.376,20.2113
+horse179,Contrast Stretching + Median,714.379,19.5915
+horse179,CLAHE,695.3361,19.7089
+horse179,CLAHE + Median,627.8017,20.1526
+horse180,Histogram Equalization,1870.9463,15.4102
+horse180,Histogram Equalization + Median,1844.8849,15.4711
+horse180,Contrast Stretching,369.1963,22.4582
+horse180,Contrast Stretching + Median,381.4196,22.3168
+horse180,CLAHE,528.1606,20.9031
+horse180,CLAHE + Median,490.5529,21.2239
+horse181,Histogram Equalization,1215.3441,17.2838
+horse181,Histogram Equalization + Median,1200.2562,17.3381
+horse181,Contrast Stretching,2625.7139,13.9383
+horse181,Contrast Stretching + Median,2783.4088,13.685
+horse181,CLAHE,620.2829,20.2049
+horse181,CLAHE + Median,616.1312,20.2341
+horse182,Histogram Equalization,679.72,19.8075
+horse182,Histogram Equalization + Median,674.8813,19.8385
+horse182,Contrast Stretching,126.4542,27.1115
+horse182,Contrast Stretching + Median,151.43,26.3287
+horse182,CLAHE,474.2573,21.3707
+horse182,CLAHE + Median,456.4045,21.5373
+horse183,Histogram Equalization,624.806,20.1734
+horse183,Histogram Equalization + Median,647.9747,20.0152
+horse183,Contrast Stretching,516.9613,20.9962
+horse183,Contrast Stretching + Median,609.789,20.279
+horse183,CLAHE,536.942,20.8315
+horse183,CLAHE + Median,495.458,21.1807
+horse184,Histogram Equalization,5386.5304,10.8177
+horse184,Histogram Equalization + Median,5178.9564,10.9884
+horse184,Contrast Stretching,4962.9591,11.1734
+horse184,Contrast Stretching + Median,4853.544,11.2702
+horse184,CLAHE,1786.9205,15.6098
+horse184,CLAHE + Median,1702.9545,15.8188
+horse185,Histogram Equalization,532.7166,20.8658
+horse185,Histogram Equalization + Median,577.2439,20.5172
+horse185,Contrast Stretching,346.0907,22.7389
+horse185,Contrast Stretching + Median,394.6903,22.1682
+horse185,CLAHE,926.1892,18.4638
+horse185,CLAHE + Median,849.5185,18.8391
+horse186,Histogram Equalization,3393.4944,12.8243
+horse186,Histogram Equalization + Median,3317.0777,12.9232
+horse186,Contrast Stretching,197.1057,25.1838
+horse186,Contrast Stretching + Median,209.9482,24.9097
+horse186,CLAHE,860.172,18.785
+horse186,CLAHE + Median,798.4412,19.1084
+horse187,Histogram Equalization,4736.7365,11.376
+horse187,Histogram Equalization + Median,4842.486,11.2801
+horse187,Contrast Stretching,352.7808,22.6558
+horse187,Contrast Stretching + Median,430.57,21.7904
+horse187,CLAHE,1126.0432,17.6153
+horse187,CLAHE + Median,1104.612,17.6987
+horse188,Histogram Equalization,1039.3068,17.9634
+horse188,Histogram Equalization + Median,1091.7493,17.7496
+horse188,Contrast Stretching,477.5775,21.3404
+horse188,Contrast Stretching + Median,548.1159,20.7421
+horse188,CLAHE,670.606,19.8661
+horse188,CLAHE + Median,628.7322,20.1461
+horse189,Histogram Equalization,238.6361,24.3534
+horse189,Histogram Equalization + Median,284.0603,23.5967
+horse189,Contrast Stretching,322.8963,23.0402
+horse189,Contrast Stretching + Median,360.8167,22.5579
+horse189,CLAHE,623.2711,20.184
+horse189,CLAHE + Median,572.7584,20.5511
+horse190,Histogram Equalization,3149.3189,13.1486
+horse190,Histogram Equalization + Median,3189.4394,13.0937
+horse190,Contrast Stretching,770.1064,19.2653
+horse190,Contrast Stretching + Median,835.0024,18.9139
+horse190,CLAHE,1323.1839,16.9146
+horse190,CLAHE + Median,1300.884,16.9884
+horse191,Histogram Equalization,4504.8532,11.594
+horse191,Histogram Equalization + Median,4626.266,11.4785
+horse191,Contrast Stretching,1141.6412,17.5555
+horse191,Contrast Stretching + Median,1216.8507,17.2784
+horse191,CLAHE,1210.2225,17.3022
+horse191,CLAHE + Median,1186.702,17.3874
+horse192,Histogram Equalization,432.7506,21.7684
+horse192,Histogram Equalization + Median,474.4753,21.3687
+horse192,Contrast Stretching,170.0556,25.8249
+horse192,Contrast Stretching + Median,213.5877,24.835
+horse192,CLAHE,765.6726,19.2904
+horse192,CLAHE + Median,727.2839,19.5138
+horse193,Histogram Equalization,2617.3766,13.9521
+horse193,Histogram Equalization + Median,2630.3435,13.9307
+horse193,Contrast Stretching,889.139,18.6411
+horse193,Contrast Stretching + Median,896.2638,18.6064
+horse193,CLAHE,1108.3142,17.6842
+horse193,CLAHE + Median,1090.4529,17.7547
+horse194,Histogram Equalization,530.8458,20.8811
+horse194,Histogram Equalization + Median,561.9963,20.6335
+horse194,Contrast Stretching,872.0498,18.7254
+horse194,Contrast Stretching + Median,907.7557,18.5511
+horse194,CLAHE,596.5946,20.374
+horse194,CLAHE + Median,599.4895,20.353
+horse195,Histogram Equalization,877.3149,18.6992
+horse195,Histogram Equalization + Median,979.1485,18.2223
+horse195,Contrast Stretching,558.2585,20.6625
+horse195,Contrast Stretching + Median,656.1497,19.9608
+horse195,CLAHE,612.998,20.2562
+horse195,CLAHE + Median,644.8419,20.0363
+horse196,Histogram Equalization,346.6553,22.7318
+horse196,Histogram Equalization + Median,337.2486,22.8513
+horse196,Contrast Stretching,385.7969,22.2672
+horse196,Contrast Stretching + Median,403.6872,22.0704
+horse196,CLAHE,715.6775,19.5836
+horse196,CLAHE + Median,657.1969,19.9538
+horse197,Histogram Equalization,3566.501,12.6084
+horse197,Histogram Equalization + Median,3475.4339,12.7207
+horse197,Contrast Stretching,5790.2215,10.5039
+horse197,Contrast Stretching + Median,5798.0095,10.498
+horse197,CLAHE,524.4144,20.9341
+horse197,CLAHE + Median,513.2512,21.0275
+horse198,Histogram Equalization,741.6302,19.4289
+horse198,Histogram Equalization + Median,792.3752,19.1415
+horse198,Contrast Stretching,329.2107,22.9561
+horse198,Contrast Stretching + Median,404.1586,22.0653
+horse198,CLAHE,731.4765,19.4888
+horse198,CLAHE + Median,693.3097,19.7215
+horse199,Histogram Equalization,792.1241,19.1429
+horse199,Histogram Equalization + Median,826.4229,18.9588
+horse199,Contrast Stretching,337.3158,22.8504
+horse199,Contrast Stretching + Median,371.3302,22.4332
+horse199,CLAHE,370.7567,22.4399
+horse199,CLAHE + Median,353.2861,22.6495
+horse200,Histogram Equalization,603.7015,20.3226
+horse200,Histogram Equalization + Median,620.6426,20.2024
+horse200,Contrast Stretching,612.7498,20.258
+horse200,Contrast Stretching + Median,633.9154,20.1105
+horse200,CLAHE,380.8671,22.3231
+horse200,CLAHE + Median,362.9728,22.5321
+horse201,Histogram Equalization,1410.2921,16.6377
+horse201,Histogram Equalization + Median,1376.161,16.7441
+horse201,Contrast Stretching,2901.8099,13.5041
+horse201,Contrast Stretching + Median,2906.1073,13.4977
+horse201,CLAHE,682.0687,19.7925
+horse201,CLAHE + Median,635.4143,20.1002
+horse202,Histogram Equalization,213.1297,24.8444
+horse202,Histogram Equalization + Median,226.2201,24.5855
+horse202,Contrast Stretching,92.3863,28.4747
+horse202,Contrast Stretching + Median,103.805,27.9686
+horse202,CLAHE,939.2428,18.403
+horse202,CLAHE + Median,921.7507,18.4847
+horse203,Histogram Equalization,1871.0166,15.41
+horse203,Histogram Equalization + Median,1844.9598,15.4709
+horse203,Contrast Stretching,369.2606,22.4575
+horse203,Contrast Stretching + Median,381.489,22.316
+horse203,CLAHE,528.3172,20.9019
+horse203,CLAHE + Median,490.7284,21.2224
+horse204,Histogram Equalization,2087.3332,14.9349
+horse204,Histogram Equalization + Median,2086.3474,14.9369
+horse204,Contrast Stretching,74.4357,29.413
+horse204,Contrast Stretching + Median,75.588,29.3463
+horse204,CLAHE,424.4935,21.8521
+horse204,CLAHE + Median,415.0572,21.9497
+horse205,Histogram Equalization,4544.3405,11.5561
+horse205,Histogram Equalization + Median,4577.3877,11.5246
+horse205,Contrast Stretching,376.4988,22.3732
+horse205,Contrast Stretching + Median,394.908,22.1658
+horse205,CLAHE,1329.8969,16.8926
+horse205,CLAHE + Median,1277.215,17.0682
+horse206,Histogram Equalization,3294.3203,12.9531
+horse206,Histogram Equalization + Median,3280.6045,12.9713
+horse206,Contrast Stretching,1872.7802,15.4059
+horse206,Contrast Stretching + Median,1861.7474,15.4316
+horse206,CLAHE,605.5295,20.3095
+horse206,CLAHE + Median,560.5402,20.6447
+horse207,Histogram Equalization,470.9268,21.4013
+horse207,Histogram Equalization + Median,487.4783,21.2513
+horse207,Contrast Stretching,518.2415,20.9855
+horse207,Contrast Stretching + Median,535.9391,20.8396
+horse207,CLAHE,712.2835,19.6043
+horse207,CLAHE + Median,661.9724,19.9224
+horse208,Histogram Equalization,739.5361,19.4412
+horse208,Histogram Equalization + Median,708.5078,19.6274
+horse208,Contrast Stretching,327.8156,22.9745
+horse208,Contrast Stretching + Median,334.229,22.8904
+horse208,CLAHE,546.4815,20.755
+horse208,CLAHE + Median,520.5364,20.9663
+horse209,Histogram Equalization,3029.1633,13.3176
+horse209,Histogram Equalization + Median,2801.1627,13.6574
+horse209,Contrast Stretching,1271.6092,17.0873
+horse209,Contrast Stretching + Median,1194.5377,17.3588
+horse209,CLAHE,467.3305,21.4346
+horse209,CLAHE + Median,399.4614,22.1161
+horse210,Histogram Equalization,971.9622,18.2543
+horse210,Histogram Equalization + Median,1239.5939,17.198
+horse210,Contrast Stretching,309.0929,23.2299
+horse210,Contrast Stretching + Median,588.5748,20.4328
+horse210,CLAHE,854.7019,18.8127
+horse210,CLAHE + Median,929.4269,18.4487
+horse211,Histogram Equalization,719.0126,19.5634
+horse211,Histogram Equalization + Median,861.4991,18.7783
+horse211,Contrast Stretching,427.386,21.8226
+horse211,Contrast Stretching + Median,582.075,20.481
+horse211,CLAHE,745.6738,19.4053
+horse211,CLAHE + Median,776.8228,19.2276
+horse212,Histogram Equalization,814.5809,19.0215
+horse212,Histogram Equalization + Median,847.8416,18.8477
+horse212,Contrast Stretching,471.1702,21.399
+horse212,Contrast Stretching + Median,525.6585,20.9238
+horse212,CLAHE,579.1214,20.5031
+horse212,CLAHE + Median,561.3076,20.6388
+horse213,Histogram Equalization,1231.6056,17.2261
+horse213,Histogram Equalization + Median,1228.3072,17.2377
+horse213,Contrast Stretching,81.7877,29.0039
+horse213,Contrast Stretching + Median,95.8157,28.3164
+horse213,CLAHE,749.6633,19.3821
+horse213,CLAHE + Median,715.6852,19.5836
+horse214,Histogram Equalization,403.0935,22.0767
+horse214,Histogram Equalization + Median,429.7771,21.7984
+horse214,Contrast Stretching,86.7769,28.7468
+horse214,Contrast Stretching + Median,114.249,27.5523
+horse214,CLAHE,662.0686,19.9218
+horse214,CLAHE + Median,614.2963,20.247
+horse215,Histogram Equalization,2368.3666,14.3863
+horse215,Histogram Equalization + Median,2413.9897,14.3034
+horse215,Contrast Stretching,1283.847,17.0457
+horse215,Contrast Stretching + Median,1329.0592,16.8954
+horse215,CLAHE,934.5243,18.4249
+horse215,CLAHE + Median,889.6057,18.6388
+horse216,Histogram Equalization,1155.3445,17.5037
+horse216,Histogram Equalization + Median,1364.5871,16.7808
+horse216,Contrast Stretching,621.9188,20.1935
+horse216,Contrast Stretching + Median,840.1063,18.8875
+horse216,CLAHE,1176.2672,17.4257
+horse216,CLAHE + Median,1162.884,17.4754
+horse217,Histogram Equalization,2045.9783,15.0218
+horse217,Histogram Equalization + Median,2060.9647,14.9901
+horse217,Contrast Stretching,2688.9085,13.835
+horse217,Contrast Stretching + Median,2721.8153,13.7822
+horse217,CLAHE,464.2976,21.4628
+horse217,CLAHE + Median,475.2018,21.362
+horse218,Histogram Equalization,1496.2366,16.3808
+horse218,Histogram Equalization + Median,1463.3665,16.4773
+horse218,Contrast Stretching,913.8585,18.522
+horse218,Contrast Stretching + Median,1120.1439,17.6381
+horse218,CLAHE,560.4522,20.6454
+horse218,CLAHE + Median,561.4612,20.6376
+horse219,Histogram Equalization,837.6991,18.8999
+horse219,Histogram Equalization + Median,1127.6577,17.609
+horse219,Contrast Stretching,339.421,22.8234
+horse219,Contrast Stretching + Median,631.085,20.1299
+horse219,CLAHE,1861.8344,15.4314
+horse219,CLAHE + Median,1900.0446,15.3432
+horse220,Histogram Equalization,1132.8449,17.5891
+horse220,Histogram Equalization + Median,1401.6123,16.6645
+horse220,Contrast Stretching,277.7574,23.6941
+horse220,Contrast Stretching + Median,721.5478,19.5482
+horse220,CLAHE,755.213,19.3501
+horse220,CLAHE + Median,946.4149,18.37
+horse221,Histogram Equalization,78.8098,29.165
+horse221,Histogram Equalization + Median,315.813,23.1365
+horse221,Contrast Stretching,174.925,25.7023
+horse221,Contrast Stretching + Median,409.69,22.0063
+horse221,CLAHE,1228.7993,17.236
+horse221,CLAHE + Median,1311.4825,16.9532
+horse222,Histogram Equalization,2561.9371,14.0451
+horse222,Histogram Equalization + Median,2561.5164,14.0458
+horse222,Contrast Stretching,3712.4325,12.4342
+horse222,Contrast Stretching + Median,3724.3068,12.4203
+horse222,CLAHE,573.8681,20.5427
+horse222,CLAHE + Median,570.2153,20.5704
+horse223,Histogram Equalization,1733.0292,15.7427
+horse223,Histogram Equalization + Median,1889.8443,15.3665
+horse223,Contrast Stretching,639.9898,20.0691
+horse223,Contrast Stretching + Median,811.8075,19.0363
+horse223,CLAHE,817.6844,19.0049
+horse223,CLAHE + Median,870.9788,18.7307
+horse224,Histogram Equalization,288.344,23.5317
+horse224,Histogram Equalization + Median,302.545,23.3229
+horse224,Contrast Stretching,105.3254,27.9055
+horse224,Contrast Stretching + Median,130.0193,26.9907
+horse224,CLAHE,860.2713,18.7844
+horse224,CLAHE + Median,805.5598,19.0698
+horse225,Histogram Equalization,651.2287,19.9935
+horse225,Histogram Equalization + Median,643.5313,20.0451
+horse225,Contrast Stretching,72.9494,29.5006
+horse225,Contrast Stretching + Median,84.6356,28.8553
+horse225,CLAHE,396.7382,22.1458
+horse225,CLAHE + Median,364.1925,22.5175
+horse226,Histogram Equalization,2100.2907,14.908
+horse226,Histogram Equalization + Median,2122.087,14.8632
+horse226,Contrast Stretching,506.3038,21.0867
+horse226,Contrast Stretching + Median,521.7897,20.9558
+horse226,CLAHE,946.1265,18.3713
+horse226,CLAHE + Median,887.9646,18.6468
+horse227,Histogram Equalization,628.8638,20.1452
+horse227,Histogram Equalization + Median,717.6808,19.5715
+horse227,Contrast Stretching,240.7125,24.3158
+horse227,Contrast Stretching + Median,374.6027,22.3951
+horse227,CLAHE,824.2726,18.9701
+horse227,CLAHE + Median,826.7549,18.957
+horse228,Histogram Equalization,2028.6404,15.0588
+horse228,Histogram Equalization + Median,2073.6694,14.9634
+horse228,Contrast Stretching,375.4762,22.385
+horse228,Contrast Stretching + Median,448.9427,21.6089
+horse228,CLAHE,845.1724,18.8614
+horse228,CLAHE + Median,812.0994,19.0347
+horse229,Histogram Equalization,740.9525,19.4329
+horse229,Histogram Equalization + Median,768.245,19.2758
+horse229,Contrast Stretching,84.1688,28.8793
+horse229,Contrast Stretching + Median,111.3901,27.6623
+horse229,CLAHE,668.7987,19.8778
+horse229,CLAHE + Median,636.8053,20.0907
+horse230,Histogram Equalization,795.2456,19.1258
+horse230,Histogram Equalization + Median,809.6235,19.048
+horse230,Contrast Stretching,119.4919,27.3574
+horse230,Contrast Stretching + Median,147.7328,26.436
+horse230,CLAHE,1007.1748,18.0998
+horse230,CLAHE + Median,952.0188,18.3443
+horse231,Histogram Equalization,134.2097,26.853
+horse231,Histogram Equalization + Median,192.1467,25.2945
+horse231,Contrast Stretching,333.0032,22.9063
+horse231,Contrast Stretching + Median,402.8769,22.0791
+horse231,CLAHE,632.151,20.1226
+horse231,CLAHE + Median,582.0912,20.4809
+horse232,Histogram Equalization,2023.2087,15.0704
+horse232,Histogram Equalization + Median,2028.6178,15.0588
+horse232,Contrast Stretching,320.5885,23.0713
+horse232,Contrast Stretching + Median,320.4724,23.0729
+horse232,CLAHE,419.4775,21.9037
+horse232,CLAHE + Median,403.3332,22.0742
+horse233,Histogram Equalization,1084.1475,17.7799
+horse233,Histogram Equalization + Median,1288.2305,17.0309
+horse233,Contrast Stretching,0.502,51.124
+horse233,Contrast Stretching + Median,224.7954,24.6129
+horse233,CLAHE,484.4051,21.2787
+horse233,CLAHE + Median,576.7582,20.5209
+horse234,Histogram Equalization,393.6466,22.1797
+horse234,Histogram Equalization + Median,676.567,19.8277
+horse234,Contrast Stretching,163.0223,26.0083
+horse234,Contrast Stretching + Median,466.5393,21.4419
+horse234,CLAHE,789.057,19.1597
+horse234,CLAHE + Median,857.2443,18.7998
+horse235,Histogram Equalization,1140.9281,17.5582
+horse235,Histogram Equalization + Median,1266.1332,17.106
+horse235,Contrast Stretching,366.594,22.489
+horse235,Contrast Stretching + Median,659.9583,19.9356
+horse235,CLAHE,635.6305,20.0988
+horse235,CLAHE + Median,783.5763,19.19
+horse236,Histogram Equalization,2885.3762,13.5288
+horse236,Histogram Equalization + Median,2904.2368,13.5005
+horse236,Contrast Stretching,1108.6835,17.6827
+horse236,Contrast Stretching + Median,1099.323,17.7196
+horse236,CLAHE,914.0125,18.5213
+horse236,CLAHE + Median,896.2289,18.6066
+horse237,Histogram Equalization,399.4422,22.1163
+horse237,Histogram Equalization + Median,496.2405,21.1739
+horse237,Contrast Stretching,221.907,24.6691
+horse237,Contrast Stretching + Median,312.1059,23.1878
+horse237,CLAHE,692.5236,19.7265
+horse237,CLAHE + Median,672.2408,19.8556
+horse238,Histogram Equalization,1531.667,16.2792
+horse238,Histogram Equalization + Median,1596.6752,16.0986
+horse238,Contrast Stretching,167.9041,25.8802
+horse238,Contrast Stretching + Median,213.0883,24.8452
+horse238,CLAHE,691.1311,19.7352
+horse238,CLAHE + Median,700.7052,19.6755
+horse239,Histogram Equalization,2170.8804,14.7644
+horse239,Histogram Equalization + Median,2291.6764,14.5293
+horse239,Contrast Stretching,38.4398,32.283
+horse239,Contrast Stretching + Median,121.6508,27.2797
+horse239,CLAHE,902.8249,18.5748
+horse239,CLAHE + Median,893.0492,18.622
+horse240,Histogram Equalization,1252.8701,17.1517
+horse240,Histogram Equalization + Median,1337.8204,16.8668
+horse240,Contrast Stretching,487.2602,21.2532
+horse240,Contrast Stretching + Median,584.0945,20.466
+horse240,CLAHE,337.3649,22.8498
+horse240,CLAHE + Median,365.1732,22.5058
+horse241,Histogram Equalization,2983.0435,13.3842
+horse241,Histogram Equalization + Median,2996.2534,13.365
+horse241,Contrast Stretching,1093.542,17.7424
+horse241,Contrast Stretching + Median,1078.8764,17.8011
+horse241,CLAHE,1007.2844,18.0993
+horse241,CLAHE + Median,958.9936,18.3126
+horse242,Histogram Equalization,434.9435,21.7465
+horse242,Histogram Equalization + Median,462.3662,21.4809
+horse242,Contrast Stretching,138.6773,26.7108
+horse242,Contrast Stretching + Median,172.8175,25.7549
+horse242,CLAHE,363.8586,22.5215
+horse242,CLAHE + Median,380.9225,22.3224
+horse243,Histogram Equalization,2482.1753,14.1825
+horse243,Histogram Equalization + Median,2470.509,14.2029
+horse243,Contrast Stretching,573.4677,20.5457
+horse243,Contrast Stretching + Median,558.9851,20.6568
+horse243,CLAHE,677.7068,19.8204
+horse243,CLAHE + Median,647.0044,20.0217
+horse244,Histogram Equalization,1537.6437,16.2622
+horse244,Histogram Equalization + Median,1534.7177,16.2705
+horse244,Contrast Stretching,400.7332,22.1023
+horse244,Contrast Stretching + Median,424.1561,21.8555
+horse244,CLAHE,957.2178,18.3207
+horse244,CLAHE + Median,918.849,18.4984
+horse245,Histogram Equalization,145.6914,26.4965
+horse245,Histogram Equalization + Median,339.2328,22.8258
+horse245,Contrast Stretching,36.9119,32.4591
+horse245,Contrast Stretching + Median,258.5622,24.0052
+horse245,CLAHE,783.6621,19.1895
+horse245,CLAHE + Median,818.0343,19.0031
+horse246,Histogram Equalization,501.088,21.1317
+horse246,Histogram Equalization + Median,823.9013,18.9721
+horse246,Contrast Stretching,209.5435,24.9181
+horse246,Contrast Stretching + Median,532.7367,20.8657
+horse246,CLAHE,1065.5697,17.855
+horse246,CLAHE + Median,1250.2009,17.161
+horse247,Histogram Equalization,2013.9563,15.0903
+horse247,Histogram Equalization + Median,2238.9506,14.6304
+horse247,Contrast Stretching,41.5549,31.9446
+horse247,Contrast Stretching + Median,379.7236,22.3361
+horse247,CLAHE,470.4975,21.4052
+horse247,CLAHE + Median,649.3934,20.0057
+horse248,Histogram Equalization,1085.7744,17.7734
+horse248,Histogram Equalization + Median,1468.7761,16.4612
+horse248,Contrast Stretching,390.9927,22.2091
+horse248,Contrast Stretching + Median,733.7287,19.4754
+horse248,CLAHE,896.1219,18.6071
+horse248,CLAHE + Median,1129.5626,17.6017
+horse249,Histogram Equalization,2007.2765,15.1047
+horse249,Histogram Equalization + Median,2136.2977,14.8342
+horse249,Contrast Stretching,118.6593,27.3878
+horse249,Contrast Stretching + Median,247.455,24.1958
+horse249,CLAHE,960.7001,18.3049
+horse249,CLAHE + Median,1014.7843,18.0671
+horse250,Histogram Equalization,812.4028,19.0331
+horse250,Histogram Equalization + Median,870.98,18.7307
+horse250,Contrast Stretching,553.4273,20.7002
+horse250,Contrast Stretching + Median,608.4565,20.2885
+horse250,CLAHE,444.2115,21.6549
+horse250,CLAHE + Median,427.4581,21.8219
+horse251,Histogram Equalization,1231.1745,17.2276
+horse251,Histogram Equalization + Median,1304.3905,16.9767
+horse251,Contrast Stretching,114.8996,27.5276
+horse251,Contrast Stretching + Median,161.5363,26.0481
+horse251,CLAHE,368.5378,22.466
+horse251,CLAHE + Median,356.6874,22.6079
+horse252,Histogram Equalization,332.8312,22.9086
+horse252,Histogram Equalization + Median,432.1753,21.7742
+horse252,Contrast Stretching,97.4196,28.2443
+horse252,Contrast Stretching + Median,200.2943,25.1141
+horse252,CLAHE,364.4162,22.5148
+horse252,CLAHE + Median,394.0488,22.1753
+horse253,Histogram Equalization,613.6485,20.2516
+horse253,Histogram Equalization + Median,991.4821,18.168
+horse253,Contrast Stretching,1.4676,46.4648
+horse253,Contrast Stretching + Median,390.3705,22.216
+horse253,CLAHE,719.8747,19.5582
+horse253,CLAHE + Median,982.2959,18.2084
+horse254,Histogram Equalization,4080.7264,12.0234
+horse254,Histogram Equalization + Median,4133.1573,11.968
+horse254,Contrast Stretching,764.9585,19.2944
+horse254,Contrast Stretching + Median,786.5591,19.1735
+horse254,CLAHE,1027.9643,18.011
+horse254,CLAHE + Median,1006.8023,18.1014
+horse255,Histogram Equalization,1033.485,17.9878
+horse255,Histogram Equalization + Median,1079.6242,17.7981
+horse255,Contrast Stretching,5.7887,40.505
+horse255,Contrast Stretching + Median,71.3795,29.5951
+horse255,CLAHE,986.6849,18.189
+horse255,CLAHE + Median,971.2549,18.2575
+horse256,Histogram Equalization,1575.2774,16.1572
+horse256,Histogram Equalization + Median,1578.7202,16.1478
+horse256,Contrast Stretching,2038.4206,15.0379
+horse256,Contrast Stretching + Median,2068.9013,14.9734
+horse256,CLAHE,828.876,18.9459
+horse256,CLAHE + Median,761.1839,19.3159
+horse257,Histogram Equalization,816.4322,19.0116
+horse257,Histogram Equalization + Median,873.6569,18.7174
+horse257,Contrast Stretching,79.9434,29.103
+horse257,Contrast Stretching + Median,133.2346,26.8846
+horse257,CLAHE,748.794,19.3872
+horse257,CLAHE + Median,736.8704,19.4569
+horse258,Histogram Equalization,188.1556,25.3856
+horse258,Histogram Equalization + Median,352.5459,22.6586
+horse258,Contrast Stretching,212.8951,24.8491
+horse258,Contrast Stretching + Median,377.5248,22.3613
+horse258,CLAHE,851.2914,18.83
+horse258,CLAHE + Median,898.9259,18.5936
+horse259,Histogram Equalization,1114.2426,17.661
+horse259,Histogram Equalization + Median,1194.583,17.3586
+horse259,Contrast Stretching,1692.6273,15.8452
+horse259,Contrast Stretching + Median,1794.8183,15.5906
+horse259,CLAHE,485.6875,21.2672
+horse259,CLAHE + Median,516.8374,20.9973
+horse260,Histogram Equalization,4908.9262,11.2209
+horse260,Histogram Equalization + Median,4868.5315,11.2568
+horse260,Contrast Stretching,154.6803,26.2365
+horse260,Contrast Stretching + Median,172.9213,25.7523
+horse260,CLAHE,1084.8186,17.7772
+horse260,CLAHE + Median,1012.9772,18.0748
+horse261,Histogram Equalization,1890.3396,15.3654
+horse261,Histogram Equalization + Median,1979.658,15.1649
+horse261,Contrast Stretching,0.9339,48.4279
+horse261,Contrast Stretching + Median,133.6847,26.87
+horse261,CLAHE,674.6854,19.8398
+horse261,CLAHE + Median,686.3404,19.7654
+horse262,Histogram Equalization,1567.3967,16.179
+horse262,Histogram Equalization + Median,1639.6252,15.9834
+horse262,Contrast Stretching,1108.7956,17.6823
+horse262,Contrast Stretching + Median,1256.08,17.1406
+horse262,CLAHE,604.5044,20.3168
+horse262,CLAHE + Median,632.112,20.1229
+horse263,Histogram Equalization,1057.8564,17.8865
+horse263,Histogram Equalization + Median,1123.4988,17.6251
+horse263,Contrast Stretching,210.843,24.8912
+horse263,Contrast Stretching + Median,261.936,23.9489
+horse263,CLAHE,323.3555,23.034
+horse263,CLAHE + Median,325.4775,23.0056
+horse264,Histogram Equalization,971.7998,18.255
+horse264,Histogram Equalization + Median,983.7158,18.2021
+horse264,Contrast Stretching,184.2879,25.4758
+horse264,Contrast Stretching + Median,184.9443,25.4604
+horse264,CLAHE,328.8986,22.9602
+horse264,CLAHE + Median,309.7396,23.2208
+horse265,Histogram Equalization,236.3414,24.3954
+horse265,Histogram Equalization + Median,375.716,22.3822
+horse265,Contrast Stretching,196.7629,25.1914
+horse265,Contrast Stretching + Median,345.0384,22.7521
+horse265,CLAHE,537.7786,20.8248
+horse265,CLAHE + Median,569.5183,20.5757
+horse266,Histogram Equalization,1965.4212,15.1962
+horse266,Histogram Equalization + Median,2117.8122,14.8719
+horse266,Contrast Stretching,7.2814,39.5086
+horse266,Contrast Stretching + Median,173.8748,25.7284
+horse266,CLAHE,499.9471,21.1416
+horse266,CLAHE + Median,558.3201,20.662
+horse267,Histogram Equalization,1502.0092,16.3641
+horse267,Histogram Equalization + Median,1610.459,16.0613
+horse267,Contrast Stretching,19.0854,35.3238
+horse267,Contrast Stretching + Median,98.7198,28.1868
+horse267,CLAHE,870.4797,18.7332
+horse267,CLAHE + Median,859.4915,18.7884
+horse268,Histogram Equalization,143.9468,26.5488
+horse268,Histogram Equalization + Median,273.8308,23.756
+horse268,Contrast Stretching,97.7424,28.23
+horse268,Contrast Stretching + Median,229.0617,24.5313
+horse268,CLAHE,502.2916,21.1212
+horse268,CLAHE + Median,539.433,20.8114
+horse269,Histogram Equalization,589.5892,20.4253
+horse269,Histogram Equalization + Median,1137.6843,17.5706
+horse269,Contrast Stretching,6.2661,40.1608
+horse269,Contrast Stretching + Median,560.0292,20.6487
+horse269,CLAHE,1300.1982,16.9907
+horse269,CLAHE + Median,1694.7782,15.8397
+horse270,Histogram Equalization,1538.5511,16.2597
+horse270,Histogram Equalization + Median,1960.7773,15.2065
+horse270,Contrast Stretching,503.6037,21.1099
+horse270,Contrast Stretching + Median,968.9132,18.268
+horse270,CLAHE,870.7269,18.732
+horse270,CLAHE + Median,1160.2805,17.4852
+horse271,Histogram Equalization,1373.6554,16.752
+horse271,Histogram Equalization + Median,1425.5128,16.5911
+horse271,Contrast Stretching,858.3879,18.794
+horse271,Contrast Stretching + Median,982.4615,18.2076
+horse271,CLAHE,837.1708,18.9027
+horse271,CLAHE + Median,831.8508,18.9303
+horse272,Histogram Equalization,818.495,19.0006
+horse272,Histogram Equalization + Median,820.0344,18.9925
+horse272,Contrast Stretching,88.2308,28.6746
+horse272,Contrast Stretching + Median,165.8235,25.9343
+horse272,CLAHE,854.751,18.8124
+horse272,CLAHE + Median,778.4308,19.2186
+horse273,Histogram Equalization,714.257,19.5923
+horse273,Histogram Equalization + Median,873.0326,18.7205
+horse273,Contrast Stretching,136.31,26.7855
+horse273,Contrast Stretching + Median,301.7666,23.3341
+horse273,CLAHE,371.8308,22.4273
+horse273,CLAHE + Median,475.2314,21.3618
+horse274,Histogram Equalization,1257.0279,17.1374
+horse274,Histogram Equalization + Median,1334.8771,16.8764
+horse274,Contrast Stretching,523.8136,20.939
+horse274,Contrast Stretching + Median,614.7616,20.2437
+horse274,CLAHE,343.5198,22.7713
+horse274,CLAHE + Median,367.6604,22.4763
+horse275,Histogram Equalization,2748.4459,13.7399
+horse275,Histogram Equalization + Median,2586.1362,14.0043
+horse275,Contrast Stretching,1148.8045,17.5283
+horse275,Contrast Stretching + Median,1110.9766,17.6738
+horse275,CLAHE,1019.152,18.0484
+horse275,CLAHE + Median,933.4336,18.43
+horse276,Histogram Equalization,1359.9199,16.7957
+horse276,Histogram Equalization + Median,1446.7437,16.5269
+horse276,Contrast Stretching,279.9056,23.6607
+horse276,Contrast Stretching + Median,371.0486,22.4365
+horse276,CLAHE,1095.3308,17.7354
+horse276,CLAHE + Median,1083.6446,17.7819
+horse277,Histogram Equalization,195.7404,25.214
+horse277,Histogram Equalization + Median,720.5954,19.5539
+horse277,Contrast Stretching,32.0077,33.0783
+horse277,Contrast Stretching + Median,556.4468,20.6766
+horse277,CLAHE,812.2051,19.0341
+horse277,CLAHE + Median,1169.8974,17.4493
+horse278,Histogram Equalization,134.1537,26.8548
+horse278,Histogram Equalization + Median,376.928,22.3682
+horse278,Contrast Stretching,137.8605,26.7364
+horse278,Contrast Stretching + Median,389.5065,22.2257
+horse278,CLAHE,854.524,18.8136
+horse278,CLAHE + Median,959.1055,18.3121
+horse279,Histogram Equalization,1356.6311,16.8062
+horse279,Histogram Equalization + Median,1758.9976,15.6782
+horse279,Contrast Stretching,23.3115,34.4551
+horse279,Contrast Stretching + Median,528.4595,20.9007
+horse279,CLAHE,526.269,20.9187
+horse279,CLAHE + Median,879.4521,18.6887
+horse280,Histogram Equalization,1257.0282,17.1374
+horse280,Histogram Equalization + Median,1483.0363,16.4193
+horse280,Contrast Stretching,488.9626,21.238
+horse280,Contrast Stretching + Median,694.4501,19.7144
+horse280,CLAHE,831.7642,18.9308
+horse280,CLAHE + Median,945.4562,18.3744
+horse281,Histogram Equalization,2529.7767,14.1
+horse281,Histogram Equalization + Median,2353.8643,14.413
+horse281,Contrast Stretching,2586.3669,14.0039
+horse281,Contrast Stretching + Median,2529.0048,14.1013
+horse281,CLAHE,303.4337,23.3102
+horse281,CLAHE + Median,250.8055,24.1374
+horse282,Histogram Equalization,1462.6182,16.4795
+horse282,Histogram Equalization + Median,1527.2705,16.2916
+horse282,Contrast Stretching,89.6356,28.606
+horse282,Contrast Stretching + Median,201.8275,25.081
+horse282,CLAHE,928.2797,18.454
+horse282,CLAHE + Median,912.1055,18.5304
+horse283,Histogram Equalization,625.6511,20.1675
+horse283,Histogram Equalization + Median,658.7653,19.9435
+horse283,Contrast Stretching,291.8932,23.4786
+horse283,Contrast Stretching + Median,323.2387,23.0356
+horse283,CLAHE,816.174,19.013
+horse283,CLAHE + Median,766.4254,19.2861
+horse284,Histogram Equalization,772.0421,19.2544
+horse284,Histogram Equalization + Median,927.1628,18.4592
+horse284,Contrast Stretching,4.1736,41.9257
+horse284,Contrast Stretching + Median,185.017,25.4587
+horse284,CLAHE,842.2715,18.8763
+horse284,CLAHE + Median,861.4214,18.7786
+horse285,Histogram Equalization,1301.7004,16.9857
+horse285,Histogram Equalization + Median,1268.1961,17.0989
+horse285,Contrast Stretching,1355.5152,16.8098
+horse285,Contrast Stretching + Median,1356.9819,16.8051
+horse285,CLAHE,855.8191,18.807
+horse285,CLAHE + Median,789.463,19.1575
+horse286,Histogram Equalization,1443.692,16.5361
+horse286,Histogram Equalization + Median,1476.7367,16.4378
+horse286,Contrast Stretching,249.5211,24.1597
+horse286,Contrast Stretching + Median,333.8178,22.8957
+horse286,CLAHE,463.7188,21.4683
+horse286,CLAHE + Median,415.0712,21.9496
+horse287,Histogram Equalization,741.8539,19.4276
+horse287,Histogram Equalization + Median,1085.8861,17.773
+horse287,Contrast Stretching,317.5241,23.113
+horse287,Contrast Stretching + Median,734.4173,19.4714
+horse287,CLAHE,662.9626,19.9159
+horse287,CLAHE + Median,903.5845,18.5711
+horse288,Histogram Equalization,3198.8807,13.0808
+horse288,Histogram Equalization + Median,3318.1435,12.9219
+horse288,Contrast Stretching,25.1112,34.1321
+horse288,Contrast Stretching + Median,156.378,26.189
+horse288,CLAHE,318.4705,23.1001
+horse288,CLAHE + Median,425.4001,21.8428
+horse289,Histogram Equalization,649.0277,20.0082
+horse289,Histogram Equalization + Median,717.3775,19.5733
+horse289,Contrast Stretching,260.8169,23.9674
+horse289,Contrast Stretching + Median,353.4312,22.6478
+horse289,CLAHE,619.3052,20.2118
+horse289,CLAHE + Median,597.3876,20.3682
+horse290,Histogram Equalization,1753.3245,15.6922
+horse290,Histogram Equalization + Median,1871.4459,15.409
+horse290,Contrast Stretching,61.2161,30.2622
+horse290,Contrast Stretching + Median,260.3451,23.9753
+horse290,CLAHE,1348.7111,16.8316
+horse290,CLAHE + Median,1351.207,16.8236
+horse291,Histogram Equalization,1675.1186,15.8903
+horse291,Histogram Equalization + Median,1729.2627,15.7522
+horse291,Contrast Stretching,413.3933,21.9672
+horse291,Contrast Stretching + Median,445.4174,21.6431
+horse291,CLAHE,803.0943,19.0831
+horse291,CLAHE + Median,771.9021,19.2552
+horse292,Histogram Equalization,1487.3009,16.4068
+horse292,Histogram Equalization + Median,1650.4803,15.9547
+horse292,Contrast Stretching,738.0424,19.45
+horse292,Contrast Stretching + Median,923.3048,18.4774
+horse292,CLAHE,489.4071,21.2341
+horse292,CLAHE + Median,564.8218,20.6117
+horse293,Histogram Equalization,807.1257,19.0614
+horse293,Histogram Equalization + Median,1305.0252,16.9746
+horse293,Contrast Stretching,177.7566,25.6325
+horse293,Contrast Stretching + Median,646.0899,20.0279
+horse293,CLAHE,579.6782,20.4989
+horse293,CLAHE + Median,893.6829,18.619
+horse294,Histogram Equalization,469.667,21.4129
+horse294,Histogram Equalization + Median,810.1636,19.0451
+horse294,Contrast Stretching,179.6284,25.5871
+horse294,Contrast Stretching + Median,520.9742,20.9626
+horse294,CLAHE,1054.8955,17.8987
+horse294,CLAHE + Median,1251.1893,17.1576
+horse295,Histogram Equalization,1281.4903,17.0537
+horse295,Histogram Equalization + Median,1267.3505,17.1018
+horse295,Contrast Stretching,278.9354,23.6758
+horse295,Contrast Stretching + Median,277.5583,23.6973
+horse295,CLAHE,865.7672,18.7568
+horse295,CLAHE + Median,843.7963,18.8684
+horse296,Histogram Equalization,5481.9997,10.7414
+horse296,Histogram Equalization + Median,5474.9983,10.747
+horse296,Contrast Stretching,179.5463,25.589
+horse296,Contrast Stretching + Median,207.1093,24.9688
+horse296,CLAHE,549.6499,20.7299
+horse296,CLAHE + Median,527.2898,20.9103
+horse297,Histogram Equalization,303.7368,23.3058
+horse297,Histogram Equalization + Median,352.7031,22.6567
+horse297,Contrast Stretching,126.9925,27.093
+horse297,Contrast Stretching + Median,182.1511,25.5265
+horse297,CLAHE,910.6513,18.5373
+horse297,CLAHE + Median,909.0356,18.545
+horse298,Histogram Equalization,111.2763,27.6668
+horse298,Histogram Equalization + Median,268.0833,23.8481
+horse298,Contrast Stretching,284.6522,23.5877
+horse298,Contrast Stretching + Median,447.0421,21.6273
+horse298,CLAHE,715.8342,19.5827
+horse298,CLAHE + Median,747.5496,19.3944
+horse299,Histogram Equalization,1513.3815,16.3313
+horse299,Histogram Equalization + Median,1629.9588,16.009
+horse299,Contrast Stretching,53.3352,30.8607
+horse299,Contrast Stretching + Median,167.2569,25.897
+horse299,CLAHE,446.3305,21.6342
+horse299,CLAHE + Median,510.0429,21.0547
+horse300,Histogram Equalization,284.4982,23.59
+horse300,Histogram Equalization + Median,294.0114,23.4472
+horse300,Contrast Stretching,46.0613,31.4974
+horse300,Contrast Stretching + Median,53.1633,30.8747
+horse300,CLAHE,904.542,18.5665
+horse300,CLAHE + Median,881.6353,18.6779
+horse301,Histogram Equalization,82.8856,28.946
+horse301,Histogram Equalization + Median,85.9921,28.7862
+horse301,Contrast Stretching,267.7579,23.8534
+horse301,Contrast Stretching + Median,273.9493,23.7541
+horse301,CLAHE,431.619,21.7798
+horse301,CLAHE + Median,414.3152,21.9575
+horse302,Histogram Equalization,1573.3741,16.1625
+horse302,Histogram Equalization + Median,1932.2689,15.2701
+horse302,Contrast Stretching,54.5132,30.7658
+horse302,Contrast Stretching + Median,424.5065,21.852
+horse302,CLAHE,753.1476,19.362
+horse302,CLAHE + Median,971.1243,18.2581
+horse303,Histogram Equalization,1605.479,16.0748
+horse303,Histogram Equalization + Median,1589.4558,16.1183
+horse303,Contrast Stretching,46.1628,31.4879
+horse303,Contrast Stretching + Median,55.5621,30.683
+horse303,CLAHE,684.7568,19.7754
+horse303,CLAHE + Median,644.5162,20.0385
+horse304,Histogram Equalization,1085.6594,17.7739
+horse304,Histogram Equalization + Median,1082.2266,17.7876
+horse304,Contrast Stretching,729.7557,19.499
+horse304,Contrast Stretching + Median,732.6669,19.4817
+horse304,CLAHE,1119.4851,17.6406
+horse304,CLAHE + Median,1072.3105,17.8276
+horse305,Histogram Equalization,248.7272,24.1736
+horse305,Histogram Equalization + Median,430.9341,21.7867
+horse305,Contrast Stretching,292.6088,23.4679
+horse305,Contrast Stretching + Median,483.1476,21.29
+horse305,CLAHE,646.0734,20.028
+horse305,CLAHE + Median,746.5456,19.4002
+horse306,Histogram Equalization,991.9973,18.1657
+horse306,Histogram Equalization + Median,1634.8263,15.9961
+horse306,Contrast Stretching,25.8165,34.0118
+horse306,Contrast Stretching + Median,737.892,19.4509
+horse306,CLAHE,986.5479,18.1896
+horse306,CLAHE + Median,1486.8048,16.4083
+horse307,Histogram Equalization,1367.0148,16.7731
+horse307,Histogram Equalization + Median,1441.6047,16.5423
+horse307,Contrast Stretching,75.9934,29.323
+horse307,Contrast Stretching + Median,251.5548,24.1245
+horse307,CLAHE,935.6171,18.4198
+horse307,CLAHE + Median,901.9837,18.5788
+horse308,Histogram Equalization,1037.4035,17.9713
+horse308,Histogram Equalization + Median,1052.0528,17.9104
+horse308,Contrast Stretching,88.8521,28.6441
+horse308,Contrast Stretching + Median,131.3869,26.9453
+horse308,CLAHE,724.9052,19.528
+horse308,CLAHE + Median,696.8374,19.6995
+horse309,Histogram Equalization,800.2243,19.0987
+horse309,Histogram Equalization + Median,810.6191,19.0426
+horse309,Contrast Stretching,78.8512,29.1627
+horse309,Contrast Stretching + Median,97.5203,28.2399
+horse309,CLAHE,787.9912,19.1656
+horse309,CLAHE + Median,749.7522,19.3816
+horse310,Histogram Equalization,1820.7646,15.5283
+horse310,Histogram Equalization + Median,2140.6656,14.8253
+horse310,Contrast Stretching,14.363,36.5584
+horse310,Contrast Stretching + Median,458.4236,21.5181
+horse310,CLAHE,681.9427,19.7933
+horse310,CLAHE + Median,893.8371,18.6182
+horse311,Histogram Equalization,2247.8597,14.6131
+horse311,Histogram Equalization + Median,2203.7654,14.6991
+horse311,Contrast Stretching,1158.6391,17.4913
+horse311,Contrast Stretching + Median,1185.8758,17.3904
+horse311,CLAHE,697.3143,19.6965
+horse311,CLAHE + Median,643.9683,20.0422
+horse312,Histogram Equalization,3927.7007,12.1894
+horse312,Histogram Equalization + Median,3932.2987,12.1843
+horse312,Contrast Stretching,1518.5745,16.3164
+horse312,Contrast Stretching + Median,1517.4978,16.3195
+horse312,CLAHE,504.6632,21.1008
+horse312,CLAHE + Median,489.8192,21.2304
+horse313,Histogram Equalization,654.0163,19.9749
+horse313,Histogram Equalization + Median,681.3664,19.797
+horse313,Contrast Stretching,15.5471,36.2143
+horse313,Contrast Stretching + Median,29.8441,33.3822
+horse313,CLAHE,695.9149,19.7052
+horse313,CLAHE + Median,681.2244,19.7979
+horse314,Histogram Equalization,2378.9789,14.3669
+horse314,Histogram Equalization + Median,2580.7768,14.0133
+horse314,Contrast Stretching,17.8999,35.6023
+horse314,Contrast Stretching + Median,186.9443,25.4137
+horse314,CLAHE,390.9951,22.2091
+horse314,CLAHE + Median,455.2578,21.5482
+horse315,Histogram Equalization,275.6141,23.7278
+horse315,Histogram Equalization + Median,433.1159,21.7648
+horse315,Contrast Stretching,72.3316,29.5375
+horse315,Contrast Stretching + Median,224.9092,24.6107
+horse315,CLAHE,725.7909,19.5227
+horse315,CLAHE + Median,722.5728,19.542
+horse316,Histogram Equalization,915.312,18.5151
+horse316,Histogram Equalization + Median,1172.2929,17.4404
+horse316,Contrast Stretching,82.991,28.9405
+horse316,Contrast Stretching + Median,369.7603,22.4516
+horse316,CLAHE,630.7726,20.1321
+horse316,CLAHE + Median,782.9161,19.1937
+horse317,Histogram Equalization,195.3886,25.2218
+horse317,Histogram Equalization + Median,245.8406,24.2243
+horse317,Contrast Stretching,660.5857,19.9315
+horse317,Contrast Stretching + Median,726.3111,19.5196
+horse317,CLAHE,468.8381,21.4206
+horse317,CLAHE + Median,459.7009,21.5061
+horse318,Histogram Equalization,584.3705,20.4639
+horse318,Histogram Equalization + Median,648.0271,20.0149
+horse318,Contrast Stretching,29.815,33.3865
+horse318,Contrast Stretching + Median,88.4596,28.6634
+horse318,CLAHE,755.6476,19.3476
+horse318,CLAHE + Median,723.5939,19.5359
+horse319,Histogram Equalization,2563.6865,14.0422
+horse319,Histogram Equalization + Median,2729.9356,13.7693
+horse319,Contrast Stretching,42.1688,31.8809
+horse319,Contrast Stretching + Median,144.3814,26.5357
+horse319,CLAHE,797.6313,19.1128
+horse319,CLAHE + Median,796.2854,19.1201
+horse320,Histogram Equalization,1125.6046,17.6169
+horse320,Histogram Equalization + Median,1147.3771,17.5337
+horse320,Contrast Stretching,83.0271,28.9386
+horse320,Contrast Stretching + Median,100.441,28.1117
+horse320,CLAHE,366.1517,22.4942
+horse320,CLAHE + Median,351.6352,22.6699
+horse321,Histogram Equalization,3612.1259,12.5532
+horse321,Histogram Equalization + Median,3760.4437,12.3784
+horse321,Contrast Stretching,354.1992,22.6383
+horse321,Contrast Stretching + Median,397.0506,22.1423
+horse321,CLAHE,186.2357,25.4302
+horse321,CLAHE + Median,225.527,24.5988
+horse322,Histogram Equalization,1895.4991,15.3536
+horse322,Histogram Equalization + Median,2008.7582,15.1015
+horse322,Contrast Stretching,124.1721,27.1906
+horse322,Contrast Stretching + Median,175.6986,25.6831
+horse322,CLAHE,397.5914,22.1364
+horse322,CLAHE + Median,398.6526,22.1249
+horse323,Histogram Equalization,1413.5972,16.6275
+horse323,Histogram Equalization + Median,1480.677,16.4262
+horse323,Contrast Stretching,24.4622,34.2459
+horse323,Contrast Stretching + Median,115.8873,27.4904
+horse323,CLAHE,774.6749,19.2396
+horse323,CLAHE + Median,792.0644,19.1432
+horse324,Histogram Equalization,147.9041,26.431
+horse324,Histogram Equalization + Median,270.3257,23.8119
+horse324,Contrast Stretching,16.6998,35.9037
+horse324,Contrast Stretching + Median,145.9303,26.4893
+horse324,CLAHE,390.6924,22.2125
+horse324,CLAHE + Median,430.1907,21.7942
+horse325,Histogram Equalization,3448.1766,12.7549
+horse325,Histogram Equalization + Median,3437.5554,12.7683
+horse325,Contrast Stretching,63.6439,30.0932
+horse325,Contrast Stretching + Median,101.0329,28.0862
+horse325,CLAHE,1874.4169,15.4021
+horse325,CLAHE + Median,1797.9408,15.583
+horse326,Histogram Equalization,145.5892,26.4995
+horse326,Histogram Equalization + Median,169.4914,25.8393
+horse326,Contrast Stretching,152.6739,26.2932
+horse326,Contrast Stretching + Median,176.8137,25.6556
+horse326,CLAHE,416.2419,21.9373
+horse326,CLAHE + Median,400.1522,22.1086
+horse327,Histogram Equalization,2117.754,14.872
+horse327,Histogram Equalization + Median,2251.9663,14.6052
+horse327,Contrast Stretching,609.9642,20.2778
+horse327,Contrast Stretching + Median,707.0759,19.6361
+horse327,CLAHE,862.4006,18.7737
+horse327,CLAHE + Median,848.6559,18.8435
